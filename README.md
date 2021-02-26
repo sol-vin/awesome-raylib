@@ -173,6 +173,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Tutorials
 
+- [Learn X in Y minutes, Where X=raylib](https://learnxinyminutes.com/docs/raylib)
 - [Raylib 2.0 Tutorial Series by SkyVaultGames](https://www.youtube.com/playlist?list=PL5gRzHmN4Dg3ubcneVFkHPm0mTGYTUHDn)
 - [List of raylib tutorials by HE360](https://www.youtube.com/playlist?list=PLZBVMzyySalVhcWEJcnG-HK8OXQli_tcV)
 - [سلسلة تعلم برمجة الألعاب بسي شارب و جافا (Arabic, by Rabia Alhaffar)](https://www.youtube.com/playlist?list=PLZBVMzyySalXG0AdUHJj9rcpd0R7hBczR)
@@ -347,6 +348,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Articles
 
+- [deepsource.io - Spotlight: Ramon Santamaria](https://deepsource.io/spotlight/ramon-santamaria)
+- [Simple PHP Game in PHP using Raylib: Snake (with source code)](https://thephp.website/en/issue/games-with-php)
+- [Compiling Raylib programs with SCons](http://ciesie.com/post/building_raylib_with_scons)
 - [raylib game coding library for C](http://bedroomcoders.co.uk/raylib-game-coding-library-for-c)
 - [raylib novices guide for creating a simple game](http://bedroomcoders.co.uk/raylib-a-novices-guide-for-creating-a-simple-game)
 - [Creating a simple game (part 2)](http://bedroomcoders.co.uk/creating-a-simple-game-part-2)
