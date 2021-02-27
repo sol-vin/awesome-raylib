@@ -407,7 +407,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Particle System using RayLib | C++ GameDev | C++ Particle System](https://www.youtube.com/watch?v=j5dVx0LTtAs)
 - [CRT scan line retro shader with RayLib](https://www.youtube.com/watch?v=Custpsdpgj4)
 - [Using RayLib on a 32x32 "screen"](https://www.youtube.com/watch?v=DxbikNW6zN4)
-- [LIVE : Raylib, une lib C / C++ idéale pour débuter ?](https://www.youtube.com/watch?v=PZi-Z9XyJo8)
+- [LIVE : Raylib, une lib C / C++ idéale pour débuter ?](https://www.youtube.com/watch?v=PZi-Z9XyJo8) (French)
 - [C++ | BubbleSort with RayLib 2.6 Speed Coding](https://www.youtube.com/watch?v=T-pNv6BewC8)
 - [FPS game written in C](https://www.youtube.com/watch?v=xE1MG1-Yh6s)
 - [Raylib Voronoi Map Generation](https://www.youtube.com/watch?v=HTZFXYpu-G0)
