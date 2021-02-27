@@ -194,6 +194,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Community Examples
 
+- [GoldenThumbs/raylibShadowmap](https://github.com/GoldenThumbs/raylibShadowmap), Shadowmapping with raylib!
 - [Lightnet/raylibvscodeexample](https://github.com/Lightnet/raylibvscodeexample), VSCode project sample for raylib.
 - [jpike/RayWorld3D](https://github.com/jpike/RayWorld3D), Playing around with raylib's 3D stuff.
 - [AliElSaleh/Cosmic-Hell](https://github.com/AliElSaleh/Cosmic-Hell), AIE Holiday Coding Challenge. A Bullet-Hell game that implements flocking in C/C++ using the raylib framework.
