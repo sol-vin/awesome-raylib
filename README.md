@@ -157,6 +157,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [randevlper/rayoflight](https://github.com/randevlper/rayoflight), 2D Engine implementing Box2D and raylib.
 - [notsnail/v2](https://github.com/notsnail/v2), Framework for games built with raylib.
 - [erikerlandson/ray-ubi](https://github.com/erikerlandson/ray-ubi), Minimalist Ray distributed computing container image, based on Red Hat UBI.
+- [Demizdor/particle_editor](https://github.com/Demizdor/particle_editor), Experimental particle editor!
 
 ### Deprecated/Removed/Unknown bindings
 
