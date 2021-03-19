@@ -77,7 +77,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [EMoore13/Animator-For-Raylib-CS](https://github.com/EMoore13/Animator-For-Raylib-CS), Modified version of AliElSaleh's Animator-For-Raylib made to work with the raylib-cs nuget package, Written in C#.
 - [AliElSaleh/Animator-For-Raylib](https://github.com/AliElSaleh/Animator-For-Raylib), C/C++ Animator lib.
 - [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI), Just a simple UI using raylib, Written in C#.
-- [Muzzle Engine](https://github.com/PikoStudios/Muzzle), A wrapper for Raylib made in C that gives additional functionality to the Raylib Framework
+- [PikoStudios/Muzzle Engine](https://github.com/PikoStudios/Muzzle), Wrapper for raylib made in C that gives additional functionality to raylib.
 
 ### Softwares
 
