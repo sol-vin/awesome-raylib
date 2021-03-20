@@ -162,6 +162,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Deprecated/Removed/Unknown bindings
 
+- [CreedVI/Raylib-J](https://github.com/CreedVI/Raylib-J), Rewrite of raylib for Java using LWJGL3.
 - [DevJac/rust_raylib_bindings](https://github.com/DevJac/rust_raylib_bindings), Another rust bindings for raylib.
 - [SliverLIVE/Raylib-for-GLBasic](https://github.com/SliverLIVE/Raylib-for-GLBasic), WIP raylib port/bindings for [GLBasic](https://www.glbasic.com).
 - [apahl/raylib-swift](https://github.com/apahl/raylib-swift), Helpers for using the raylib C library in Swift.
@@ -391,6 +392,15 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Videos
 
+- [Pangea Demo - Editing Heightmaps With Raylib](https://www.youtube.com/watch?v=fWWUG9VMoQw)
+- [raylib on Mobian PinePhone](https://www.youtube.com/watch?v=Vi4TXnrnExo)
+- [Coding a Synthesizer in C (episode #1)](https://www.youtube.com/watch?v=p1VQuMziTek)
+- [Coding a Synthesizer in C (episode #2)](https://www.youtube.com/watch?v=jZSnH33Vkh4)
+- [Coding a Synthesizer in C (episode #3)](https://www.youtube.com/watch?v=WXoyF5jYujE)
+- [Coding a Synthesizer in C (episode #4)](https://www.youtube.com/watch?v=SmKYWmQQmsk)
+- [Coding a Synthesizer in C (episode #5)](https://www.youtube.com/watch?v=fqUbYIhLTqw)
+- [How To Use Raylib With C++ And VSCode](https://www.youtube.com/watch?v=u6LXRF-iMg8)
+- [Digital Crafters #2 - Ramon Santamaria](https://www.youtube.com/watch?v=wnbJpdjAHg8)
 - [Interview with @imakefoss curator and Ramon Santamaria about raylib](https://www.youtube.com/watch?v=NM1gMvHwDwA)
 - [Official raylib 2.5 presentation](https://www.youtube.com/watch?v=78aa2wuiGmI)
 - [RayLib 3.5 Released -- C/C++ GameDev Easy Mode](https://www.youtube.com/watch?v=RZJ-Z--6uxY)
