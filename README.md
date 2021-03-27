@@ -159,6 +159,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [notsnail/v2](https://github.com/notsnail/v2), Framework for games built with raylib.
 - [erikerlandson/ray-ubi](https://github.com/erikerlandson/ray-ubi), Minimalist Ray distributed computing container image, based on Red Hat UBI.
 - [Demizdor/particle_editor](https://github.com/Demizdor/particle_editor), Experimental particle editor!
+- [gtrxAC/rlwm](https://github.com/gtrxAC/rlwm), Fake operating system/window manager.
 
 ### Deprecated/Removed/Unknown bindings
 
