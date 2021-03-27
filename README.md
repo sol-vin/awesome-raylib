@@ -197,6 +197,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Community Examples
 
+- [AcademyOfInteractiveEntertainment/AIEYear1Samples](https://github.com/AcademyOfInteractiveEntertainment/AIEYear1Samples), Sample and tutorial code for AIE's Diploma of Digital and Interactive Games.
 - [GoldenThumbs/raylibShadowmap](https://github.com/GoldenThumbs/raylibShadowmap), Shadowmapping with raylib!
 - [Lightnet/raylibvscodeexample](https://github.com/Lightnet/raylibvscodeexample), VSCode project sample for raylib.
 - [jpike/RayWorld3D](https://github.com/jpike/RayWorld3D), Playing around with raylib's 3D stuff.
