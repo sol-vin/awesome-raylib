@@ -489,7 +489,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 - raylib 5th anniversary
 
-[![raylib 5th anniversary](promos/banner8.png)](https://twitter.com/raysan5/status/1064139050704089089 "raylib 5th anniversary")
+[![raylib 5th anniversary](promos/banner8.jpg)](https://twitter.com/raysan5/status/1064139050704089089 "raylib 5th anniversary")
 
 - raylib 6th anniversary
 
