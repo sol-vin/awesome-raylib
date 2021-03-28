@@ -511,9 +511,13 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 [![raylib 1.8 is out!](promos/banner26.jpg)](https://twitter.com/raysan5/status/922373390039703552 "raylib 1.8 is out!")
 
-- raylib 2.0
+- raylib 2.0 #1
 
-[![raylib 2.0](promos/banner9.png)](https://twitter.com/raysan5/status/1020768415802380289 "raylib 2.0")
+[![raylib 2.0 #1](promos/banner9.png)](https://twitter.com/raysan5/status/1020768415802380289 "raylib 2.0 #1")
+
+- raylib 2.0 #2
+
+[![raylib 2.0 #2](promos/banner29.jpg)](https://twitter.com/raysan5/status/1015222845494956033 "raylib 2.0 #2")
 
 - raylib 2.5
 
