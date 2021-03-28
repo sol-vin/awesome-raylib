@@ -18,7 +18,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Templates](#templates)
 - [Articles](#articles)
 - [Videos](#videos)
-- [What raylib uses?](https://github.com/raysan5/raylib/wiki/raylib-dependencies.md)
+- [What raylib uses?](https://github.com/raysan5/raylib/wiki/raylib-dependencies)
 - [Promo Images](#promo-images)
 - [Logos](#logos)
 - [Stickers](#stickers)
