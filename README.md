@@ -670,8 +670,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 ### Logos
 
 [![raysan5/raylib](logos/raylib.png)](https://github.com/raysan5/raylib "raysan5/raylib")
-[![SasLuca/rayfork](logos/rayfork.png =256x256)](https://github.com/SasLuca/rayfork "SasLuca/rayfork")
-[![Rabios/rayport](logos/rayport.png =256x256)](https://github.com/Rabios/rayport "Rabios/rayport")
+[![SasLuca/rayfork](logos/rayfork.png = 256x256)](https://github.com/SasLuca/rayfork "SasLuca/rayfork")
+[![Rabios/rayport](logos/rayport.png = 256x256)](https://github.com/Rabios/rayport "Rabios/rayport")
 [![RobLoach/raylib-cpp](logos/raylib-cpp.png)](https://github.com/robloach/raylib-cpp "RobLoach/raylib-cpp")
 [![ChrisDill/Raylib-cs](logos/raylib-cs.png)](https://github.com/ChrisDill/Raylib-cs "ChrisDill/Raylib-cs")
 [![Rabios/raylib-boo](logos/raylib-boo.png)](https://github.com/Rabios/raylib-boo "Rabios/raylib-boo")
