@@ -711,7 +711,12 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Stickers
 
+- Mobile
+
 [![raylib mobile sticker](promos/banner56.jpg)](https://twitter.com/raysan5/status/1233460424114364418)
+
+- Bag
+
 [![raylib bag sticker](promos/banner24.jpg)](https://twitter.com/raysan5/status/1121527359801262094)
 
 ### Resources and Links
