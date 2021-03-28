@@ -463,213 +463,213 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Promo Images
 
-- Overview
+- [Overview](https://github.com/raysan5/raylib)
 
-[![raylib overview](promos/banner13.png)](https://github.com/raysan5/raylib "raylib overview")
+![raylib overview](promos/banner13.png)
 
-- Overview (Wide)
+- [Overview (Wide)](https://github.com/raysan5/raylib)
 
-[![raylib overview (wide)](promos/banner7.png)](https://github.com/raysan5/raylib "raylib overview (wide)")
+![raylib overview (wide)](promos/banner7.png)
 
-- Last 6 years of raylib
+- [Last 6 years of raylib](https://twitter.com/raysan5/status/1174631716734013440)
 
-[![last 6 years of raylib](promos/banner0.png)](https://twitter.com/raysan5/status/1174631716734013440 "last 6 years of raylib")
+![last 6 years of raylib](promos/banner0.png)
 
-- Game development is about to explode!
+- [Game development is about to explode!](https://twitter.com/raysan5/status/1083782102653587456)
 
-[![raylib gamedev is about to explode](promos/banner10.png)](https://twitter.com/raysan5/status/1083782102653587456 "raylib game dev is about to explode!")
+![raylib gamedev is about to explode](promos/banner10.png)
 
-- raylib 2.5 architecture
+- [raylib 2.5 architecture](https://twitter.com/raysan5/status/1141349399316115458)
 
-[![raylib 2.5 architecture](promos/banner45.png)](https://twitter.com/raysan5/status/1141349399316115458 "raylib 2.5 architecture")
+![raylib 2.5 architecture](promos/banner45.png)
 
-- Current raylib architecture
+- [Current raylib architecture](https://github.com/raysan5/raylib/wiki/raylib-architecture)
 
-[![raylib architecture](promos/banner1.png)](https://github.com/raysan5/raylib/wiki/raylib-architecture "raylib architecture")
+![raylib architecture](promos/banner1.png)
 
-- raylib 5th anniversary
+- [raylib 5th anniversary](https://twitter.com/raysan5/status/1064139050704089089)
 
-[![raylib 5th anniversary](promos/banner8.jpg)](https://twitter.com/raysan5/status/1064139050704089089 "raylib 5th anniversary")
+![raylib 5th anniversary](promos/banner8.jpg)
 
-- raylib 6th anniversary
+- [raylib 6th anniversary](https://twitter.com/raysan5/status/1190963229171814401)
 
-[![raylib 6th anniversary](promos/banner2.png)](https://twitter.com/raysan5/status/1190963229171814401 "raylib 6th anniversary")
+![raylib 6th anniversary](promos/banner2.png)
 
-- 6 years of fun
+- [6 years of fun](https://gist.github.com/raysan5/04a2daf02aa2a6e79010331f77bf983f)
 
-[![raylib 6 years of fun](promos/banner4.png)](https://gist.github.com/raysan5/04a2daf02aa2a6e79010331f77bf983f "raylib 6 years of fun")
+![raylib 6 years of fun](promos/banner4.png)
 
-- raylib 1.5
+- [raylib 1.5](https://twitter.com/raysan5/status/755364768052019200)
 
-[![raylib 1.5 is ready](promos/banner25.jpg)](https://twitter.com/raysan5/status/755364768052019200 "raylib 1.5 is ready!")
+![raylib 1.5 is ready](promos/banner25.jpg)
 
-- raylib 1.7
+- [raylib 1.7](https://twitter.com/raysan5/status/865513349450129408)
 
-[![raylib 1.7](promos/banner31.jpg)](https://twitter.com/raysan5/status/865513349450129408 "raylib 1.7")
+![raylib 1.7](promos/banner31.jpg)
 
-- raylib 1.8
+- [raylib 1.8](https://twitter.com/raysan5/status/922373390039703552)
 
-[![raylib 1.8 is out!](promos/banner26.jpg)](https://twitter.com/raysan5/status/922373390039703552 "raylib 1.8 is out!")
+![raylib 1.8 is out!](promos/banner26.jpg)
 
-- raylib 2.0 #1
+- [raylib 2.0 #1](https://twitter.com/raysan5/status/1020768415802380289)
 
-[![raylib 2.0 #1](promos/banner9.png)](https://twitter.com/raysan5/status/1020768415802380289 "raylib 2.0 #1")
+![raylib 2.0 #1](promos/banner9.png)
 
-- raylib 2.0 #2
+- [raylib 2.0 #2](https://twitter.com/raysan5/status/1015222845494956033)
 
-[![raylib 2.0 #2](promos/banner29.jpg)](https://twitter.com/raysan5/status/1015222845494956033 "raylib 2.0 #2")
+![raylib 2.0 #2](promos/banner29.jpg)
 
-- raylib 2.5
+- [raylib 2.5](https://twitter.com/raysan5/status/1134429674472452097)
 
-[![raylib 2.5](promos/banner33.png)](https://twitter.com/raysan5/status/1134429674472452097 "raylib 2.5")
+![raylib 2.5](promos/banner33.png)
 
-- raylib 3.0
+- [raylib 3.0](https://twitter.com/raysan5/status/1245314287037530112)
 
-[![raylib 3.0](promos/banner6.png)](https://twitter.com/raysan5/status/1245314287037530112 "raylib 3.0")
+![raylib 3.0](promos/banner6.png)
 
-- raylib 3.5
+- [raylib 3.5](https://twitter.com/raysan5/status/1319036064804331521)
 
-[![raylib 3.5](promos/banner5.png)](https://twitter.com/raysan5/status/1319036064804331521 "raylib 3.5")
+![raylib 3.5](promos/banner5.png)
 
-- raylib receives an Epic MegaGrant
+- [raylib receives an Epic MegaGrant](https://twitter.com/raysan5/status/1291690021221736450)
 
-[![raylib received epic megagrant](promos/banner3.png)](https://twitter.com/raysan5/status/1291690021221736450 "raylib received epic megagrant")
+![raylib received epic megagrant](promos/banner3.png)
 
-- raygui
+- [raygui](https://github.com/raysan5/raygui)
 
-[![raygui](promos/banner14.png)](https://github.com/raysan5/raygui "raygui")
+![raygui](promos/banner14.png)
 
-- rGuiIcons
+- [rGuiIcons](https://raylibtech.itch.io/rguiicons)
 
-[![rGuiIcons](promos/banner16.png)](https://raylibtech.itch.io/rguiicons "rGuiIcons")
+![rGuiIcons](promos/banner16.png)
 
-- rfxgen
+- [rfxgen](https://github.com/raysan5/rfxgen)
 
-[![rfxgen](promos/banner15.png)](https://github.com/raysan5/rfxgen "rfxgen")
+![rfxgen](promos/banner15.png)
 
-- raylib technologies's tools Linux support
+- [raylib technologies's tools Linux support](https://twitter.com/raylibtech/status/1180878350782533632)
 
-[![raylib technologies's tools Linux support](promos/banner12.png)](https://twitter.com/raylibtech/status/1180878350782533632 "raylib tools Linux support")
+![raylib technologies's tools Linux support](promos/banner12.png)
 
-- raylib custom build flags
+- [raylib custom build flags](https://twitter.com/raysan5/status/1298956174071664640)
 
-[![raylib build flags](promos/banner11.png)](https://twitter.com/raysan5/status/1298956174071664640 "raylib build flags")
+![raylib build flags](promos/banner11.png)
 
-- raylib on Handmade Seattle
+- [raylib on Handmade Seattle](https://twitter.com/raysan5/status/1193866190126551041)
 
-[![raylib on handmade seattle](promos/banner18.png)](https://twitter.com/raysan5/status/1193866190126551041 "raylib handmade seattle")
+![raylib on handmade seattle](promos/banner18.png)
 
-- raylib 200 contributors
+- [raylib 200 contributors](https://twitter.com/raysan5/status/1375789665219977217)
 
-[![raylib contributors](promos/banner19.png)](https://twitter.com/raysan5/status/1375789665219977217 "raylib contributors")
+![raylib contributors](promos/banner19.png)
 
-- raylib in numbers
+- [raylib in numbers](https://gist.github.com/raysan5/1e34df90dfbcef3c55b19d37d2d5ab2a)
 
-[![raylib in numbers](promos/banner20.png)](https://gist.github.com/raysan5/1e34df90dfbcef3c55b19d37d2d5ab2a "raylib in numbers")
+![raylib in numbers](promos/banner20.png)
 
-- raylib on Wikipedia
+- [raylib on Wikipedia](https://twitter.com/raysan5/status/1285157701589360640)
 
-[![raylib on Wikipedia!](promos/banner27.png)](https://twitter.com/raysan5/status/1285157701589360640 "raylib on Wikipedia!")
+![raylib on Wikipedia!](promos/banner27.png)
 
-- raylib and WebAssembly
+- [raylib and WebAssembly](https://twitter.com/raysan5/status/1226837835770142720)
 
-[![raylib and WebAssembly!](promos/banner28.jpg)](https://twitter.com/raysan5/status/1226837835770142720 "raylib and WebAssembly!")
+![raylib and WebAssembly!](promos/banner28.jpg)
 
-- raylib FreeBSD support
+- [raylib FreeBSD support](https://twitter.com/raysan5/status/924913149094060032)
 
-[![raylib supports FreeBSD!](promos/banner30.jpg)](https://twitter.com/raysan5/status/924913149094060032 "raylib supports FreeBSD!")
+![raylib supports FreeBSD!](promos/banner30.jpg)
 
-- raylib and Global Game Jam 2018
+- [raylib and Global Game Jam 2018](https://twitter.com/raysan5/status/956681310239641602)
 
-[![raylib on GGJ2018!](promos/banner40.jpg)](https://twitter.com/raysan5/status/956681310239641602 "raylib on GGJ2018!")
+![raylib on GGJ2018!](promos/banner40.jpg)
 
-- raylib and Global Game Jam 2019
+- [raylib and Global Game Jam 2019](https://twitter.com/raysan5/status/1087728261608759299)
 
-[![raylib on GGJ2019!](promos/banner36.jpg)](https://twitter.com/raysan5/status/1087728261608759299 "raylib on GGJ2019!")
+![raylib on GGJ2019!](promos/banner36.jpg)
 
-- raylib and Global Game Jam 2020
+- [raylib and Global Game Jam 2020](https://twitter.com/raysan5/status/1222869512984371200)
 
-[![raylib on GGJ2020!](promos/banner34.jpg)](https://twitter.com/raysan5/status/1222869512984371200 "raylib on GGJ2020!")
+![raylib on GGJ2020!](promos/banner34.jpg)
 
-- raylib is simple and easy-to-use!
+- [raylib is simple and easy-to-use!](https://twitter.com/raysan5/status/1324789207844458496)
 
-[![raylib is simple and easy-to-use](promos/banner35.png)](https://twitter.com/raysan5/status/1324789207844458496 "raylib is simple and easy-to-use")
+![raylib is simple and easy-to-use](promos/banner35.png)
 
-- raylib standalone modules
+- [raylib standalone modules](https://twitter.com/raysan5/status/1141354483391303681)
 
-[![raylib standalone modules](promos/banner38.png)](https://twitter.com/raysan5/status/1141354483391303681 "raylib standalone modules")
+![raylib standalone modules](promos/banner38.png)
 
-- raylib social networks
+- [raylib social networks](https://twitter.com/raysan5/status/1141352450789711872)
 
-[![raylib social networks](promos/banner39.png)](https://twitter.com/raysan5/status/1141352450789711872 "raylib social networks")
+![raylib social networks](promos/banner39.png)
 
-- raylib Discord server
+- [raylib Discord server](https://twitter.com/raysan5/status/1019992500868657152)
 
-[![raylib discord server](promos/banner37.jpg)](https://twitter.com/raysan5/status/1019992500868657152 "raylib discord server")
+![raylib discord server](promos/banner37.jpg)
 
-- raylib on NiceOneBarcelona
+- [raylib on NiceOneBarcelona](https://twitter.com/raysan5/status/1198945957293043713)
 
-[![raylib on N1B](promos/banner41.png)](https://twitter.com/raysan5/status/1198945957293043713 "raylib on N1B")
+![raylib on N1B](promos/banner41.png)
 
-- raylib technologies's CLI study
+- [raylib technologies's CLI study](https://twitter.com/raylibtech/status/1043097789843087361)
 
-[![raylib technologies - command line study](promos/banner42.jpg)](https://twitter.com/raylibtech/status/1043097789843087361 "raylib technologies - command line study")
+![raylib technologies - command line study](promos/banner42.jpg)
 
-- rPBR release!
+- [rPBR release!](https://twitter.com/elfisac/status/856882503948398592)
 
-[![rPBR released!](promos/banner43.jpg)](https://twitter.com/elfisac/status/856882503948398592 "rPBR released!")
+![rPBR released!](promos/banner43.jpg)
 
-- raylib supported platforms #1
+- [raylib supported platforms #1](https://twitter.com/raysan5/status/943880148922912768)
 
-[![raylib platforms support #1](promos/banner44.jpg)](https://twitter.com/raysan5/status/943880148922912768 "raylib platforms support #1")
+![raylib platforms support #1](promos/banner44.jpg)
 
-- raylib supported platforms #2
+- [raylib supported platforms #2](https://twitter.com/raysan5/status/1141350297308147721)
 
-[![raylib platforms support #2](promos/banner46.png)](https://twitter.com/raysan5/status/1141350297308147721 "raylib platforms support #2")
+![raylib platforms support #2](promos/banner46.png)
 
-- raylib got over 30 bindings!
+- [raylib got over 30 bindings!](https://twitter.com/raysan5/status/1141350977695559681)
 
-[![raylib 30 bindings!](promos/banner47.png)](https://twitter.com/raysan5/status/1141350977695559681 "raylib 30 bindings!")
+![raylib 30 bindings!](promos/banner47.png)
 
-- raylib got over 40 bindings!
+- [raylib got over 40 bindings!](https://twitter.com/raysan5/status/1162759633532063744)
 
-[![raylib 40 bindings!](promos/banner49.png)](https://twitter.com/raysan5/status/1162759633532063744 "raylib 40 bindings!")
+![raylib 40 bindings!](promos/banner49.png)
 
-- Choose your flavor #1
+- [Choose your flavor #1](https://twitter.com/raysan5/status/825652171425378304)
 
-[![raylib - choose your flavor #1](promos/banner51.jpg)](https://twitter.com/raysan5/status/825652171425378304 "raylib - choose your flavor #1")
+![raylib - choose your flavor #1](promos/banner51.jpg)
 
-- Choose your flavor #2
+- [Choose your flavor #2](https://twitter.com/raysan5/status/1050346893388210178)
 
-[![raylib - choose your flavor #2](promos/banner50.jpg)](https://twitter.com/raysan5/status/1050346893388210178 "raylib - choose your flavor #2")
+![raylib - choose your flavor #2](promos/banner50.jpg)
 
-- raylib technologies tools
+- [raylib technologies tools](https://twitter.com/raysan5/status/1141355911115681792)
 
-[![raylib technologies tools](promos/banner48.png)](https://twitter.com/raysan5/status/1141355911115681792 "raylib technologies tools")
+![raylib technologies tools](promos/banner48.png)
 
-- raylib GitHub Actions build table
+- [raylib GitHub Actions build table](https://twitter.com/raysan5/status/1296148718488518656)
 
-[![raylib GitHub Actions build table](promos/banner52.jpg)](https://twitter.com/raysan5/status/1296148718488518656 "raylib GitHub Actions build table")
+![raylib GitHub Actions build table](promos/banner52.jpg)
 
-- raylib modules
+- [raylib modules](https://twitter.com/raysan5/status/840901794050002944)
 
-[![raylib modules](promos/banner53.png)](https://twitter.com/raysan5/status/840901794050002944 "raylib modules")
+![raylib modules](promos/banner53.png)
 
-- raylib's Google Open Source Peer Bonus
+- [raylib's Google Open Source Peer Bonus](https://twitter.com/raysan5/status/1141348566167896065)
 
-[![raylib - Google Open Source Peer Bonus](promos/banner54.png)](https://twitter.com/raysan5/status/1141348566167896065 "raylib - Google Open Source Peer Bonus")
+![raylib - Google Open Source Peer Bonus](promos/banner54.png)
 
-- Let's talk (raylib technologies)
+- [Let's talk (raylib technologies)](https://twitter.com/raylibtech/status/1029061605634531329)
 
-[![raylib technologies - let's talk!](promos/banner21.jpg)](https://twitter.com/raylibtech/status/1029061605634531329 "raylib technologies - let's talk!")
+![raylib technologies - let's talk!](promos/banner21.jpg)
 
-- Working hard on the best tools!
+- [Working hard on the best tools!](https://twitter.com/raysan5/status/1052639309508038656)
 
-[![raylib - working hard on the best tools!](promos/banner17.jpg)](https://twitter.com/raysan5/status/1052639309508038656 "raylib - working hard on the best tools!")
+![raylib - working hard on the best tools!](promos/banner17.jpg)
 
-- raylib coding examples
+- [raylib coding examples](https://twitter.com/raysan5/status/1141353212320059392)
 
-[![raylib - +95 coding examples!](promos/banner55.png)](https://twitter.com/raysan5/status/1141353212320059392 "raylib - +95 coding examples!")
+![raylib - +95 coding examples!](promos/banner55.png)
 
 ### Logos
 
@@ -715,13 +715,13 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Stickers
 
-- Mobile
+- [Mobile](https://twitter.com/raysan5/status/1233460424114364418)
 
-[![raylib mobile sticker](promos/banner56.jpg)](https://twitter.com/raysan5/status/1233460424114364418)
+![raylib mobile sticker](promos/banner56.jpg)
 
-- Bag
+- [Bag](https://twitter.com/raysan5/status/1121527359801262094)
 
-[![raylib bag sticker](promos/banner24.jpg)](https://twitter.com/raysan5/status/1121527359801262094)
+![raylib bag sticker](promos/banner24.jpg)
 
 ### Resources and Links
 
