@@ -72,6 +72,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [hbiblia/gtk-raylib](https://github.com/hbiblia/gtk-raylib), GTK integration with raylib.
 - [QuantScientist/ncnnRay](https://github.com/QuantScientist/ncnnRay), ncnnRay++ is a CMake based integration of raylib and the very popular Tencent ncnn Deep Learning library. ncnn is written in C++ and designed (but not only) for edge computing devices. The project depends on the Vulkan SDK (Vulakn is Khronos' API for Graphics and Compute on GPUs).
 - [impzero/gastar](https://github.com/impzero/gastar), Algorithm implemented in Go visualized using raylib.
+- [RobLoach/raylib-physfs](https://github.com/RobLoach/raylib-physfs), Integrate with the virtual file system [PhysicsFS](https://www.icculus.org/physfs/) to allow loading images, audio and fonts from data archives.
 - [c-krit/ichor](https://github.com/c-krit/ichor), PhysicsFS API wrapper for raylib.
 - [thyliverman/Paper](https://github.com/thyliverman/Paper), C++ rewrite of PaperSDL, dedicated to making raylib just a little easier to work with.
 - [EMoore13/Animator-For-Raylib-CS](https://github.com/EMoore13/Animator-For-Raylib-CS), Modified version of AliElSaleh's Animator-For-Raylib made to work with the raylib-cs nuget package, Written in C#.
