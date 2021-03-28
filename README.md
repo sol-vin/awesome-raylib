@@ -451,7 +451,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Resources and Links
 
-- [What raylib uses?](https://github.com/raysan5/raylib/wiki/raylib-dependencies.md)
+- [What raylib uses?](https://github.com/raysan5/raylib/wiki/raylib-dependencies)
 - [raylib Official Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
 - [raylib Official examples](https://www.raylib.com/examples.html)
 - [raylib Official Wiki](https://github.com/raysan5/raylib/wiki)
