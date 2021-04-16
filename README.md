@@ -512,6 +512,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ![raylib architecture](promos/banner1.png)
 
+- Difference between raylib 3.5 architecture and raylib 3.7 architecture
+
+![Difference between raylib 3.5 architecture and raylib 3.7 architecture](promos/banner57.png)
+
 - [raylib 5th anniversary](https://twitter.com/raysan5/status/1064139050704089089)
 
 ![raylib 5th anniversary](promos/banner8.jpg)
