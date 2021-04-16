@@ -63,6 +63,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [oswjk/imgui-impl-raylib](https://github.com/oswjk/imgui-impl-raylib), Raylib backend for Dear ImGui.
 - [haydenhigg/Libre](https://github.com/haydenhigg/Libre), Crystal graphics library that is built on Raylib.
 - [nezvers/GameSystemsInC](https://github.com/nezvers/GameSystemsInC), TileMap & Sprite systems for raylib.
+- [robloach/raylib-asprite](https://github.com/RobLoach/raylib-aseprite), Load [Aseprite](https://www.aseprite.org) files for animated sprites in raylib.
 - [nuklear_raylib](https://github.com/RobLoach/nuklear_raylib), Nuklear immediate mode GUI for raylib.
 - [zworld-apps/zgui](https://github.com/zworld-apps/zgui), GUI system based on Constraints for raylib, Written in Go.
 - [Slixe/visual-go](https://github.com/Slixe/visual-go), Go Framework to create simple application using raylib & Flex.
