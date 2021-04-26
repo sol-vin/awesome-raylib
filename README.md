@@ -560,6 +560,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ![raylib 3.5](promos/banner5.png)
 
+- [raylib 3.7](https://twitter.com/raysan5/status/1386728711131734017)
+
+![raylib 3.7](promos/banner58.png)
+
 - [raylib receives an Epic MegaGrant](https://twitter.com/raysan5/status/1291690021221736450)
 
 ![raylib received epic megagrant](promos/banner3.png)
