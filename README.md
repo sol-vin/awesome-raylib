@@ -443,6 +443,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Digital Crafters #2 - Ramon Santamaria](https://www.youtube.com/watch?v=wnbJpdjAHg8)
 - [Interview with @imakefoss curator and Ramon Santamaria about raylib](https://www.youtube.com/watch?v=NM1gMvHwDwA)
 - [Official raylib 2.5 presentation](https://www.youtube.com/watch?v=78aa2wuiGmI)
+- [raylib 3.7 Released](https://www.youtube.com/watch?v=c8hUF75f0kk)
 - [RayLib 3.5 Released -- C/C++ GameDev Easy Mode](https://www.youtube.com/watch?v=RZJ-Z--6uxY)
 - [Raylib 3.0 Released -- The Best Way to Learn C or C++ Game Development*](https://www.youtube.com/watch?v=xx9ntuvA1t0)
 - [Raylib 2.0 Released -- C/C++ Game Framework Perfect For Beginners](https://www.youtube.com/watch?v=QwLHHasIO6k)
