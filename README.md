@@ -15,7 +15,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Libraries bindings/ports](#libraries-bindingsports)
 - [Platforms supported by raylib](https://github.com/raysan5/raylib#building-raylib-on-multiple-platforms)
 - [Tutorials](#tutorials)
-- [Examples by community](#examples-by-community)
+- [Community Examples](#community-examples)
 - [Templates](#templates)
 - [Articles](#articles)
 - [Videos](#videos)
