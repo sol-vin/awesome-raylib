@@ -132,7 +132,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [hfabre/ttme](https://github.com/hfabre/ttme), Tiny tile map editor, Written in Go.
 - [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors), Intuitive color mixing in a subtractive Red-Yellow-Blue color space. A traditional art school color wheel and palette selector for triadic, split-complementary and tetradic color harmonies. RGB-to-RYB conversion with simple formulas. Built with raylib.
 - [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor), Experimental GUI editor for raygui.
-- [RobLoach/raylib-meson](https://github.com/RobLoach/raylib-meson), raylib meson build system.
 - [rfaile313/Raylib-Buildfiles](https://github.com/rfaile313/Raylib-Buildfiles), Simple Makefile that incorporates Raylib on OS: Windows && Platform: Desktop.
 - [redsled84/music-player](https://github.com/redsled84/music-player), Linked list music player using raylib.
 - [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper), Application for sorting images based on related "types" of items in the pictures. Riley-Duper will output a hidden file that contains the pictures which are linked together.
@@ -287,7 +286,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [baylej/tmx](https://github.com/baylej/tmx), C tmx map loader have example uses raylib [here](https://github.com/baylej/tmx/tree/master/examples/raylib)!
 - [albertnadal/MandelbrotGoLang](https://github.com/albertnadal/MandelbrotGoLang), Distributed computing Mandelbrot implementation using GoLang, gRPC and RayLib.
 - [OnACoffeeBreak/raylib_tiled_import_with_tmx](https://github.com/OnACoffeeBreak/raylib_tiled_import_with_tmx), Example of how to use Raylib to import and display a Tiled map editor file.
-- [RobLoach/raylib-meson-sample](https://github.com/RobLoach/raylib-meson-sample), Example of building a raylib application with Meson.
 - [MrOneTwo/Raylib-shaders](https://github.com/MrOneTwo/Raylib-shaders), Having fun with shaders.
 - [anatagawa/Demo-Paradox](https://github.com/anatagawa/Demo-Paradox), Demo with Raylib.
 - [anatagawa/Demo-Interpole](https://github.com/anatagawa/Demo-Interpole), Demo with Raylib.
