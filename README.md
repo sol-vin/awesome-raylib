@@ -81,6 +81,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI), Just a simple UI using raylib (Can be used as library), Written in C#.
 - [QuantScientist/TorchRayLib](https://github.com/QuantScientist/TorchRayLib), CMake based integration of the RayLib library with the Libtorch C++ Deep Learning Library.
 - [c-krit/lowel](https://github.com/c-krit/lowel), 2D map loading / saving system for raylib projects.
+- [raylib-tmx](https://github.com/RobLoach/raylib-tmx), Load and draw [Tiled](https://www.mapeditor.org/) `.tmx` tile maps through the [TMX C Loader](https://github.com/baylej/tmx).
 - [nbdy/ruicf](https://github.com/nbdy/ruicf), C++ raylib ui controls framework.
 - [JeffM2501/RLGameGui](https://github.com/JeffM2501/RLGameGui), Resolution independent gui for raylib, Written in C++!
 - [I3uckwheat/CHUCK](https://github.com/I3uckwheat/CHUCK), Allows tiled maps to be used with raylib with little trouble.
