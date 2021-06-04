@@ -85,7 +85,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [raylib-tmx](https://github.com/RobLoach/raylib-tmx), Load and draw [Tiled](https://www.mapeditor.org/) `.tmx` tile maps through the [TMX C Loader](https://github.com/baylej/tmx).
 - [nbdy/ruicf](https://github.com/nbdy/ruicf), C++ raylib ui controls framework.
 - [JeffM2501/RLGameGui](https://github.com/JeffM2501/RLGameGui), Resolution independent gui for raylib, Written in C++!
-- [I3uckwheat/CHUCK](https://github.com/I3uckwheat/CHUCK), Allows tiled maps to be used with raylib with little trouble.
 - [jackcarey/raylib-extensions](https://github.com/jackcarey/raylib-extensions), Modifications and additions to [raysan5/raylib](https://github.com/raysan5/raylib) and [raysan5/raygui](https://github.com/raysan5/raygui).
 - [coolcoy12/RayLibUtils](https://github.com/coolcoy12/RayLibUtils), Useful UI and effects for raylib for C++!
 - [moonsteal/raylib-barebones](https://github.com/moonsteal/raylib-barebones), Stripped down version of raylib with Meson.
@@ -235,6 +234,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [jpike/RayWorld3D](https://github.com/jpike/RayWorld3D), Playing around with raylib's 3D stuff.
 - [AliElSaleh/Cosmic-Hell](https://github.com/AliElSaleh/Cosmic-Hell), AIE Holiday Coding Challenge. A Bullet-Hell game that implements flocking in C/C++ using the raylib framework.
 - [Skaruts/Game-of-Life-in-Multiple-Languages](https://github.com/Skaruts/Game-of-Life-in-Multiple-Languages), Game of Life implemented in multiple languages and has version for raylib.
+- [I3uckwheat/CHUCK](https://github.com/I3uckwheat/CHUCK), Allows tiled maps to be used with raylib with little trouble.
 - [machinbrol/2d-physics-engine-test](https://github.com/machinbrol/2d-physics-engine-test), 2D-physics-engine test with Go port of raylib.
 - [sepisoad/super-janet-typist](https://github.com/sepisoad/super-janet-typist), Short typing game made with Janet Lisp.
 - [Ryan1729/nim-raylib-forever-raylib-audio-bug](https://github.com/Ryan1729/nim-raylib-forever-raylib-audio-bug), Example shows audio bug in raylib-forever nim bindings.
