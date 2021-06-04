@@ -582,6 +582,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ![raylib 3.7](promos/banner58.png)
 
+- [raylib parser](https://twitter.com/raysan5/status/1398948422913343488)
+
+![raylib parser](promos/raylib_parser_info.png)
+
 - [raylib receives an Epic MegaGrant](https://twitter.com/raysan5/status/1291690021221736450)
 
 ![raylib received epic megagrant](promos/banner3.png)
