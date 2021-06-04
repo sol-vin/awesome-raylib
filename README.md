@@ -46,6 +46,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 - [orbisdev-orbisGl2](https://github.com/orbisdev/orbisdev-orbisGl2), raylib port for PS4 that intended to be used as modern graphics backend and examples can be found [here!](https://github.com/orbisdev/orbisGl2samples)
 - [psp2dev/raylib4Vita](https://github.com/psp2dev/raylib4Vita), raylib port for PlayStation Vita.
+- [Gota7/3ds-raylib](https://github.com/Gota7/3ds-raylib), raylib port to Nintendo 3DS.
 
 ### Libraries and Frameworks
 
