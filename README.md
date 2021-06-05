@@ -86,7 +86,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [Ferrohound/RaylibEX](https://github.com/Ferrohound/RaylibEX)                         | raylib Extra incorporates more basic functionality to raylib while keeping the hands-on aspect!                                            |
 | [JusticeShultz/MathX](https://github.com/JusticeShultz/MathX)                         | Detailed custom math library programmed in C++ by Justice Shultz that includes demos that uses raylib.                                     |
 | [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI)               | Just a simple UI using raylib (Can be used as library), Written in C#.                                                                     |
-| [QuantScientist/TorchRayLib](https://github.com/QuantScientist/TorchRayLib)           | CMake based integration of the rayLib library with the Libtorch C++ Deep Learning Library.                                                 |
+| [QuantScientist/TorchRayLib](https://github.com/QuantScientist/TorchRayLib)           | CMake based integration of the raylib library with the Libtorch C++ Deep Learning Library.                                                 |
 | [c-krit/lowel](https://github.com/c-krit/lowel)                                       | 2D map loading/saving system for raylib projects.                                                                                          |
 | [raylib-tmx](https://github.com/RobLoach/raylib-tmx)                                  | Load and draw [Tiled](https://www.mapeditor.org/) `.tmx` tile maps through the [TMX C Loader](https://github.com/baylej/tmx).              |
 | [nbdy/ruicf](https://github.com/nbdy/ruicf)                                           | C++ raylib UI controls framework.                                                                                                          |
@@ -213,7 +213,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | Name                                                                                  | Description                                                                 |
 |---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
 | [Dacode45/rayfork-rs](https://github.com/Dacode45/rayfork-rs)                         | Port of rayfork to Rust.                                                    |
-| [EMoore13/Animator-For-Raylib-CS](https://github.com/EMoore13/Animator-For-Raylib-CS) | C# Modified version of AliElSaleh's Animator-For-Raylib that uses Raylib-cs |
+| [EMoore13/Animator-For-Raylib-CS](https://github.com/EMoore13/Animator-For-Raylib-CS) | C# Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs |
 
 ### Community Examples
 
