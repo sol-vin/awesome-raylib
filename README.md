@@ -27,22 +27,22 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Gists
 
-| Name                                                                                                                   | Description                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [ohmree/sort.c](https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc)                                       | NO INFO.                                                                                           |
-| [satinxs/bleed.c](https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae)                                    | Bleed bug when drawing rectangles with raylib.                                                     |
-| [masterex1000/agui.h](https://gist.github.com/masterex1000/92c861eeef03e761d0addc6edc0b741f)                           | Small UI helper library intended to be used with raylib.                                           |
-| [SamyBencherif/rpmd.c](https://gist.github.com/SamyBencherif/00412fa24b411c07ad57176e64793fb5)                         | Pixelated 2D lighting with shadows in raylib, software accelerated.                                |
-| [Goodguyr/client_GUI.c](https://gist.github.com/Goodguyr/284a262dc95ab0a35b498115c1cb3d41)                             | NO INFO.                                                                                           |
-| [JeffM2501/pan.c](https://gist.github.com/JeffM2501/3c7da5c2b7e078e254d673f91489c78f)                                  | raylib example of mouse drag panning for 2D camera.                                                |
-| [Demizdor/noisepl.c](https://gist.github.com/Demizdor/e916ba765336c389af4ecd2c557a6be6)                                | Noise Planets example made with raylib.                                                            |
-| [Pikachuxxxx/RayCollisions.c](https://gist.github.com/Pikachuxxxx/0dda4b70bf71b794b08923df34961844)                    | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle. |
-| [mattj1/raylib_dpi_hack.c](https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1)                            | Function to get window DPI.                                                                        |
-| [Rabios/DrawTexturePro3D.c](https://gist.github.com/Rabios/ccbb08d7ff4f41af19d53bf02d803815)                           | Draw 2D texture with raylib in 3D space!                                                           |
-| [TheLumaio/raynames.h](https://gist.github.com/TheLumaio/403caefa3bd1eae3b8e265e79d6508ad)                             | NO INFO.                                                                                           |
-| [AregevDev/raylibvectors.c](https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985)                        | NO INFO.                                                                                           |
-| [EdwardDowling/maze.c](https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2)                                     | Maze generation and raycasting example.                                                            |
-| [pluckyporcupine/core_2d_camera_c-mera.lisp](https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374) | raylib core_2d_camera example ported to [C-Mera](https://github.com/kiselgra/c-mera)!              |
+| Name                                                                                                                   | Description                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| [ohmree/sort.c](https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc)                                       | C Sorting example that uses raylib.                                                                        |
+| [satinxs/bleed.c](https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae)                                    | Bleed bug when drawing rectangles with raylib.                                                             |
+| [masterex1000/agui.h](https://gist.github.com/masterex1000/92c861eeef03e761d0addc6edc0b741f)                           | Small UI helper library intended to be used with raylib.                                                   |
+| [SamyBencherif/rpmd.c](https://gist.github.com/SamyBencherif/00412fa24b411c07ad57176e64793fb5)                         | Pixelated 2D lighting with shadows in raylib, software accelerated.                                        |
+| [Goodguyr/client_GUI.c](https://gist.github.com/Goodguyr/284a262dc95ab0a35b498115c1cb3d41)                             | raylib example of networking, Drawing circles for each player.                                             |
+| [JeffM2501/pan.c](https://gist.github.com/JeffM2501/3c7da5c2b7e078e254d673f91489c78f)                                  | raylib example of mouse drag panning for 2D camera.                                                        |
+| [Demizdor/noisepl.c](https://gist.github.com/Demizdor/e916ba765336c389af4ecd2c557a6be6)                                | Noise Planets example made with raylib.                                                                    |
+| [Pikachuxxxx/RayCollisions.c](https://gist.github.com/Pikachuxxxx/0dda4b70bf71b794b08923df34961844)                    | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle.         |
+| [mattj1/raylib_dpi_hack.c](https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1)                            | Function to get window DPI.                                                                                |
+| [Rabios/DrawTexturePro3D.c](https://gist.github.com/Rabios/ccbb08d7ff4f41af19d53bf02d803815)                           | Draw 2D texture with raylib in 3D space!                                                                   |
+| [TheLumaio/raynames.h](https://gist.github.com/TheLumaio/403caefa3bd1eae3b8e265e79d6508ad)                             | Header that provides lowercase name aliases for types and functions of raylib, raymath, easings, And rnet. |
+| [AregevDev/raylibvectors.c](https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985)                        | raylib example for 2D Vectors.                                                                             |
+| [EdwardDowling/maze.c](https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2)                                     | Maze generation and raycasting example.                                                                    |
+| [pluckyporcupine/core_2d_camera_c-mera.lisp](https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374) | raylib core_2d_camera example ported to [C-Mera](https://github.com/kiselgra/c-mera)!                      |
 
 ### Homebrew Ports
 
