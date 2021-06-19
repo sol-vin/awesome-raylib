@@ -110,7 +110,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [thyliverman/Paper](https://github.com/thyliverman/Paper)                             | C++ rewrite of PaperSDL, dedicated to making raylib just a little easier to work with.                                                     |
 | [AliElSaleh/Animator-For-Raylib](https://github.com/AliElSaleh/Animator-For-Raylib)   | C/C++ Animator lib.                                                                                                                        |
 | [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI)               | Just a simple UI using raylib, Written in C#.                                                                                              |
-| [PikoStudios/Muzzle](https://github.com/PikoStudios/Muzzle)                           | Wrapper for raylib made in C that gives additional functionality to raylib.                                                                |
 
 ### Softwares
 
