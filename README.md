@@ -43,6 +43,20 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [AregevDev/raylibvectors.c](https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985)                        | raylib example for 2D Vectors.                                                                             |
 | [EdwardDowling/maze.c](https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2)                                     | Maze generation and raycasting example.                                                                    |
 | [pluckyporcupine/core_2d_camera_c-mera.lisp](https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374) | raylib core_2d_camera example ported to [C-Mera](https://github.com/kiselgra/c-mera)!                      |
+| [JeffM2501/core_split_screen.c](https://gist.github.com/JeffM2501/85e3c3fa4c5296227ab91dd7d2dec471)                    | Simple splitscreen implemntation for raylib.                                                               |
+| [JeffM2501/models_mesh_generation.c](https://gist.github.com/JeffM2501/18964218591e5aa302f17f0ae5a45b77)               | Example shows that Mesh generation of quad with UV repeats in raylib.                                      |
+| [JeffM2501/imgui_docking_exmaple.cpp](https://gist.github.com/JeffM2501/4c3a7e8a85302f743f8bd9dc1aae00ae)              | Example of how to do editor style docking in ImGui for raylib.                                             |
+| [JeffM2501/varfps.c](https://gist.github.com/JeffM2501/588d8b632d1bf49c7f010dde0a9dcbee)                               | raylib test showing how frame based motion can be problematic.                                             |
+| [JeffM2501/raylib worldspace panning with rotation](https://gist.github.com/JeffM2501/703728379eb6e9d51d33201d1a1fe05d)| raylib example of worldspace panning with rotation.                                                        |
+| [JeffM2501/raylib worldspace panning](https://gist.github.com/JeffM2501/edb5b8bbfd5a1744d4f97865ad4be989)              | raylib example of worldspace panning without rotation.                                                     |
+| [JeffM2501/Model merge for raylib](https://gist.github.com/JeffM2501/08d20cdd931456ad0e52905401cc34af)                 | Example of model merge made with raylib.                                                                   |
+| [JeffM2501/raylib resize fullscreen example](https://gist.github.com/JeffM2501/00cf5653f41337d8c9e8db40deb25656)       | raylib resize fullscreen example.                                                                          |
+| [JeffM2501/orbitcamera.cpp](https://gist.github.com/JeffM2501/000787070aef421a00c02ae4cf799ea1)                        | Example of orbit camera made for raylib!                                                                   |
+| [JeffM2501/RLAssets.cpp](https://gist.github.com/JeffM2501/bd1092ce0eaedd26fe3ca60e1743ce40)                           | Basic platform independent asset folder management for raylib.                                             |
+| [JeffM2501/Basic Shot Animation raylib](https://gist.github.com/JeffM2501/a6eb14d734f88a065a73adb729eed1f7)            | Basic animation made with raylib.                                                                          |
+| [JeffM2501/Basic entity game](https://gist.github.com/JeffM2501/a5987d2f4575e871f561197232ba0f60)                      | Entity example made with raylib.                                                                           |
+| [JeffM2501/DrawTextureProZ](https://gist.github.com/JeffM2501/1c4c9c8048cbb19d11c9807518196b69)                        | Modified version of `DrawTexturePro` that adds Z Dimension/Depth!                                          |
+| [JeffM2501/raylib fullscreen toggle example](https://gist.github.com/JeffM2501/6e4630a0e34c0c7dddf066f7192e342d)       | raylib fullscreen toggle example made with raylib.                                                         |
 
 ### Homebrew Ports
 
@@ -110,6 +124,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [thyliverman/Paper](https://github.com/thyliverman/Paper)                             | C++ rewrite of PaperSDL, dedicated to making raylib just a little easier to work with.                                                     |
 | [AliElSaleh/Animator-For-Raylib](https://github.com/AliElSaleh/Animator-For-Raylib)   | C/C++ Animator lib.                                                                                                                        |
 | [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI)               | Just a simple UI using raylib, Written in C#.                                                                                              |
+| [JeffM2501/TestFrame](https://github.com/JeffM2501/TestFrame)                         | Test framework that uses raylib and ImGui together to help test and develop concept and uses C++ classes for windows and views.            |
 
 ### Softwares
 
