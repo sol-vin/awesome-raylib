@@ -130,6 +130,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 | Name                                                                                                  | Description                                                                                                                                |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [skylersaleh/SkyBoy](https://github.com/skylersaleh/SkyBoy)                                           | Game Boy and Game Boy Color Emulator powered by raylib!                                                                                    |
 | [sparkskapil/2D-CAD-Raylib](https://github.com/sparkskapil/2D-CAD-Raylib)                             | 2D CAD viewer for raylib.                                                                                                                  |
 | [sorykkk/raygui_calculator](https://github.com/sorykkk/raygui_calculator)                             | Demonstrates simple and functional calculator gui written with raygui based on raylib library.                                             |
 | [MarcMDE/FunWithEasings](https://github.com/MarcMDE/FunWithEasings)                                   | Small and simple Easings visualizing tool developed in C with raylib and C easings.                                                        |
