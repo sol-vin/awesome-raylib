@@ -794,6 +794,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [![raysan5/rfxgen](logos/rfxgen.png)](https://github.com/raysan5/rfxgen "raysan5/rfxgen")
 [![victorfisac/FNode](logos/fnode.png)](https://github.com/victorfisac/FNode "victorfisac/FNode")
 [![SliverLIVE/Raylib-for-GLBasic](logos/raylib-glbasic.png)](https://github.com/SliverLIVE/Raylib-for-GLBasic "SliverLIVE/Raylib-for-GLBasic")
+[![ForeignSasquatch/hxRaylib](logos/hxraylib.png)](https://github.com/ForeignSasquatch/hxRaylib "ForeignSasquatch/hxRaylib")
 
 ### Stickers
 
