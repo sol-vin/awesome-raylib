@@ -645,6 +645,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ![raylib contributors](promos/banner19.png)
 
+- [raylib API usage analysis](https://gist.github.com/raysan5/7c0c9fff1b6c19af24bb4a51b7383f1e)
+
+![raylib API usage analysis](promos/banner59.png)
+
 - [raylib in numbers](https://gist.github.com/raysan5/1e34df90dfbcef3c55b19d37d2d5ab2a)
 
 ![raylib in numbers](promos/banner20.png)
