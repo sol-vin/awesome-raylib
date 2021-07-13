@@ -125,6 +125,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [AliElSaleh/Animator-For-Raylib](https://github.com/AliElSaleh/Animator-For-Raylib)   | C/C++ Animator lib.                                                                                                                        |
 | [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI)               | Just a simple UI using raylib, Written in C#.                                                                                              |
 | [JeffM2501/TestFrame](https://github.com/JeffM2501/TestFrame)                         | Test framework that uses raylib and ImGui together to help test and develop concept and uses C++ classes for windows and views.            |
+| [c-krit/ferox](https://github.com/c-krit/ferox)                                       | simple 2D rigid body physics engine written in C.                                                                                          |
+| [ProfJski/RaylibOpOverloads](https://github.com/ProfJski/RaylibOpOverloads)           | C++ Operator Overloads for raylib.                                                                                                         |
+| [electronstudio/rlzero](https://github.com/electronstudio/rlzero)                     | Simplified API for raylib to enable beginners to create 3D games, Inspired by Pygame Zero.                                                 | 
+| [haxeui/haxeui-raylib](https://github.com/haxeui/haxeui-raylib)                       | raylib backend for HaxeUI.                                                                                                                 |
 
 ### Softwares
 
@@ -208,6 +212,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [erikerlandson/ray-ubi](https://github.com/erikerlandson/ray-ubi)                                     | Minimalist raylib distributed computing container image, based on Red Hat UBI.                                                             |
 | [Demizdor/particle_editor](https://github.com/Demizdor/particle_editor)                               | Experimental particle editor!                                                                                                              |
 | [gtrxAC/rlwm](https://github.com/gtrxAC/rlwm)                                                         | Fake operating system/window manager.                                                                                                      |
+| [HellRok/Taylor](https://github.com/HellRok/Taylor)                                                   | Simple game engine built using raylib and MRuby.                                                                                           |
+| [MallocStudio/Sketch_Game_Engine](https://github.com/MallocStudio/Sketch_Game_Engine)                 | Simple game engine built on top of raylib that intended as personal hobby project.                                                         |
+| [LilianHollard/game_engine-raylib](https://github.com/LilianHollard/game_engine-raylib)               | Tiny game engine written in C with raylib.                                                                                                 |
+| [TheDarkBug/simple_raycasting](https://github.com/TheDarkBug/simple_raycasting)                       | Simple raycasting "engine" written in C with raylib for graphics.                                                                          |
 
 ### Deprecated/Removed/Unknown bindings
 
@@ -219,6 +227,9 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [dtcristo/raylib-rust](https://github.com/dtcristo/raylib-rust)                       | Rust bindings for raylib, Removed from bindings list after dev's request. |
 | [mmalecot/rayquaza](https://github.com/mmalecot/rayquaza)                             | Idiomatic Rust wrapper for raylib.                                        |
 | [glasyalabolas/fb-raylib](https://github.com/glasyalabolas/fb-raylib)                 | Port of raylib 3.5 headers and examples for FreeBasic.                    |
+| [haxeui/raylib-haxe](https://github.com/haxeui/raylib-haxe)                           | raylib extern bindings for Haxe!                                          |
+| [shiryel/rayex](https://github.com/shiryel/rayex)                                     | raylib bindings for Elixir!                                               |
+
 
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
@@ -233,6 +244,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 | Name                                                                                                                      | Description                                                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [ProfJski/WaveEquationDemo](https://github.com/ProfJski/WaveEquationDemo)                                                 | intuitive approach to introducing the Schrodinger wave equation using a classical particle.                                                |
+| [antwxne/IndieStudio](https://github.com/antwxne/IndieStudio)                                                             | Epitech 2nd year end year 3D graphical project in C++.                                                                                     |
+| [Armapillow/bezier](https://github.com/Armapillow/bezier)                                                                 | Visualisation for Bézier curve using raylib.                                                                                               |
+| [ChrisDill/raylib-instancing](https://github.com/ChrisDill/raylib-instancing)                                             | Instanced rendering examples using raylib.                                                                                                 |
 | [AcademyOfInteractiveEntertainment/AIEYear1Samples](https://github.com/AcademyOfInteractiveEntertainment/AIEYear1Samples) | Sample and tutorial code for AIE's Diploma of Digital and Interactive Games.                                                               |
 | [GoldenThumbs/raylibShadowmap](https://github.com/GoldenThumbs/raylibShadowmap)                                           | Shadowmapping with raylib!                                                                                                                 |
 | [Lightnet/raylibvscodeexample](https://github.com/Lightnet/raylibvscodeexample)                                           | VSCode project sample for raylib.                                                                                                          |
@@ -349,6 +364,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 | Name                                                                                                      | Description                                                                                                                                |
 |-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [tducasse/raylib_starter](https://github.com/tducasse/raylib_starter)                                     | Simple raylib template for Windows and Web targets.                                                                                        |
+| [daandruff/rbpi400raylib](https://github.com/daandruff/rbpi400raylib)                                     | Simple raylib template for Raspberry Pi 400.                                                                                               | 
 | [irskep/raylibtest](https://github.com/irskep/raylibtest)                                                 | raylib Nim bindings test example.                                                                                                          |
 | [jamiltron/ray-starter](https://github.com/jamiltron/ray-starter)                                         | Skeleton of a raylib project with CMake.                                                                                                   |
 | [benweidig/raylib-template](https://github.com/benweidig/raylib-template)                                 | Linux template for raylib.                                                                                                                 |
