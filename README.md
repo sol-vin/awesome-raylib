@@ -129,6 +129,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [ProfJski/RaylibOpOverloads](https://github.com/ProfJski/RaylibOpOverloads)           | C++ Operator Overloads for raylib.                                                                                                         |
 | [electronstudio/rlzero](https://github.com/electronstudio/rlzero)                     | Simplified API for raylib to enable beginners to create 3D games, Inspired by Pygame Zero.                                                 | 
 | [haxeui/haxeui-raylib](https://github.com/haxeui/haxeui-raylib)                       | raylib backend for HaxeUI.                                                                                                                 |
+| [Not-Nik/rlobj](https://github.com/Not-Nik/rlobj)                                     | drop-in replacement for raylib's obj loader.                                                                                               |
 
 ### Softwares
 
@@ -216,6 +217,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [MallocStudio/Sketch_Game_Engine](https://github.com/MallocStudio/Sketch_Game_Engine)                 | Simple game engine built on top of raylib that intended as personal hobby project.                                                         |
 | [LilianHollard/game_engine-raylib](https://github.com/LilianHollard/game_engine-raylib)               | Tiny game engine written in C with raylib.                                                                                                 |
 | [TheDarkBug/simple_raycasting](https://github.com/TheDarkBug/simple_raycasting)                       | Simple raycasting "engine" written in C with raylib for graphics.                                                                          |
+| [LunaRyuko/LunarViewer](https://github.com/LunaRyuko/LunarViewer)                                     | Model viewer for Quake 1 and Hexen 2.                                                                                                      |
+| [myuce/mapviewer](https://github.com/myuce/mapviewer)                                                 | Very primitive map viewer for the Quake map format.                                                                                        |
 
 ### Deprecated/Removed/Unknown bindings
 
