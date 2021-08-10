@@ -135,6 +135,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 | Name                                                                                                  | Description                                                                                                                                |
 |-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| [Lockna/chip8](https://github.com/Lockna/chip8)                                                       | Very basic CHIP-8 emulator that uses raylib for rendering.                                                                                 |
 | [skylersaleh/SkyBoy](https://github.com/skylersaleh/SkyBoy)                                           | Game Boy and Game Boy Color Emulator powered by raylib!                                                                                    |
 | [sparkskapil/2D-CAD-Raylib](https://github.com/sparkskapil/2D-CAD-Raylib)                             | 2D CAD viewer for raylib.                                                                                                                  |
 | [sorykkk/raygui_calculator](https://github.com/sorykkk/raygui_calculator)                             | Demonstrates simple and functional calculator gui written with raygui based on raylib library.                                             |
