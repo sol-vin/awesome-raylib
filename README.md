@@ -481,6 +481,13 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Videos
 
+- [raylib events automation](https://www.youtube.com/watch?v=3dZenkpmRzM)
+- [path following raylib and ODE vehicles](https://www.youtube.com/watch?v=p7kU5SmBZ3M)
+- [ODE Vehicle Raylib](https://www.youtube.com/watch?v=LjsKEO105Dw)
+- [Raylib 3.7 - raylib4Vita](https://www.youtube.com/watch?v=ISPID_2XBDs)
+- [C64 demo raylib mock-up](https://www.youtube.com/watch?v=SegPe1kgILA)
+- [Making a game WITHOUT a GAME ENGINE](https://www.youtube.com/watch?v=MPMELcP8-RM)
+- [Bad Apple!! but its 7600 ReCT and Raylib Logos [info in description]](https://www.youtube.com/watch?v=8LnQ1A0rJ9s)
 - [Why I'm Glad I Didn't Use a Game Engine](https://www.youtube.com/watch?v=nBaCRp9UzDw)
 - [raylib C - Simple sand game](https://www.youtube.com/watch?v=o8QOWVHaMsg)
 - [Using Android's sensor with Raylib](https://www.youtube.com/watch?v=2woi4NR7xPA)
