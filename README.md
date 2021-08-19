@@ -481,6 +481,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Videos
 
+- [9ª QIDV (8/11) : Ramón Santamaría presenta su RayLib (Spanish)](https://www.youtube.com/watch?v=LKdqM8Wv6qk)
+- [QIDV 12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib (Spanish)](https://www.youtube.com/watch?v=tKq9mpEBQFg)
 - [raylib events automation](https://www.youtube.com/watch?v=3dZenkpmRzM)
 - [path following raylib and ODE vehicles](https://www.youtube.com/watch?v=p7kU5SmBZ3M)
 - [ODE Vehicle Raylib](https://www.youtube.com/watch?v=LjsKEO105Dw)
