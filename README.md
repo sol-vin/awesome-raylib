@@ -481,6 +481,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Videos
 
+- [Best C++ Game Wins $1000 - Game Making Challenge](https://www.youtube.com/watch?v=_yyKYl1LAHM)
 - [9ª QIDV (8/11) : Ramón Santamaría presenta su RayLib (Spanish)](https://www.youtube.com/watch?v=LKdqM8Wv6qk)
 - [QIDV 12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib (Spanish)](https://www.youtube.com/watch?v=tKq9mpEBQFg)
 - [raylib events automation](https://www.youtube.com/watch?v=3dZenkpmRzM)
@@ -489,6 +490,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Raylib 3.7 - raylib4Vita](https://www.youtube.com/watch?v=ISPID_2XBDs)
 - [C64 demo raylib mock-up](https://www.youtube.com/watch?v=SegPe1kgILA)
 - [Making a game WITHOUT a GAME ENGINE](https://www.youtube.com/watch?v=MPMELcP8-RM)
+- [Learning C++ and making a GAME WITHOUT A GAME ENGINE](https://www.youtube.com/watch?v=kc4AhROG05g)
 - [Bad Apple!! but its 7600 ReCT and Raylib Logos [info in description]](https://www.youtube.com/watch?v=8LnQ1A0rJ9s)
 - [Why I'm Glad I Didn't Use a Game Engine](https://www.youtube.com/watch?v=nBaCRp9UzDw)
 - [raylib C - Simple sand game](https://www.youtube.com/watch?v=o8QOWVHaMsg)
