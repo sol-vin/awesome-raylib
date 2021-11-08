@@ -480,6 +480,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 - [RayLib Review / Open source free game library / Game Engine / Delphi, Pascal, Lazarus, C, C++, C#](https://www.youtube.com/watch?v=Z6Eg9UfC_6U&t=616s)
 - [RayLib / Обзор игровой библиотеки / Pascal, Delphi, Lazarus, C++, C#, Java, JavaScript, Python, Perl(Russian)](https://www.youtube.com/watch?v=GUDzyXlmpVk&t=74s)
+- [Making a Game With Trash](https://www.youtube.com/watch?v=sKlcCplUODw)
 - [Best C++ Game Wins $1000 - Game Making Challenge](https://www.youtube.com/watch?v=_yyKYl1LAHM)
 - [9ª QIDV (8/11) : Ramón Santamaría presenta su RayLib (Spanish)](https://www.youtube.com/watch?v=LKdqM8Wv6qk)
 - [QIDV 12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib (Spanish)](https://www.youtube.com/watch?v=tKq9mpEBQFg)
@@ -521,6 +522,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Digital Crafters #2 - Ramon Santamaria](https://www.youtube.com/watch?v=wnbJpdjAHg8)
 - [Interview with @imakefoss curator and Ramon Santamaria about raylib](https://www.youtube.com/watch?v=NM1gMvHwDwA)
 - [Official raylib 2.5 presentation](https://www.youtube.com/watch?v=78aa2wuiGmI)
+- [raylib 4.0 Released -- The Easiest C/C++ Game Library Just Got Even Better](https://www.youtube.com/watch?v=H_Oe82SqQ8Y)
 - [raylib 3.7 Released](https://www.youtube.com/watch?v=c8hUF75f0kk)
 - [RayLib 3.5 Released -- C/C++ GameDev Easy Mode](https://www.youtube.com/watch?v=RZJ-Z--6uxY)
 - [Raylib 3.0 Released -- The Best Way to Learn C or C++ Game Development*](https://www.youtube.com/watch?v=xx9ntuvA1t0)
