@@ -478,6 +478,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Videos
 
+- [iqm animation raylib 4.0 example - Tutorial](https://www.youtube.com/watch?v=_EurjoraotA)
 - [RayLib Review / Open source free game library / Game Engine / Delphi, Pascal, Lazarus, C, C++, C#](https://www.youtube.com/watch?v=Z6Eg9UfC_6U&t=616s)
 - [RayLib / Обзор игровой библиотеки / Pascal, Delphi, Lazarus, C++, C#, Java, JavaScript, Python, Perl(Russian)](https://www.youtube.com/watch?v=GUDzyXlmpVk&t=74s)
 - [Making a Game With Trash](https://www.youtube.com/watch?v=sKlcCplUODw)
