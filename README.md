@@ -220,6 +220,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [TheDarkBug/simple_raycasting](https://github.com/TheDarkBug/simple_raycasting)                       | Simple raycasting "engine" written in C with raylib for graphics.                                                                                                    |
 | [LunaRyuko/LunarViewer](https://github.com/LunaRyuko/LunarViewer)                                     | Model viewer for Quake 1 and Hexen 2.                                                                                                                                |
 | [myuce/mapviewer](https://github.com/myuce/mapviewer)                                                 | Very primitive map viewer for the Quake map format.                                                                                                                  |
+| [catmanl/minitile](https://github.com/catmanl/minitile)                                               | A mini tilemap editor                                                                                                                                                |
+| [catmanl/lowres](https://github.com/catmanl/lowres)                                                   | A small game with small graphics                                                                                                                                     |
 
 ### Deprecated/Removed/Unknown bindings
 
