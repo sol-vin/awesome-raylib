@@ -321,7 +321,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [edomin/Raygui_Helloworld](https://github.com/edomin/Raygui_Helloworld)                                                   | Example of using raygui library with tigr graphics library.                                                                                |
 | [JohnLins/SphereDensity](https://github.com/JohnLins/SphereDensity)                                                       | Example of 3D rendered sphere increasing in "density" by increasing the rings and slices.                                                  |
 | [badlydrawnrod/evaluate-raylib](https://github.com/badlydrawnrod/evaluate-raylib)                                         | Few short and cross-platform raylib demos. Known to work on Windows, Raspberry Pi 400 (desktop + native), Web (emscripten).                |
-| [c-krit/kraber](https://github.com/c-krit/kraber)                                                                         | Cool ideas and experiments with raylib, Written in C.                                                                                      |
 | [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper)                                                   | Iterative melancholy written in Factor.                                                                                                    |
 | [jmorel33/RayLib-Video-Modes](https://github.com/jmorel33/RayLib-Video-Modes)                                             | Example of getting list of monitor's video modes from GLFW3 with raylib!                                                                   | 
 | [TheCatOverlord/Raylib-Joystick](https://github.com/TheCatOverlord/Raylib-Joystick)                                       | Example implementing Joystick input for raylib using `<linux/joystick.h>` Linux module.                                                    |
@@ -478,6 +477,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Compiler Raylib sur Windows (French)](https://www.youtube.com/watch?v=XEpmMBM01Zg)
 - [Raylib setup on Codeblocks](https://www.youtube.com/watch?v=a2IUxJFr8sg)
 - [Tile maps en Raylib con Tileson (Spanish)](https://www.youtube.com/watch?v=Gq9sTaeHtj4)
+- [윈도우 10에서 Visual Studio Code로 raylib 개발 환경 구축하기 (Korean)](https://jdeokkim.github.io/setting-up-raylib-with-vscode-on-windows)
 
 ### Videos
 
