@@ -478,6 +478,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Raylib setup on Codeblocks](https://www.youtube.com/watch?v=a2IUxJFr8sg)
 - [Tile maps en Raylib con Tileson (Spanish)](https://www.youtube.com/watch?v=Gq9sTaeHtj4)
 - [윈도우 10에서 Visual Studio Code로 raylib 개발 환경 구축하기 (Korean)](https://jdeokkim.github.io/setting-up-raylib-with-vscode-on-windows)
+- [raylib에서 한글 글꼴 사용하기 (Korean)](https://jdeokkim.github.io/using-korean-fonts-with-raylib)
 
 ### Videos
 
