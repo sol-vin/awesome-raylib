@@ -27,376 +27,999 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ### Gists
 
-| Name                                                                                                                   | Description                                                                                                |
-|------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| [ohmree/sort.c](https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc)                                       | C Sorting example that uses raylib.                                                                        |
-| [satinxs/bleed.c](https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae)                                    | Bleed bug when drawing rectangles with raylib.                                                             |
-| [masterex1000/agui.h](https://gist.github.com/masterex1000/92c861eeef03e761d0addc6edc0b741f)                           | Small UI helper library intended to be used with raylib.                                                   |
-| [SamyBencherif/rpmd.c](https://gist.github.com/SamyBencherif/00412fa24b411c07ad57176e64793fb5)                         | Pixelated 2D lighting with shadows in raylib, software accelerated.                                        |
-| [Goodguyr/client_GUI.c](https://gist.github.com/Goodguyr/284a262dc95ab0a35b498115c1cb3d41)                             | raylib example of networking, Drawing circles for each player.                                             |
-| [JeffM2501/pan.c](https://gist.github.com/JeffM2501/3c7da5c2b7e078e254d673f91489c78f)                                  | raylib example of mouse drag panning for 2D camera.                                                        |
-| [Demizdor/noisepl.c](https://gist.github.com/Demizdor/e916ba765336c389af4ecd2c557a6be6)                                | Noise Planets example made with raylib.                                                                    |
-| [Pikachuxxxx/RayCollisions.c](https://gist.github.com/Pikachuxxxx/0dda4b70bf71b794b08923df34961844)                    | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle.         |
-| [mattj1/raylib_dpi_hack.c](https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1)                            | Function to get window DPI.                                                                                |
-| [Rabios/DrawTexturePro3D.c](https://gist.github.com/Rabios/ccbb08d7ff4f41af19d53bf02d803815)                           | Draw 2D texture with raylib in 3D space!                                                                   |
-| [dotxnc/raynames.h](https://gist.github.com/dotxnc/403caefa3bd1eae3b8e265e79d6508ad)                        	 		 | Header that provides lowercase name aliases for types and functions of raylib, raymath, easings, And rnet. |
-| [AregevDev/raylibvectors.c](https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985)                        | raylib example for 2D Vectors.                                                                             |
-| [EdwardDowling/maze.c](https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2)                                     | Maze generation and raycasting example.                                                                    |
-| [pluckyporcupine/core_2d_camera_c-mera.lisp](https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374) | raylib core_2d_camera example ported to [C-Mera](https://github.com/kiselgra/c-mera)!                      |
-| [JeffM2501/core_split_screen.c](https://gist.github.com/JeffM2501/85e3c3fa4c5296227ab91dd7d2dec471)                    | Simple splitscreen implemntation for raylib.                                                               |
-| [JeffM2501/models_mesh_generation.c](https://gist.github.com/JeffM2501/18964218591e5aa302f17f0ae5a45b77)               | Example shows that Mesh generation of quad with UV repeats in raylib.                                      |
-| [JeffM2501/imgui_docking_exmaple.cpp](https://gist.github.com/JeffM2501/4c3a7e8a85302f743f8bd9dc1aae00ae)              | Example of how to do editor style docking in ImGui for raylib.                                             |
-| [JeffM2501/varfps.c](https://gist.github.com/JeffM2501/588d8b632d1bf49c7f010dde0a9dcbee)                               | raylib test showing how frame based motion can be problematic.                                             |
-| [JeffM2501/raylib worldspace panning with rotation](https://gist.github.com/JeffM2501/703728379eb6e9d51d33201d1a1fe05d)| raylib example of worldspace panning with rotation.                                                        |
-| [JeffM2501/raylib worldspace panning](https://gist.github.com/JeffM2501/edb5b8bbfd5a1744d4f97865ad4be989)              | raylib example of worldspace panning without rotation.                                                     |
-| [JeffM2501/Model merge for raylib](https://gist.github.com/JeffM2501/08d20cdd931456ad0e52905401cc34af)                 | Example of model merge made with raylib.                                                                   |
-| [JeffM2501/raylib resize fullscreen example](https://gist.github.com/JeffM2501/00cf5653f41337d8c9e8db40deb25656)       | raylib resize fullscreen example.                                                                          |
-| [JeffM2501/orbitcamera.cpp](https://gist.github.com/JeffM2501/000787070aef421a00c02ae4cf799ea1)                        | Example of orbit camera made for raylib!                                                                   |
-| [JeffM2501/RLAssets.cpp](https://gist.github.com/JeffM2501/bd1092ce0eaedd26fe3ca60e1743ce40)                           | Basic platform independent asset folder management for raylib.                                             |
-| [JeffM2501/Basic Shot Animation raylib](https://gist.github.com/JeffM2501/a6eb14d734f88a065a73adb729eed1f7)            | Basic animation made with raylib.                                                                          |
-| [JeffM2501/Basic entity game](https://gist.github.com/JeffM2501/a5987d2f4575e871f561197232ba0f60)                      | Entity example made with raylib.                                                                           |
-| [JeffM2501/DrawTextureProZ](https://gist.github.com/JeffM2501/1c4c9c8048cbb19d11c9807518196b69)                        | Modified version of `DrawTexturePro` that adds Z Dimension/Depth!                                          |
-| [JeffM2501/raylib fullscreen toggle example](https://gist.github.com/JeffM2501/6e4630a0e34c0c7dddf066f7192e342d)       | raylib fullscreen toggle example made with raylib.                                                         |
+| Name         | Author             | Description                                    |
+|--------------|--------------------|------------------------------------------------|
+| [sort.c][1]  | [ohmree][2]        | C Sorting example that uses raylib.            |
+| [bleed.c][3] | [satinxs][4]       | Bleed bug when drawing rectangles with raylib. |
+| [agui.h][5]  | [masterex1000][6]  | Small UI helper library intended to be used with raylib. |
+| [rpmd.c][7]  | [SamyBencherif][8] | Pixelated 2D lighting with shadows in raylib, software accelerated.  |
+| [client_GUI.c][9] | [Goodguyr][10] | raylib example of networking, Drawing circles for each player.   |
+| [pan.c][11]  | [JeffM2501][12] | raylib example of mouse drag panning for 2D camera. |
+| [noisepl.c][13] | [Demizdor][14] | Noise Planets example made with raylib. |
+| [RayCollisions.c][15] | [Pikachuxxxx][16] | Function to Detect Collisions Between a Ray and a Rectangle and Dynamic Rectangle and a Rectangle. |
+| [raylib_dpi_hack.c][17] | [mattj1][18] | Function to get window DPI. |
+| [DrawTexturePro3D.c][19] | [Rabios][20] | Draw 2D texture with raylib in 3D space! |
+| [raynames.h][21] | [dotxnc][22] | Header that provides lowercase name aliases for types and functions of raylib, raymath, easings, And rnet. |
+| [raylibvectors.c][23] | [AregevDev][24] | raylib example for 2D Vectors. |
+| [maze.c][25] | [EdwardDowling][26] | Maze generation and raycasting example. |
+| [core_2d_camera_c-mera.lisp][27] | [pluckyporcupine][28] | raylib core_2d_camera example ported to [C-Mera][29]! |
+| [core_split_screen.c][30] | [JeffM2501][12] | Simple splitscreen implemntation for raylib. |
+| [models_mesh_generation.c][31] | [JeffM2501][12] | Example shows that Mesh generation of quad with UV repeats in raylib. |
+| [imgui_docking_exmaple.cpp][32] | [JeffM2501][12] | Example of how to do editor style docking in [ImGui][33] for raylib. |
+| [varfps.c][34] | [JeffM2501][12] | raylib test showing how frame based motion can be problematic. |
+| [raylib worldspace panning with rotation][35] | [JeffM2501][12] | raylib example of worldspace panning with rotation. |
+| [raylib worldspace panning][36] | [JeffM2501][12] | raylib example of worldspace panning without rotation. |
+| [Model merge for raylib][37] | [JeffM2501][12] | Example of model merge made with raylib. |
+| [raylib resize fullscreen example][38] | [JeffM2501][12] | raylib resize fullscreen example. |
+| [orbitcamera.cpp][39] | [JeffM2501][12] | Example of orbit camera made for raylib! |
+| [RLAssets.cpp][40] | [JeffM2501][12] | Basic platform independent asset folder management for raylib. |
+| [Basic Shot Animation raylib][41] | [JeffM2501][12] | Basic animation made with raylib. |
+| [Basic entity game][42] | [JeffM2501][12] | Entity example made with raylib. |
+| [DrawTextureProZ][43] | [JeffM2501][12] | Modified version of `DrawTexturePro` that adds Z Dimension/Depth! |
+| [raylib fullscreen toggle example][44] | [JeffM2501][12] | fullscreen toggle example made with raylib. |
+
+[1]: https://gist.github.com/ohmree/dac78b36b736a71dc9a423d10b9509cc
+[2]: https://github.com/ohmree
+[3]: https://gist.github.com/satinxs/e55461da74ba378a09d813cb6767ffae
+[4]: https://github.com/satinxs
+[5]: https://gist.github.com/masterex1000/92c861eeef03e761d0addc6edc0b741f
+[6]: https://github.com/masterex1000
+[7]: https://gist.github.com/SamyBencherif/00412fa24b411c07ad57176e64793fb5
+[8]: https://github.com/SamyBencherif
+[9]: https://gist.github.com/Goodguyr/284a262dc95ab0a35b498115c1cb3d41
+[10]: https://github.com/Goodguyr
+[11]: https://gist.github.com/JeffM2501/3c7da5c2b7e078e254d673f91489c78f
+[12]: https://github.com/JeffM2501
+[13]: https://gist.github.com/Demizdor/e916ba765336c389af4ecd2c557a6be6
+[14]: https://github.com/Demizdor
+[15]: https://gist.github.com/Pikachuxxxx/0dda4b70bf71b794b08923df34961844
+[16]: https://github.com/Pikachuxxxx
+[17]: https://gist.github.com/mattj1/606a94527badb6ffa7d22245c9b745b1
+[18]: https://github.com/mattj1
+[19]: https://gist.github.com/Rabios/ccbb08d7ff4f41af19d53bf02d803815
+[20]: https://github.com/Rabios
+[21]: https://gist.github.com/dotxnc/403caefa3bd1eae3b8e265e79d6508ad
+[22]: https://github.com/dotxnc
+[23]: https://gist.github.com/AregevDev/737d14ce64be059ed2b6d0d973361985
+[24]: https://github.com/AregevDev
+[25]: https://gist.github.com/EdwardDowling/01a872cca79e1404bbc2
+[26]: https://github.com/EdwardDowling
+[27]: https://gist.github.com/pluckyporcupine/bbaa93b00e020c53faf27e5bde087374
+[28]: https://github.com/pluckyporcupine
+[29]: https://github.com/kiselgra/c-mera
+[30]: https://gist.github.com/JeffM2501/85e3c3fa4c5296227ab91dd7d2dec471
+[31]: https://gist.github.com/JeffM2501/18964218591e5aa302f17f0ae5a45b77
+[32]: https://gist.github.com/JeffM2501/4c3a7e8a85302f743f8bd9dc1aae00ae
+[33]: https://github.com/ocornut/imgui
+[34]: https://gist.github.com/JeffM2501/588d8b632d1bf49c7f010dde0a9dcbee
+[35]: https://gist.github.com/JeffM2501/703728379eb6e9d51d33201d1a1fe05d
+[36]: https://gist.github.com/JeffM2501/edb5b8bbfd5a1744d4f97865ad4be989
+[37]: https://gist.github.com/JeffM2501/08d20cdd931456ad0e52905401cc34af
+[38]: https://gist.github.com/JeffM2501/00cf5653f41337d8c9e8db40deb25656
+[39]: https://gist.github.com/JeffM2501/000787070aef421a00c02ae4cf799ea1
+[40]: https://gist.github.com/JeffM2501/bd1092ce0eaedd26fe3ca60e1743ce40
+[41]: https://gist.github.com/JeffM2501/a6eb14d734f88a065a73adb729eed1f7
+[42]: https://gist.github.com/JeffM2501/a5987d2f4575e871f561197232ba0f60
+[43]: https://gist.github.com/JeffM2501/1c4c9c8048cbb19d11c9807518196b69
+[44]: https://gist.github.com/JeffM2501/6e4630a0e34c0c7dddf066f7192e342d
 
 ### Homebrew Ports
 
-| Name                                                                                                                   | Description                                                                                                                                |
-|------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [orbisdev-orbisGl2](https://github.com/orbisdev/orbisdev-orbisGl2)                                                     | raylib port for PS4 that intended to be used as modern graphics backend, Examples are [here!](https://github.com/orbisdev/orbisGl2samples) |
-| [psp2dev/raylib4Vita](https://github.com/psp2dev/raylib4Vita)                                                          | raylib port for PlayStation Vita.                                                                                                          |
-| [Gota7/3ds-raylib](https://github.com/Gota7/3ds-raylib)                                                                | raylib port for Nintendo 3DS.                                                                                                              |
+| Name                    | Author         | Platform              |
+|-------------------------|----------------|-----------------------|
+| [orbisdev-orbisGl2][45] | [orbisdev][46] | Sony PlayStation 4    |
+| [raylib4Vita][47]       | [psp2dev][48]  | Sony PlayStation Vita |
+| [3ds-raylib][49]        | [Gota7][50]    | Nintendo 3DS          |
+
+[45]: https://github.com/orbisdev/orbisdev-orbisGl2
+[46]: https://github.com/orbisdev
+[47]: https://github.com/psp2dev/raylib4Vita
+[48]: https://github.com/psp2dev
+[49]: https://github.com/Gota7/3ds-raylib
+[50]: https://github.com/Gota7
 
 ### Libraries and Frameworks
 
-| Name                                                                                  | Description                                                                                                                                |
-|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [raysan5/raylib](https://github.com/raysan5/raylib)                                   | Simple and easy-to-use library to enjoy videogames programming.                                                                            |
-| [SasLuca/rayfork](https://github.com/SasLuca/rayfork)                                 | Single header and source, cross-platform, allocator-aware, C99 game libraries.                                                             |
-| [Rabios/rayport](https://github.com/Rabios/rayport)                                   | Awesome C99, Header-Only, rayfork wrapper for raylib!                                                                                      |
-| [Rabios/rayutils](https://github.com/Rabios/rayutils)                                 | Single-Header library that extends raylib with some awesome functionality!                                                                 |
-| [raysan5/raygui](https://github.com/raysan5/raygui)                                   | Simple and easy-to-use immediate-mode GUI library.                                                                                         |
-| [victorfisac/Physac](https://github.com/victorfisac/Physac)                           | 2D physics header-only library for videogames developed in C using raylib library.                                                         |
-| [raysan5/rpng](https://github.com/raysan5/rpng)                                       | Simple and easy-to-use library to manage png chunks.                                                                                       |
-| [raysan5/rres](https://github.com/raysan5/rres)                                       | Simple and easy-to-use file-format to package resources.                                                                                   |
-| [raysan5/raudio](https://github.com/raysan5/raudio)                                   | Simple and easy-to-use audio library based on miniaudio.                                                                                   |
-| [firststef/ECSlib](https://github.com/firststef/ECSlib)                               | Library with ECS classes in C++ using raylib.                                                                                              |
-| [osom8979/tbag](https://github.com/osom8979/tbag)                                     | Third party extension utility project.                                                                                                     |
-| [oswjk/imgui-impl-raylib](https://github.com/oswjk/imgui-impl-raylib)                 | raylib backend for Dear ImGui.                                                                                                             |
-| [haydenhigg/Libre](https://github.com/haydenhigg/Libre)                               | Crystal graphics library that is built on raylib.                                                                                          |
-| [nezvers/GameSystemsInC](https://github.com/nezvers/GameSystemsInC)                   | TileMap & Sprite systems for raylib.                                                                                                       |
-| [robloach/raylib-asprite](https://github.com/RobLoach/raylib-aseprite)                | Load [Aseprite](https://www.aseprite.org) files for animated sprites in raylib.                                                            |
-| [raylib-nuklear](https://github.com/RobLoach/raylib-nuklear)                          | Nuklear immediate mode GUI for raylib.                                                                                                     |
-| [zworld-apps/zgui](https://github.com/zworld-apps/zgui)                               | GUI system based on Constraints for raylib, Written in Go.                                                                                 |
-| [Slixe/visual-go](https://github.com/Slixe/visual-go)                                 | Go Framework to create simple application using raylib & Flex.                                                                             |
-| [basp1/rlyeh](https://github.com/basp1/rlyeh)                                         | Simple and easy-to-use GUI API library for raylib-go, Written in Go.                                                                       |
-| [smthnspcl/raycons](https://github.com/smthnspcl/raycons)                             | Icons drawn by raylib, Written in C++.                                                                                                     |
-| [smthnspcl/raygauge](https://github.com/smthnspcl/raygauge)                           | Simple gauges to display values with raylib, Written in C++.                                                                               |
-| [dbriemann/libpartikel](https://github.com/dbriemann/libpartikel)                     | Simple particle system library made with and for raylib. Works as header only library.                                                     |
-| [WEREMSOFT/spine-raylib-runtimes](https://github.com/WEREMSOFT/spine-raylib-runtimes) | raylib implementation of the C spine runtimes.                                                                                             |
-| [WEREMSOFT/stl-loader-for-raylib](https://github.com/WEREMSOFT/stl-loader-for-raylib) | STL loader for raylib, Allows to load 3dPrinter file types into raylib.                                                                    |
-| [TheLumaio/Raylib-GBuffers](https://github.com/TheLumaio/Raylib-GBuffers)             | GBuffer implementation for raylib.                                                                                                         |
-| [tofuengine/tofu](https://github.com/tofuengine/tofu)                                 | Lightweight 2D framework with a lo-fi vibe, for fast game prototyping. Uses OpenGL through GLFW3. Scripted in Lua.                         |
-| [Ferrohound/RaylibEX](https://github.com/Ferrohound/RaylibEX)                         | raylib Extra incorporates more basic functionality to raylib while keeping the hands-on aspect!                                            |
-| [JusticeShultz/MathX](https://github.com/JusticeShultz/MathX)                         | Detailed custom math library programmed in C++ by Justice Shultz that includes demos that uses raylib.                                     |
-| [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI)               | Just a simple UI using raylib (Can be used as library), Written in C#.                                                                     |
-| [raylib-tmx](https://github.com/RobLoach/raylib-tmx)                                  | Load and draw [Tiled](https://www.mapeditor.org/) `.tmx` tile maps through the [TMX C Loader](https://github.com/baylej/tmx).              |
-| [nbdy/ruicf](https://github.com/nbdy/ruicf)                                           | C++ raylib UI controls framework.                                                                                                          |
-| [JeffM2501/RLGameGui](https://github.com/JeffM2501/RLGameGui)                         | Resolution independent GUI for raylib, Written in C++!                                                                                     |
-| [jackcarey/raylib-extensions](https://github.com/jackcarey/raylib-extensions)         | Modifications/Additions to [raysan5/raylib](https://github.com/raysan5/raylib) and [raysan5/raygui](https://github.com/raysan5/raygui).    |
-| [coolcoy12/RayLibUtils](https://github.com/coolcoy12/RayLibUtils)                     | Useful UI and effects for raylib for C++!                                                                                                  |
-| [moonsteal/raylib-barebones](https://github.com/moonsteal/raylib-barebones)           | Stripped down version of raylib with Meson.                                                                                                |
-| [Doy-lee/RaylibSIMD](https://github.com/Doy-lee/RaylibSIMD)                           | SIMD Implementation of raylib's API.                                                                                                       |
-| [8bitPandaPlugins/RTAudioGameLib](https://github.com/8bitPandaPlugins/RTAudioGameLib) | C++ Game API built on raylib and RTaudio for latency critical implimentations.                                                             |
-| [zzador/RayLib-Utilities](https://github.com/zzador/RayLib-Utilities)                 | Some utility & helper functions for raylib and raygui.                                                                                     |
-| [jozanza/libraygun](https://github.com/jozanza/libraygun)                             | Utils for raylib.                                                                                                                          |
-| [JeffM2501/raylibExtras](https://github.com/JeffM2501/raylibExtras)                   | C++ Utilities and common code for use with raylib.                                                                                         |
-| [Ushio/raylibImGui](https://github.com/Ushio/raylibImGui)                             | C++ Dear ImGui integration for raylib.                                                                                                     |
-| [nicholasimon/displayfx_raylib](https://github.com/nicholasimon/displayfx_raylib)     | Few effects to use on top of your game screen, scanlines, noise lines and pixel noise, written in Go.                                      |
-| [JacobLondon/rlgutils](https://github.com/JacobLondon/rlgutils)                       | Golang utilities for raylib.                                                                                                               |
-| [thyliverman/PaperSDL](https://github.com/thyliverman/PaperSDL)                       | Small software library, designed to make using raylib-cs simpler and more concise, Written in C#.                                          |
-| [hbiblia/gtk-raylib](https://github.com/hbiblia/gtk-raylib)                           | GTK integration with raylib.                                                                                                               |
-| [impzero/gastar](https://github.com/impzero/gastar)                                   | Algorithm implemented in Go visualized using raylib.                                                                                       |
-| [RobLoach/raylib-physfs](https://github.com/RobLoach/raylib-physfs)                   | Provides integration with the virtual file system [PhysicsFS](https://www.icculus.org/physfs)                                              |
-| [thyliverman/Paper](https://github.com/thyliverman/Paper)                             | C++ rewrite of PaperSDL, dedicated to making raylib just a little easier to work with.                                                     |
-| [AliElSaleh/Animator-For-Raylib](https://github.com/AliElSaleh/Animator-For-Raylib)   | C/C++ Animator lib.                                                                                                                        |
-| [LilySweetCat/RaylibCs-UI](https://github.com/LilySweetCat/RaylibCs-UI)               | Just a simple UI using raylib, Written in C#.                                                                                              |
-| [JeffM2501/TestFrame](https://github.com/JeffM2501/TestFrame)                         | Test framework that uses raylib and ImGui together to help test and develop concept and uses C++ classes for windows and views.            |
-| [c-krit/ferox](https://github.com/c-krit/ferox)                                       | A 2D collision detection and physics library written in C.                                                                                          |
-| [ProfJski/RaylibOpOverloads](https://github.com/ProfJski/RaylibOpOverloads)           | C++ Operator Overloads for raylib.                                                                                                         |
-| [electronstudio/rlzero](https://github.com/electronstudio/rlzero)                     | Simplified API for raylib to enable beginners to create 3D games, Inspired by Pygame Zero.                                                 | 
-| [haxeui/haxeui-raylib](https://github.com/haxeui/haxeui-raylib)                       | raylib backend for HaxeUI.                                                                                                                 |
-| [Not-Nik/rlobj](https://github.com/Not-Nik/rlobj)                                     | drop-in replacement for raylib's obj loader.                                                                                               |
+| Name          | Author           | Description                                   |
+|---------------|------------------|-----------------------------------------------|
+| [rayfork][51] | [SasLuca][52]    | Single header and source, cross-platform, allocator-aware, C99 game libraries. |
+| [rayport][53] | [Rabios][20]     | Awesome C99, Header-Only, rayfork wrapper for raylib! |
+| [rayutils][54] | [Rabios][20]    | Single-Header library that extends raylib with some awesome functionality! |
+| [raygui][55] | [raysan5][56]     | Simple and easy-to-use immediate-mode GUI library. |
+| [Physac][57] | [victorfisac][58] | 2D physics header-only library for videogames developed in C using raylib library. |
+| [rpng][59] | [raysan5][56] | Simple and easy-to-use library to manage png chunks. | 
+| [rres][60] | [raysan5][56] | Simple and easy-to-use file-format to package resources. |
+| [raudio][61] | [raysan5][56] | Simple and easy-to-use audio library based on [miniaudio][62]. |
+| [ECSlib][63] | [firststef][64] | Library with ECS classes in C++ using raylib. |
+| [tbag][65] | [osom8979][66] | Third party extension utility project. |
+| [imgui-impl-raylib][67] | [oswjk][68] | raylib backend for Dear ImGui. |
+| [Libre][69] | [haydenhigg][70] | [Crystal][71] graphics library that is built on raylib. |
+| [GameSystemsInC][72] | [nezvers][73] | TileMap & Sprite systems for raylib. |
+| [raylib-asprite][74] | [RobLoach][75] | Load [Aseprite][76] files for animated sprites in raylib. |
+| [raylib-nuklear][77] | [RobLoach][75] | [Nuklear][78] immediate mode GUI for raylib. |
+| [zgui][79] | [zworld-apps][80] | GUI system based on Constraints for raylib, Written in [Go][81]. |
+| [visual-go][82] | [Slixe][83] | Framework to create simple application using raylib & Flex. |
+| [rlyeh][84] | [basp1][85] | Simple and easy-to-use GUI API library for [raylib-go][86], Written in Go. |
+| [raycons][87] | [smthnspcl][88] | Icons drawn by raylib, Written in C++. |
+| [raygauge][89] | [smthnspcl][88] | Simple gauges to display values with raylib, Written in C++. |
+| [libpartikel][90] | [dbriemann][91] | Simple particle system library made with and for raylib. Works as header only library. |
+| [spine-raylib-runtimes][92] | [WEREMSOFT][93] | raylib implementation of the C spine runtimes. |
+| [stl-loader-for-raylib][94] | [WEREMSOFT][93] | STL loader for raylib, Allows to load 3dPrinter file types into raylib. |
+| [Raylib-GBuffers][95] | [TheLumaio][96] | GBuffer implementation for raylib. |
+| [tofu][97] | [tofuengine][98] | Lightweight 2D framework with a lo-fi vibe, for fast game prototyping. Uses OpenGL through [GLFW3][99], Scripted in Lua. |
+| [RaylibEX][100] | [Ferrohound][101] | raylib Extra incorporates more basic functionality to raylib while keeping the hands-on aspect! |
+| [MathX][102] | [JusticeShultz][103] | Detailed custom math library programmed in C++ that includes demos that uses raylib. |
+| [LilySweetCat][104] | [RaylibCs-UI][105] | Just a simple UI using raylib (Can be used as library), Written in C#. |
+| [raylib-tmx][106] | [RobLoach][75] | Load and draw [Tiled][107] `.tmx` tile maps through the [TMX C Loader][108]. |
+| [ruicf][109] | [nbdy][110] | C++ raylib UI controls framework. |
+| [RLGameGui][111] | [JeffM2501][12] | Resolution independent GUI for raylib, Written in C++! |
+| [raylib-extensions][112] | [jackcarey][113] | Modifications/Additions to raylib and raygui. |
+| [RayLibUtils][114] | [coolcoy12][115] | Useful UI and effects for raylib written in C++! |
+| [raylib-barebones][116] | [moonsteal][117] | Stripped down version of raylib with Meson. |
+| [RaylibSIMD][118] | [Doy-lee][119] | SIMD Implementation of raylib's API. |
+| [RTAudioGameLib][120] | [8bitPandaPlugins][121] | C++ Game API built on raylib and [RTaudio][122] for latency critical implimentations. |
+| [RayLib-Utilities][123] | [zzador][124] | Some utility & helper functions for raylib and raygui. |
+| [libraygun][125] | [jozanza][126] | Utils for raylib. |
+| [raylibExtras][127] | [JeffM2501][12] | C++ Utilities and common code for use with raylib. |
+| [raylibImGui][128] | [Ushio][129] | C++ Dear ImGui integration for raylib. |
+| [displayfx_raylib][130] | [nicholasimon][131] | Few effects to use on top of your game screen, scanlines, noise lines and pixel noise, written in Go. |
+| [rlgutils][132] | [JacobLondon][133] | Go utilities for raylib. |
+| [PaperSDL][134] | [thyliverman][135] | Small software library, designed to make using [raylib-cs][136] simpler and more concise, Written in C#. |
+| [gtk-raylib][137] | [hbiblia][138] | [GTK][139] integration with raylib. |
+| [gastar][140] | [impzero][141] | Algorithm implemented in Go visualized using raylib. |
+| [raylib-physfs][142] | [RobLoach][75] | Provides integration with the virtual file system [PhysicsFS][143] |
+| [Paper][144] | [thyliverman][135] | C++ rewrite of [PaperSDL][134], dedicated to making raylib just a little easier to work with. |
+| [Animator-For-Raylib][145] | [AliElSaleh][146] | C/C++ Animator lib. |
+| [TestFrame][147] | [JeffM2501][12] | Test framework that uses raylib and ImGui together to help test and develop concept and uses C++ classes for windows and views. |
+| [ferox][148] | [c-krit][149] | 2D collision detection and physics library written in C. |
+| [RaylibOpOverloads][150] | [ProfJski][151] | C++ Operator Overloads for raylib. |
+| [rlzero][152] | [electronstudio][153] | Simplified API for raylib to enable beginners to create 3D games, Inspired by [Pygame Zero][154]. |
+| [haxeui-raylib][155] | [haxeui][156] | raylib backend for [HaxeUI][157]. |
+| [rlobj][158] | [Not-Nik][159] | drop-in replacement for raylib's obj loader. |
+
+[51]: https://github.com/SasLuca/rayfork
+[52]: https://github.com/SasLuca
+[53]: https://github.com/Rabios/rayport
+[54]: https://github.com/Rabios/rayutils
+[55]: https://github.com/raysan5/raygui
+[56]: https://github.com/raysan5
+[57]: https://github.com/victorfisac/Physac
+[58]: https://github.com/victorfisac
+[59]: https://github.com/raysan5/rpng
+[60]: https://github.com/raysan5/rres
+[61]: https://github.com/raysan5/raudio
+[62]: https://miniaud.io
+[63]: https://github.com/firststef/ECSlib
+[64]: https://github.com/firststef
+[65]: https://github.com/osom8979/tbag
+[66]: https://github.com/osom8979
+[67]: https://github.com/oswjk/imgui-impl-raylib
+[68]: https://github.com/oswjk
+[69]: https://github.com/haydenhigg/Libre
+[70]: https://github.com/haydenhigg
+[71]: https://crystal-lang.org
+[72]: https://github.com/nezvers/GameSystemsInC
+[73]: https://github.com/nezvers
+[74]: https://github.com/RobLoach/raylib-aseprite
+[75]: https://github.com/RobLoach
+[76]: https://www.aseprite.org
+[77]: https://github.com/RobLoach/raylib-nuklear
+[78]: https://github.com/Immediate-Mode-UI/Nuklear
+[79]: https://github.com/zworld-apps/zgui
+[80]: https://github.com/zworld-apps
+[81]: https://go.dev
+[82]: https://github.com/Slixe/visual-go
+[83]: https://github.com/Slixe
+[84]: https://github.com/basp1/rlyeh
+[85]: https://github.com/basp1
+[86]: https://github.com/gen2brain/raylib-go
+[87]: https://github.com/smthnspcl/raycons
+[88]: https://github.com/smthnspcl
+[89]: https://github.com/smthnspcl/raygauge
+[90]: https://github.com/dbriemann/libpartikel
+[91]: https://github.com/dbriemann
+[92]: https://github.com/WEREMSOFT/spine-raylib-runtimes
+[93]: https://github.com/WEREMSOFT
+[94]: https://github.com/WEREMSOFT/stl-loader-for-raylib
+[95]: https://github.com/TheLumaio/Raylib-GBuffers
+[96]: https://github.com/TheLumaio
+[97]: https://github.com/tofuengine/tofu
+[98]: https://github.com/tofuengine
+[99]: https://www.glfw.org
+[100]: https://github.com/Ferrohound/RaylibEX
+[101]: https://github.com/Ferrohound
+[102]: https://github.com/JusticeShultz/MathX
+[103]: https://github.com/JusticeShultz
+[104]: https://github.com/LilySweetCat/RaylibCs-UI
+[105]: https://github.com/LilySweetCat
+[106]: https://github.com/RobLoach/raylib-tmx
+[107]: https://www.mapeditor.org
+[108]: https://github.com/baylej/tmx
+[109]: https://github.com/nbdy/ruicf
+[110]: https://github.com/nbdy
+[111]: https://github.com/JeffM2501/RLGameGui
+[112]: https://github.com/jackcarey/raylib-extensions
+[113]: https://github.com/jackcarey
+[114]: https://github.com/coolcoy12/RayLibUtils
+[115]: https://github.com/coolcoy12
+[116]: https://github.com/moonsteal/raylib-barebones
+[117]: https://github.com/moonsteal
+[118]: https://github.com/Doy-lee/RaylibSIMD
+[119]: https://github.com/Doy-lee
+[120]: https://github.com/8bitPandaPlugins/RTAudioGameLib
+[121]: https://github.com/8bitPandaPlugins
+[122]: https://github.com/thestk/rtaudio
+[123]: https://github.com/zzador/RayLib-Utilities
+[124]: https://github.com/zzador
+[125]: https://github.com/jozanza/libraygun
+[126]: https://github.com/jozanza
+[127]: https://github.com/JeffM2501/raylibExtras
+[128]: https://github.com/Ushio/raylibImGui
+[129]: https://github.com/Ushio
+[130]: https://github.com/nicholasimon/displayfx_raylib
+[131]: https://github.com/nicholasimon
+[132]: https://github.com/JacobLondon/rlgutils
+[133]: https://github.com/JacobLondon
+[134]: https://github.com/thyliverman/PaperSDL
+[135]: https://github.com/thyliverman
+[136]: https://github.com/ChrisDill/Raylib-cs
+[137]: https://github.com/hbiblia/gtk-raylib
+[138]: https://github.com/hbiblia
+[139]: https://www.gtk.org
+[140]: https://github.com/impzero/gastar
+[141]: https://github.com/impzero
+[142]: https://github.com/RobLoach/raylib-physfs
+[143]: https://www.icculus.org/physfs
+[144]: https://github.com/thyliverman/Paper
+[145]: https://github.com/AliElSaleh/Animator-For-Raylib
+[146]: https://github.com/AliElSaleh
+[147]: https://github.com/JeffM2501/TestFrame
+[148]: https://github.com/c-krit/ferox
+[149]: https://github.com/c-krit
+[150]: https://github.com/ProfJski/RaylibOpOverloads
+[151]: https://github.com/ProfJski
+[152]: https://github.com/electronstudio/rlzero
+[153]: https://github.com/electronstudio
+[154]: https://github.com/lordmauve/pgzero
+[155]: https://github.com/haxeui/haxeui-raylib
+[156]: https://github.com/haxeui
+[157]: http://haxeui.org
+[158]: https://github.com/Not-Nik/rlobj
+[159]: https://github.com/Not-Nik
 
 ### Softwares
 
-| Name                                                                                                  | Description                                                                                                                                                          |
-|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [gtrxAC/gxarch](https://github.com/gtrxAC/gxarch)                                                     | Simple fantasy computer architecture that uses raylib and NodeJS!                                                                                                    |
-| [adct-the-experimenter/3d-audio-producer](https://github.com/adct-the-experimenter/3d-audio-producer) | Fork of the [adct-the-experimenter/binaural-audio-editor](https://github.com/adct-the-experimenter/binaural-audio-editor) that uses replaced with raygui and raylib. |
-| [Lockna/chip8](https://github.com/Lockna/chip8)                                                       | Very basic CHIP-8 emulator that uses raylib for rendering.                                                                                                           |
-| [skylersaleh/SkyBoy](https://github.com/skylersaleh/SkyBoy)                                           | Game Boy and Game Boy Color Emulator powered by raylib!                                                                                                              |
-| [sparkskapil/2D-CAD-Raylib](https://github.com/sparkskapil/2D-CAD-Raylib)                             | 2D CAD viewer for raylib.                                                                                                                                            |
-| [sorykkk/raygui_calculator](https://github.com/sorykkk/raygui_calculator)                             | Demonstrates simple and functional calculator gui written with raygui based on raylib library.                                                                       |
-| [MarcMDE/FunWithEasings](https://github.com/MarcMDE/FunWithEasings)                                   | Small and simple Easings visualizing tool developed in C with raylib and C easings.                                                                                  |
-| [Mudzii/SharedBuff](https://github.com/Mudzii/SharedBuff)                                             | Level editor using a shared buffer between an Maya API and raylib engine.                                                                                            |
-| [raysan5/rFXGen](https://github.com/raysan5/rfxgen)                                                   | Simple and easy-to-use fx sounds generator.                                                                                                                          |
-| [victorfisac/rPBR](https://github.com/victorfisac/rPBR)                                               | 3D model viewer with PBR pipeline written using OpenGL with usage of raylib in pure C.                                                                               |
-| [RobLoach/raylib-libretro](https://github.com/RobLoach/raylib-libretro)                               | libretro frontend using raylib.                                                                                                                                      |
-| [victorfisac/FNode](https://github.com/victorfisac/FNode)                                             | Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW.                                                      |
-| [MaximeHouis/RayTracer](https://github.com/MaximeHouis/RayTracer)                                     | Ray Tracer in C++ using raylib.                                                                                                                                      |
-| [fedqx/GeldaEngine](https://github.com/fedqx/GeldaEngine)                                             | C raylib game engine.                                                                                                                                                |
-| [xdrie/rengfx](https://github.com/xdrie/rengfx)                                                       | Lightweight, expressive, extensible 2D/3D game engine, Written in D.                                                                                                 |
-| [Rabios/raytaiko](https://github.com/Rabios/raytaiko)                                                 | Simple and moddable Taiko no Tatsujin engine written in Lua using raylib using TSnake41's LuaJIT bindings.                                                           |
-| [Rabios/raylua/tree/master/zerobrane](https://github.com/Rabios/raylua/tree/master/zerobrane)         | ZeroBrane Studio autocompletion for raylib Lua bindings.                                                                                                             |
-| [nurakmaljalil91/cbit-raylib](https://github.com/nurakmaljalil91/cbit-raylib)                         | C++ Game Engine built on top of raylib.                                                                                                                              |
-| [CarterPatterson/PhysicsEngine](https://github.com/CarterPatterson/PhysicsEngine)                     | Simple physics engine built in raylib for AIE CS 2019, Written in C++!                                                                                               |
-| [Guevara-chan/Midday-Commander](https://github.com/Guevara-chan/Midday-Commander)                     | •Retrofuturistic file manager•, Written in Nim.                                                                                                                      |
-| [hfabre/ttme](https://github.com/hfabre/ttme)                                                         | Tiny tile map editor, Written in Go.                                                                                                                                 |
-| [ProfJski/ArtColor](https://github.com/ProfJski/ArtColors)                                            | Sort of color mixing tools built with raylib.                                                                                                                        |
-| [Demizdor/experimental-raygui-editor](https://github.com/Demizdor/experimental-raygui-editor)         | Experimental GUI editor for raygui.                                                                                                                                  |
-| [rfaile313/Raylib-Buildfiles](https://github.com/rfaile313/Raylib-Buildfiles)                         | Simple Makefile that incorporates raylib on OS: Windows && Platform: Desktop.                                                                                        |
-| [redsled84/music-player](https://github.com/redsled84/music-player)                                   | Linked list music player using raylib.                                                                                                                               |
-| [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper)                               | Application for sorting images based on related "types" of items in the pictures.                                                                                    |
-| [WEREMSOFT/c99-raylib-vide-player](https://github.com/WEREMSOFT/c99-raylib-vide-player)               | Videoplayer using raylib. Play unsuported video format by the browser in the broswer.                                                                                |
-| [TheLumaio/baslike-editor](https://github.com/TheLumaio/baslike-editor)                               | Editor for baslike written in raylib.                                                                                                                                |
-| [pkeckler/PACKER](https://github.com/pkeckler/PACKER)                                                 | raylib asset packer.                                                                                                                                                 |
-| [ComLarsic/Chip8-raylib](https://github.com/ComLarsic/Chip8-raylib)                                   | CHIP8 emulator written in C# using raylib.                                                                                                                           |
-| [LesFarrell/Chip8](https://github.com/LesFarrell/Chip8)                                               | CHIP8 Emulator/Interpreter using written using C and the raylib library.                                                                                             |
-| [ralsina/cobra-py](https://github.com/ralsina/cobra-py)                                               | 80s-style Python environment.                                                                                                                                        |
-| [athreef/Alien-raylib](https://github.com/athreef/Alien-raylib)                                       | Alien distribution for raylib video game engine.                                                                                                                     |
-| [JusticeShultz/cpp-raylib-tilemap](https://github.com/JusticeShultz/cpp-raylib-tilemap)               | Source code for a runtime tile map tool in the C++ raylib library.                                                                                                   |
-| [MasterPlan by SolarLune](https://solarlune.itch.io/masterplan)                                       | easy-to-use graphical free-flow project management tool and idea board.                                                                                              |
-| [Cute Exporter by Clay Murray](https://powerc9000.itch.io/cute-asset-pipeline)                        | The best PSD layers to PNG texture atlas exporter.                                                                                                                   |
-| [MySprite by TonyButDead](https://tonybutdead.itch.io/mysprite)                                       | Free pixel art tool created in the Go programming language with raylib.                                                                                              |
-| [SeijiEmery's level editor](https://seijiemery.itch.io/agj-level-editor-in-a-weekend)                 | Quick experiment in building a small game/nice-ish level editor/platformer from scratch with raylib over a weekend.                                                  |
-| [rTexPacker by raylib technologies](https://raylibtech.itch.io/rtexpacker)                            | Simple and easy-to-use textures packer and font atlas generator.                                                                                                     |
-| [rTexViewer by raylib technologies](https://raylibtech.itch.io/rtexviewer)                            | Simple and easy-to-use textures viewer and pixel formats converter.                                                                                                  |
-| [rIconPacker by raylib technologies](https://raylibtech.itch.io/riconpacker)                          | Simple and easy-to-use icons packer.                                                                                                                                 |
-| [rGuiStyler by raylib technologies](https://raylibtech.itch.io/rguistyler)                            | Simple and easy-to-use raygui styles editor.                                                                                                                         |
-| [rGuiLayout by raylib technologies](https://raylibtech.itch.io/rguilayout)                            | Simple and easy-to-use raygui layouts editor.                                                                                                                        |
-| [rGuiIcons by raylib technologies](https://raylibtech.itch.io/rguiicons)                              | Simple and easy-to-use raygui icons editor.                                                                                                                          |
-| [obaodelana/graphingcalculator](https://github.com/obaodelana/graphingcalculator)                     | Graphing Calculator made with raylib using C.                                                                                                                        |
-| [krsn53/win-3d-maze](https://github.com/krsn53/win-3d-maze)                                           | Windows 3D Maze Screensaver in C++ with raylib.                                                                                                                      |
-| [MadeleinNyblom/LevelEditor-MayaPlugin](https://github.com/MadeleinNyblom/LevelEditor-MayaPlugin)     | Level editor that sends information from Maya to raylib using a circular buffer.                                                                                     |
-| [kenhyokun/khkFramework-raylib](https://github.com/kenhyokun/khkFramework-raylib)                     | Experimental C/C++ 2D game framework with raylib.                                                                                                                    |
-| [HurricaneInteractive/abyss_engine](https://github.com/HurricaneInteractive/abyss_engine)             | Very simple game engine written in Rust and built on top of raylib-rs.                                                                                               |
-| [HurricaneInteractive/abyss_editor](https://github.com/HurricaneInteractive/abyss_editor)             | Editor used for the abyss engine and built using Gatsby and Tauri.                                                                                                   |
-| [reidevries/CopyCat](https://github.com/reidevries/CopyCat)                                           | C++ 17 Game engine based on raylib and EnTT libraries, end goal of creating a tactical RPG.                                                                          |
-| [pery77/peryEngine](https://github.com/pery77/peryEngine)                                             | C/C++ Retro game engine based on raylib.                                                                                                                             |
-| [Italian-Coders-Group/Ungine](https://github.com/Italian-Coders-Group/Ungine)                         | Source-like rayLib-based game engine for C++.                                                                                                                        |
-| [senior-sigan/chat_from_scratch](https://github.com/senior-sigan/chat_from_scratch)                   | Code from the series of my streams where I work on creating Chat application absolutely from scratch, Written in C++.                                                |
-| [bayganik/mmGame-Engine-Raylib-ECS](https://github.com/bayganik/mmGame-Engine-Raylib-ECS)             | C# Game engine using Raylib-CS and Entitas lite as an ECS.                                                                                                           |
-| [xero1/ray-quake](https://github.com/xero1/ray-quake)                                                 | .NET Core Quake source port built using raylib.                                                                                                                      |
-| [practicing01/raylibeditor](https://github.com/practicing01/raylibeditor)                             | Editor made with raylib.                                                                                                                                             |
-| [pkeckler/PACKER](https://github.com/pkeckler/PACKER)                                                 | raylib asset packer.                                                                                                                                                 |
-| [parmaja/tyro](https://github.com/parmaja/tyro)                                                       | Simple graphical environment for kids and newbies, using raylib as small game engine to draw, Written in Pascal.                                                     |
-| [Fakaaa/Raylibculator](https://github.com/Fakaaa/Raylibculator)                                       | Calculator made with raylib.                                                                                                                                         |
-| [Elkantor/raylib_package](https://github.com/Elkantor/raylib_package)                                 | BSCXX module for raylib C library.                                                                                                                                   |
-| [RafaelOliveira/clay](https://github.com/RafaelOliveira/clay)                                         | 2D game engine for raylib in C++.                                                                                                                                    |
-| [sparkskapil/Quill](https://github.com/sparkskapil/Quill)                                             | 2D CAD Application using raylib and C++.                                                                                                                             |
-| [jmorel33/RayLib-Keyboard-keycode-tester](https://github.com/jmorel33/RayLib-Keyboard-keycode-tester) | Keyboard tester made with raylib.                                                                                                                                    |
-| [kugo12/sponGB](https://github.com/kugo12/sponGB)                                                     | Gameboy emulator written using Rust and raylib.                                                                                                                      |
-| [trikko/BlobEditor](https://github.com/trikko/BlobEditor)                                             | Simple raylib and Dlang project.                                                                                                                                     |
-| [Andre-LA/nprof](https://github.com/Andre-LA/nprof)                                                   | Very basic profiler for raylib-nelua, Written in Nelua.                                                                                                              |
-| [gergondet/mc_rtc-raylib](https://github.com/gergondet/mc_rtc-raylib)                                 | Simple mc_rtc GUI client using raylib.                                                                                                                               |
-| [KonPet/Red-Shell](https://github.com/KonPet/Red-Shell)                                               | Level Editor for the Mario vs Luigi Python clone made in C++ using raylib.                                                                                           |
-| [JonSnowbd/XPROEngine](https://github.com/JonSnowbd/XPROEngine)                                       | build-inside C game engine that utilizes raylib/Flecs/Binn to create incredibly fast games with C/Lua.                                                               |
-| [gilzoide/gargula](https://github.com/gilzoide/gargula)                                               | Game engine based on nested structs and compile-time tree traversals powered by raylib and D compatible with better C.                                               |
-| [randevlper/rayoflight](https://github.com/randevlper/rayoflight)                                     | 2D Engine implementing Box2D and raylib.                                                                                                                             |
-| [notsnail/v2](https://github.com/notsnail/v2)                                                         | Framework for games built with raylib.                                                                                                                               |
-| [erikerlandson/ray-ubi](https://github.com/erikerlandson/ray-ubi)                                     | Minimalist raylib distributed computing container image, based on Red Hat UBI.                                                                                       |
-| [Demizdor/particle_editor](https://github.com/Demizdor/particle_editor)                               | Experimental particle editor!                                                                                                                                        |
-| [gtrxAC/rlwm](https://github.com/gtrxAC/rlwm)                                                         | Fake operating system/window manager.                                                                                                                                |
-| [HellRok/Taylor](https://github.com/HellRok/Taylor)                                                   | Simple game engine built using raylib and MRuby.                                                                                                                     |
-| [MallocStudio/Sketch_Game_Engine](https://github.com/MallocStudio/Sketch_Game_Engine)                 | Simple game engine built on top of raylib that intended as personal hobby project.                                                                                   |
-| [TheDarkBug/simple_raycasting](https://github.com/TheDarkBug/simple_raycasting)                       | Simple raycasting "engine" written in C with raylib for graphics.                                                                                                    |
-| [LunaRyuko/LunarViewer](https://github.com/LunaRyuko/LunarViewer)                                     | Model viewer for Quake 1 and Hexen 2.                                                                                                                                |
-| [myuce/mapviewer](https://github.com/myuce/mapviewer)                                                 | Very primitive map viewer for the Quake map format.                                                                                                                  |
-| [catmanl/minitile](https://github.com/catmanl/minitile)                                               | A mini tilemap editor                                                                                                                                                |
+| Name       | Author     | Description                       |
+|------------|------------|-----------------------------------|
+| [gxarch][160] | [gtrxAC][161] | Simple fantasy computer architecture that uses raylib and [NodeJS][162]! |
+| [3d-audio-producer][163] | [adct-the-experimenter][164] | Fork of the [adct-the-experimenter/binaural-audio-editor][165] that uses replaced with raygui and raylib. |
+| [chip8][166] | [Lockna][167] | Very basic [CHIP-8][168] emulator that uses raylib for rendering. |
+| [SkyBoy][169] | [skylersaleh][170] | Game Boy and Game Boy Color Emulator powered by raylib! |
+| [2D-CAD-Raylib][171] | [sparkskapil][172] | 2D CAD viewer for raylib. |
+| [raygui_calculator][173] | [sorykkk][174] | Demonstrates simple and functional calculator gui written with raygui based on raylib library. |
+| [FunWithEasings][175] | [MarcMDE][176] | Small and simple Easings visualizing tool developed in C with raylib and C easings. |
+| [SharedBuff][177] | [Mudzii][178] | Level editor using a shared buffer between an Maya API and raylib engine. |
+| [rFXGen][179] | [raysan5][56] | Simple and easy-to-use fx sounds generator. |
+| [rPBR][180] | [victorfisac][58] | 3D model viewer with PBR pipeline written using OpenGL with usage of raylib in pure C. |
+| [raylib-libretro][181] | [RobLoach][75] | [libretro][182] frontend using raylib. |
+| [FNode][183] | [victorfisac][58] | Tool based in nodes to build GLSL shaders without any programming knowledge written in C using OpenGL and GLFW. |
+| [RayTracer][184] | [MaximeHouis][185] | Ray Tracer in C++ using raylib. |
+| [GeldaEngine][186] | [fedqx][187] | C raylib game engine. |
+| [rengfx][188] | [xdrie][189] | Lightweight, expressive, extensible 2D/3D game engine, Written in [D][190]. |
+| [raytaiko][191] | [Rabios][20] | Simple and moddable Taiko no Tatsujin engine written in [Lua][192] using raylib using [TSnake41][193]'s [LuaJIT bindings][194]. |
+| [cbit-raylib][195] | [nurakmaljalil91][196] | C++ Game Engine built on top of raylib. |
+| [PhysicsEngine][197] | [CarterPatterson][198] | Simple physics engine built in raylib for [AIE][199] CS 2019, Written in C++! |
+| [Midday-Commander][200] | [Guevara-chan][201] | •Retrofuturistic file manager•, Written in [Nim][202]. |
+| [ttme][203] | [hfabre][204] | Tiny tile map editor, Written in Go. |
+| [ArtColors][205] | [ProfJski][151] | Sort of color mixing tools built with raylib. |
+| [experimental-raygui-editor][206] | [Demizdor][14] |  Experimental GUI editor for raygui. |
+| [Raylib-Buildfiles][207] | [rfaile313][208] | Simple Makefile that incorporates raylib on OS: Windows && Platform: Desktop. |
+| [music-player][209] | [redsled84][210] | Linked list music player using raylib. |
+| [riley-duper][211] | [ArnautDaniel][212] | Iterative melancholy written in Factor. |
+| [raylib-vide-player][213] | [WEREMSOFT][93] | Videoplayer using raylib. Play unsuported video format by the browser in the broswer. |
+| [baslike-editor][214] | [TheLumaio][96] | Editor for [baslike][215] written in raylib. |
+| [PACKER][216] | [pkeckler][217] | raylib asset packer. |
+| [Chip8-raylib][218] | [ComLarsic][219] | [CHIP-8][168] emulator written in C# using raylib. |
+| [Chip8][220] | [LesFarrell][221] | [CHIP-8][168] Emulator/Interpreter using written using C and the raylib library. |
+| [cobra-py][222] | [ralsina][223] | 80s-style [Python][224] environment. |
+| [Alien-raylib][225] | [athreef][226] | Alien distribution for raylib video game engine. |
+| [cpp-raylib-tilemap][227] | [JusticeShultz][103] | Runtime tile map tool in the C++ raylib library. |
+| [MasterPlan][228] | [SolarLune][229] | easy-to-use graphical free-flow project management tool and idea board. |
+| [Cute Exporter][230] | [Clay Murray][231] | The best PSD layers to PNG texture atlas exporter. |
+| [MySprite][232] | [TonyButDead][233] | Free pixel art tool created in the Go programming language with raylib. |
+| [SeijiEmery's level editor][234] | [SeijiEmery][235] | Quick experiment in building a small game/nice-ish level editor/platformer from scratch with raylib over a weekend. |
+| [rTexPacker][236] | [raylib technologies][237] | Simple and easy-to-use textures packer and font atlas generator. |
+| [rTexViewer][238] | [raylib technologies][237] | Simple and easy-to-use textures viewer and pixel formats converter. |
+| [rIconPacker][239] | [raylib technologies][237] | Simple and easy-to-use icons packer. |
+| [rGuiStyler][240] | [raylib technologies][237] | Simple and easy-to-use raygui styles editor. |
+| [rGuiLayout][241] | [raylib technologies][237] | Simple and easy-to-use raygui layouts editor. |
+| [rGuiIcons][242] | [raylib technologies][237] | Simple and easy-to-use raygui icons editor. |
+| [graphingcalculator][243] | [obaodelana][244] | Graphing Calculator made with raylib using C. |
+| [win-3d-maze][245] | [krsn53][246] | Windows 3D Maze Screensaver in C++ with raylib. |
+| [LevelEditor-MayaPlugin][247] | [MadeleinNyblom][248] | Level editor that sends information from [Maya][249] to raylib using a circular buffer. |
+| [khkFramework-raylib][250] | [kenhyokun][251] | Experimental C/C++ 2D game framework with raylib. |
+| [abyss_engine][252] | [HurricaneInteractive][253] | Very simple game engine written in [Rust][254] and built on top of [raylib-rs][255]. |
+| [CopyCat][256] | [reidevries][257] | C++ 17 Game engine based on raylib and [EnTT][258] libraries, end goal of creating a tactical RPG. |
+| [peryEngine][259] | [pery77][260] | C/C++ Retro game engine based on raylib. |
+| [Ungine][261] | [The-Italian-Coders-Group][262] | [Source][263]-like raylib-based game engine for C++. |
+| [chat_from_scratch][264] | [senior-sigan][265] | Code from the series of my streams where I work on creating Chat application absolutely from scratch, Written in C++. |
+| [mmGame-Engine-Raylib-ECS][266] | [bayganik][267] | C# Game engine using Raylib-cs and [Entitas lite][268] as an ECS. |
+| [ray-quake][269] | [xero1][270] | [.NET][271] Core Quake source port built using raylib. |
+| [raylibeditor][272] | [practicing01][273] | Editor made with raylib. |
+| [tyro][274] | [parmaja][275] | Simple graphical environment for kids and newbies, using raylib as small game engine to draw, Written in Pascal. |
+| [Raylibculator][276] | [Fakaaa][277] | Calculator made with raylib. |
+| [raylib_package][278] | [Elkantor][279] | [BSCXX][280] module for raylib C library. |
+| [clay][281] | [RafaelOliveira][282] | 2D game engine for raylib in C++. |
+| [Quill][283] | [sparkskapil][172] | 2D CAD Application using raylib and C++. |
+| [RayLib-Keyboard-keycode-tester][284] | [jmorel33][285] | Keyboard tester made with raylib. |
+| [sponGB][286] | [kugo12][287] | Gameboy emulator written using Rust and raylib. |
+| [BlobEditor][288] | [trikko][289] | Simple raylib and Dlang project. |
+| [nprof][290] | [Andre-LA][291] | Very basic profiler for [raylib-nelua][292], Written in [Nelua][293]. |
+| [mc_rtc-raylib][294] | [gergondet][295] | Simple [mc_rtc][296] GUI client using raylib. |
+| [Red-Shell][297] | [KonPet][298] | Level Editor for the Mario vs Luigi Python clone made in C++ using raylib. |
+| [XPROEngine][299] | [JonSnowbd][300] | build-inside C game engine that utilizes raylib/[Flecs][301]/[Binn][302] to create incredibly fast games with C/Lua. |
+| [gargula][303] | [gilzoide][304] | Game engine based on nested structs and compile-time tree traversals powered by raylib and D compatible with better C. |
+| [randevlper][305] | [rayoflight][306] | 2D Engine implementing [Box2D][307] and raylib. |
+| [v2][308] | [notsnail][309] | Framework for games built with raylib. |
+| [ray-ubi][310] | [erikerlandson][311] | Minimalist raylib distributed computing container image, based on [Red Hat UBI][312]. |
+| [particle_editor][313] | [Demizdor][14] | Experimental particle editor! |
+| [rlwm][314] | [gtrxAC][160] | Fake operating system/window manager. |
+| [HellRok][315] | [Taylor][316] | Simple game engine built using raylib and [MRuby][317]. |
+| [Sketch_Game_Engine][318] | [MallocStudio][319] | Simple game engine built on top of raylib that intended as personal hobby project. |
+| [simple_raycasting][320] | [TheDarkBug][321] | Simple raycasting "engine" written in C with raylib for graphics. |
+| [LunarViewer][322] | [LunaRyuko][323] | Model viewer for Quake 1 and Hexen 2. |
+| [mapviewer][324] | [myuce][325] | Very primitive map viewer for the Quake map format. |
+| [minitile][326] | [catmanl][327] | A mini tilemap editor. |
+
+[160]: https://github.com/gtrxAC/gxarch
+[161]: https://github.com/gtrxAC
+[162]: https://nodejs.org
+[163]: https://github.com/adct-the-experimenter/3d-audio-producer
+[164]: https://github.com/adct-the-experimenter
+[165]: https://github.com/adct-the-experimenter/binaural-audio-editor
+[166]: https://github.com/Lockna/chip8
+[167]: https://github.com/Lockna
+[168]: https://en.wikipedia.org/wiki/CHIP-8
+[169]: https://github.com/skylersaleh/SkyBoy
+[170]: https://github.com/skylersaleh
+[171]: https://github.com/sparkskapil/2D-CAD-Raylib
+[172]: https://github.com/sparkskapil
+[173]: https://github.com/sorykkk/raygui_calculator
+[174]: https://github.com/sorykkk
+[175]: https://github.com/MarcMDE/FunWithEasings
+[176]: https://github.com/MarcMDE
+[177]: https://github.com/Mudzii/SharedBuff
+[178]: https://github.com/Mudzii
+[179]: https://github.com/raysan5/rfxgen
+[180]: https://github.com/victorfisac/rPBR
+[181]: https://github.com/RobLoach/raylib-libretro
+[182]: https://www.libretro.com
+[183]: https://github.com/victorfisac/FNode
+[184]: https://github.com/MaximeHouis/RayTracer
+[185]: https://github.com/MaximeHouis
+[186]: https://github.com/fedqx/GeldaEngine
+[187]: https://github.com/fedqx
+[188]: https://github.com/xdrie/rengfx
+[189]: https://github.com/xdrie
+[190]: https://dlang.org
+[191]: https://github.com/Rabios/raytaiko
+[192]: https://lua.org
+[193]: https://github.com/TSnake41
+[194]: https://github.com/TSnake41/raylib-lua
+[195]: https://github.com/nurakmaljalil91/cbit-raylib
+[196]: https://github.com/nurakmaljalil91
+[197]: https://github.com/CarterPatterson/PhysicsEngine
+[198]: https://github.com/CarterPatterson
+[199]: https://aieinstitute.edu.au
+[200]: https://github.com/Guevara-chan/Midday-Commander
+[201]: https://github.com/Guevara-chan
+[202]: https://nim-lang.org
+[203]: https://github.com/hfabre/ttme
+[204]: https://github.com/hfabre
+[205]: https://github.com/ProfJski/ArtColors
+[206]: https://github.com/Demizdor/experimental-raygui-editor
+[207]: https://github.com/rfaile313/Raylib-Buildfiles
+[208]: https://github.com/rfaile313
+[209]: https://github.com/redsled84/music-player
+[210]: https://github.com/redsled84
+[211]: https://github.com/ArnautDaniel/riley-duper
+[212]: https://github.com/ArnautDaniel
+[213]: https://github.com/WEREMSOFT/c99-raylib-vide-player
+[214]: https://github.com/TheLumaio/baslike-editor
+[215]: https://github.com/TheLumaio/baslike
+[216]: https://github.com/pkeckler/PACKER
+[217]: https://github.com/pkeckler
+[218]: https://github.com/ComLarsic/Chip8-raylib
+[219]: https://github.com/ComLarsic
+[220]: https://github.com/LesFarrell/Chip8
+[221]: https://github.com/LesFarrell
+[222]: https://github.com/ralsina/cobra-py
+[223]: https://github.com/ralsina
+[224]: https://python.org
+[225]: https://github.com/athreef/Alien-raylib
+[226]: https://github.com/athreef
+[227]: https://github.com/JusticeShultz/cpp-raylib-tilemap
+[228]: https://solarlune.itch.io/masterplan
+[229]: https://solarlune.itch.io
+[230]: https://powerc9000.itch.io/cute-asset-pipeline
+[231]: https://powerc9000.itch.io
+[232]: https://tonybutdead.itch.io/mysprite
+[233]: https://tonybutdead.itch.io
+[234]: https://seijiemery.itch.io/agj-level-editor-in-a-weekend
+[235]: https://seijiemery.itch.io
+[236]: https://raylibtech.itch.io/rtexpacker
+[237]: https://raylibtech.itch.io
+[238]: https://raylibtech.itch.io/rtexviewer
+[239]: https://raylibtech.itch.io/riconpacker
+[240]: https://raylibtech.itch.io/rguistyler
+[241]: https://raylibtech.itch.io/rguilayout
+[242]: https://raylibtech.itch.io/rguiicons
+[243]: https://github.com/obaodelana/graphingcalculator
+[244]: https://github.com/obaodelana
+[245]: https://github.com/krsn53/win-3d-maze
+[246]: https://github.com/krsn53
+[247]: https://github.com/MadeleinNyblom/LevelEditor-MayaPlugin
+[248]: https://github.com/MadeleinNyblom
+[249]: https://www.autodesk.com/products/maya/overview
+[250]: https://github.com/kenhyokun/khkFramework-raylib
+[251]: https://github.com/kenhyokun
+[252]: https://github.com/HurricaneInteractive/abyss_engine
+[253]: https://github.com/HurricaneInteractive
+[254]: https://www.rust-lang.org
+[255]: https://github.com/deltaphc/raylib-rs
+[256]: https://github.com/reidevries/CopyCat
+[257]: https://github.com/reidevries
+[258]: https://github.com/skypjack/entt
+[259]: https://github.com/pery77/peryEngine
+[260]: https://github.com/pery77
+[261]: https://github.com/Italian-Coders-Group/Ungine
+[262]: https://github.com/Italian-Coders-Group
+[263]: https://developer.valvesoftware.com/wiki/Source
+[264]: https://github.com/senior-sigan/chat_from_scratch
+[265]: https://github.com/senior-sigan
+[266]: https://github.com/bayganik/mmGame-Engine-Raylib-ECS
+[267]: https://github.com/bayganik
+[268]: https://github.com/rocwood/Entitas-Lite
+[269]: https://github.com/xero1/ray-quake
+[270]: https://github.com/xero1
+[271]: https://dotnet.microsoft.com
+[272]: https://github.com/practicing01/raylibeditor
+[273]: https://github.com/practicing01
+[274]: https://github.com/parmaja/tyro
+[275]: https://github.com/parmaja
+[276]: https://github.com/Fakaaa/Raylibculator
+[277]: https://github.com/Fakaaa
+[278]: https://github.com/Elkantor/raylib_package
+[279]: https://github.com/Elkantor
+[280]: https://github.com/Elkantor/bscxx
+[281]: https://github.com/RafaelOliveira/clay
+[282]: https://github.com/RafaelOliveira
+[283]: https://github.com/sparkskapil/Quill
+[284]: https://github.com/jmorel33/RayLib-Keyboard-keycode-tester
+[285]: https://github.com/jmorel33
+[286]: https://github.com/kugo12/sponGB
+[287]: https://github.com/kugo12
+[288]: https://github.com/trikko/BlobEditor
+[289]: https://github.com/trikko
+[290]: https://github.com/Andre-LA/nprof
+[291]: https://github.com/Andre-LA
+[292]: https://github.com/Andre-LA/raylib-nelua
+[293]: https://nelua.io
+[294]: https://github.com/gergondet/mc_rtc-raylib
+[295]: https://github.com/gergondet
+[296]: https://github.com/jrl-umi3218/mc_rtc
+[297]: https://github.com/KonPet/Red-Shell
+[298]: https://github.com/KonPet
+[299]: https://github.com/JonSnowbd/XPROEngine
+[300]: https://github.com/JonSnowbd
+[301]: https://github.com/SanderMertens/flecs
+[302]: https://github.com/liteserver/binn
+[303]: https://github.com/gilzoide/gargula
+[304]: https://github.com/gilzoide
+[305]: https://github.com/randevlper/rayoflight
+[306]: https://github.com/randevlper
+[307]: https://box2d.org
+[308]: https://github.com/notsnail/v2
+[309]: https://github.com/notsnail
+[310]: https://github.com/erikerlandson/ray-ubi
+[311]: https://github.com/erikerlandson
+[312]: https://developers.redhat.com/products/rhel/ubi
+[313]: https://github.com/Demizdor/particle_editor
+[314]: https://github.com/gtrxAC/rlwm
+[315]: https://github.com/HellRok/Taylor
+[316]: https://github.com/HellRok
+[317]: https://mruby.org
+[318]: https://github.com/MallocStudio/Sketch_Game_Engine
+[319]: https://github.com/MallocStudio
+[320]: https://github.com/TheDarkBug/simple_raycasting
+[321]: https://github.com/TheDarkBug
+[322]: https://github.com/LunaRyuko/LunarViewer
+[323]: https://github.com/LunaRyuko
+[324]: https://github.com/myuce/mapviewer
+[325]: https://github.com/myuce
+[326]: https://github.com/catmanl/minitile
+[327]: https://github.com/catmanl
 
 ### Deprecated/Removed/Unknown bindings
 
-| Name                                                                                  | Description                                                               |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [CreedVI/Raylib-J](https://github.com/CreedVI/Raylib-J)                               | Rewrite of raylib for Java using LWJGL3.                                  |               
-| [DevJac/rust_raylib_bindings](https://github.com/DevJac/rust_raylib_bindings)         | Another rust bindings for raylib.                                         |
-| [SliverLIVE/Raylib-for-GLBasic](https://github.com/SliverLIVE/Raylib-for-GLBasic)     | WIP raylib port/bindings for [GLBasic](https://www.glbasic.com).          |
-| [dtcristo/raylib-rust](https://github.com/dtcristo/raylib-rust)                       | Rust bindings for raylib, Removed from bindings list after dev's request. |
-| [glasyalabolas/fb-raylib](https://github.com/glasyalabolas/fb-raylib)                 | Port of raylib 3.5 headers and examples for FreeBasic.                    |
-| [haxeui/raylib-haxe](https://github.com/haxeui/raylib-haxe)                           | raylib extern bindings for Haxe!                                          |
-| [shiryel/rayex](https://github.com/shiryel/rayex)                                     | raylib bindings for Elixir!                                               |
+| Name                        | Author               | Language             |
+|-----------------------------|----------------------|----------------------|
+| [Raylib-J][328]             | [CreedVI][329]       | Java ([LWJGL3][330]) |
+| [rust_raylib_bindings][331] | [DevJac][332]        | Rust                 |
+| [raylib-rust][333]          | [dtcristo][334]      | Rust                 |
+| [Raylib-for-GLBasic][335]   | [SliverLIVE][336]    | [GLBasic][337]       |
+| [fb-raylib][338]            | [glasyalabolas][339] | [FreeBASIC][340]     |
+| [raylib-haxe][341]          | [haxeui][342]        | [Haxe][343]          |
+| [rayex][344]                | [shiryel][345]       | [Elixir][346]        |
 
+[328]: https://github.com/CreedVI/Raylib-J
+[329]: https://github.com/CreedVI
+[330]: https://www.lwjgl.org
+[331]: https://github.com/DevJac/rust_raylib_bindings
+[332]: https://github.com/DevJac
+[333]: https://github.com/dtcristo/raylib-rust
+[334]: https://github.com/dtcristo
+[335]: https://github.com/SliverLIVE/Raylib-for-GLBasic
+[336]: https://github.com/SliverLIVE
+[337]: https://www.glbasic.com
+[338]: https://github.com/glasyalabolas/fb-raylib
+[339]: https://github.com/glasyalabolas
+[340]: https://www.freebasic.net
+[341]: https://github.com/haxeui/raylib-haxe
+[342]: https://github.com/haxeui
+[343]: https://haxe.org
+[344]: https://github.com/shiryel/rayex
+[345]: https://github.com/shiryel
+[346]: https://elixir-lang.org
 
 > NOTE: You won't find these bindings in [BINDINGS.md](https://github.com/raysan5/raylib/blob/master/BINDINGS.md)!
 
 ### Libraries bindings/ports
 
-| Name                                                                                  | Description                                                                 |
-|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| [Dacode45/rayfork-rs](https://github.com/Dacode45/rayfork-rs)                         | Port of rayfork to Rust.                                                    |
-| [EMoore13/Animator-For-Raylib-CS](https://github.com/EMoore13/Animator-For-Raylib-CS) | C# Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs |
+| Name                          | Author          | Description              |
+|-------------------------------|-----------------|--------------------------|
+| [rayfork-rs][347]             | [Dacode45][348] | Port of rayfork to Rust. |
+| [Animator-For-Raylib-CS][349] | [EMoore13][350] | Modified version of AliElSaleh's Animator-For-Raylib that uses raylib-cs! |
+
+[347]: https://github.com/Dacode45/rayfork-rs
+[348]: https://github.com/Dacode45
+[349]: https://github.com/EMoore13/Animator-For-Raylib-CS
+[350]: https://github.com/EMoore13
 
 ### Community Examples
 
-| Name                                                                                                                      | Description                                                                                                                                |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [ProfJski/WaveEquationDemo](https://github.com/ProfJski/WaveEquationDemo)                                                 | intuitive approach to introducing the Schrodinger wave equation using a classical particle.                                                |
-| [antwxne/IndieStudio](https://github.com/antwxne/IndieStudio)                                                             | Epitech 2nd year end year 3D graphical project in C++.                                                                                     |
-| [Armapillow/bezier](https://github.com/Armapillow/bezier)                                                                 | Visualisation for Bézier curve using raylib.                                                                                               |
-| [ChrisDill/raylib-instancing](https://github.com/ChrisDill/raylib-instancing)                                             | Instanced rendering examples using raylib.                                                                                                 |
-| [AcademyOfInteractiveEntertainment/AIEYear1Samples](https://github.com/AcademyOfInteractiveEntertainment/AIEYear1Samples) | Sample and tutorial code for AIE's Diploma of Digital and Interactive Games.                                                               |
-| [GoldenThumbs/raylibShadowmap](https://github.com/GoldenThumbs/raylibShadowmap)                                           | Shadowmapping with raylib!                                                                                                                 |
-| [Lightnet/raylibvscodeexample](https://github.com/Lightnet/raylibvscodeexample)                                           | VSCode project sample for raylib.                                                                                                          |
-| [jpike/RayWorld3D](https://github.com/jpike/RayWorld3D)                                                                   | Playing around with raylib's 3D stuff.                                                                                                     |
-| [AliElSaleh/Cosmic-Hell](https://github.com/AliElSaleh/Cosmic-Hell)                                                       | AIE Holiday Coding Challenge. A Bullet-Hell game that implements flocking in C/C++ using raylib.                                           |
-| [Skaruts/Game-of-Life-in-Multiple-Languages](https://github.com/Skaruts/Game-of-Life-in-Multiple-Languages)               | Game of Life implemented in multiple languages and has version for raylib.                                                                 |
-| [I3uckwheat/CHUCK](https://github.com/I3uckwheat/CHUCK)                                                                   | Allows tiled maps to be used with raylib with little trouble.                                                                              |
-| [machinbrol/2d-physics-engine-test](https://github.com/machinbrol/2d-physics-engine-test)                                 | 2D-physics-engine test with Go port of raylib.                                                                                             |
-| [sepisoad/super-janet-typist](https://github.com/sepisoad/super-janet-typist)                                             | Short typing game made with Janet Lisp.                                                                                                    |
-| [Ryan1729/nim-raylib-forever-raylib-audio-bug](https://github.com/Ryan1729/nim-raylib-forever-raylib-audio-bug)           | Example shows audio bug in raylib-forever Nim bindings.                                                                                    |
-| [kebbbnnn/ray-lib-example](https://github.com/kebbbnnn/ray-lib-example)                                                   | raylib example for MacOS.                                                                                                                  |
-| [Dacode45/raylib-physics-example](https://github.com/Dacode45/raylib-physics-example)                                     | Rust example of physics specs and raylib all coming together.                                                                              |
-| [aaronrcox/EmscriptenHelloRaylib](https://github.com/aaronrcox/EmscriptenHelloRaylib)                                     | Emscripten (Web) Starter repo for raylib projects. Web builds are automaticly triggered via Github actions and Deployed to Github Pages.   |
-| [chbdev/raylib-3rdPersonCameraWallDetection](https://github.com/chbdev/raylib-3rdPersonCameraWallDetection)               | Third person camera wall detection example.                                                                                                |
-| [gabriellm1/ThreadLab](https://github.com/gabriellm1/ThreadLab)                                                           | Multi-thread copy and paste program with graphic interface for raylib.                                                                     |
-| [jacmoe/permadi-port](https://github.com/jacmoe/permadi-port)                                                             | Permadi's Raycaster code ported to C++ and raylib.                                                                                         |
-| [MitchellRB/BinaryTree](https://github.com/MitchellRB/BinaryTree)                                                         | Visual representation of a binary tree in raylib.                                                                                          |
-| [xav1t0/Clock](https://github.com/xav1t0/Clock)                                                                           | Clock Made With raylib in C.                                                                                                               |
-| [JRAM0012/rMandelbrotset](https://github.com/JRAM0012/rMandelbrotset)                                                     | Mandelbrot set visualizer made in raylib.                                                                                                  |
-| [danimartin82/opencv_raylib](https://github.com/danimartin82/opencv_raylib)                                               | Tests for mixing OpenCV (4.2.0) with raylib (3.0).                                                                                         |
-| [Lisoph/RaylibTest](https://github.com/Lisoph/RaylibTest)                                                                 | Examples of messing up with raylib.                                                                                                        |
-| [ianpan870102/raylib-practices](https://github.com/ianpan870102/raylib-practices)                                         | Some personal practices with raylib and raylib-cpp in C++.                                                                                 |
-| [zmontross/cellular_automata](https://github.com/zmontross/cellular_automata)                                             | First foray into using raylib as an excuse to practice C programming. No planning, and lots of spaghetti code.                             |
-| [Elkantor/simulation](https://github.com/Elkantor/simulation)                                                             | Flow simulation.                                                                                                                           |
-| [albertnadal/Wolf3DClone](https://github.com/albertnadal/Wolf3DClone)                                                     | Implementation of the "Wolfenstein 3D"(1992) game engine from scratch using vanilla C and raylib.                                          |
-| [kawa-yoiko/ccleste-raylib](https://github.com/kawa-yoiko/ccleste-raylib)                                                 | Adaptation of ccleste to raylib with software rendering.                                                                                   |
-| [EdSwordsmith/LearningRaylib](https://github.com/EdSwordsmith/LearningRaylib)                                             | Small projects made with raylib.                                                                                                           |
-| [nikki93/raylib-bench-go](https://github.com/nikki93/raylib-bench-go)                                                     | Benchmark written in Go.                                                                                                                   |
-| [rurush47/ca-particle-system](https://github.com/rurush47/ca-particle-system)                                             | Particle system for university project written in C++ using raylib.                                                                        |
-| [ProfJski/RayLib-Examples](https://github.com/ProfJski/RayLib-Examples)                                                   | Some fun math or physics demos made easy with raylib and written in C++.                                                                   |
-| [orbisdev/orbisGl2samples](https://github.com/orbisdev/orbisGl2samples)                                                   | orbisGl2 raylib samples for liborbis (For PlayStation 4).                                                                                  |
-| [Delvix000/RaylibErosionStandalone](https://github.com/Delvix000/RaylibErosionStandalone)                                 | Graphics demo with that features a procedural tropical island and some cool stuff!                                                         |
-| [Pakz001/Raylib-Examples](https://github.com/Pakz001/Raylib-Examples)                                                     | Collection of raylib code examples - For learning the C language with 2D and 3D games.                                                     |
-| [ChrisDill/Raylib-cs-Examples](https://github.com/ChrisDill/Raylib-cs-Examples)                                           | C# examples for raylib-cs.                                                                                                                 |
-| [SasLuca/rayfork-tests](https://github.com/SasLuca/rayfork-tests)                                                         | Collection of examples written in rayfork that also serve as tests.                                                                        |
-| [dtcristo/cray-examples](https://github.com/dtcristo/cray-examples)                                                       | raylib examples ported to Crystal.                                                                                                         |
-| [raysan5/raylib-games](https://github.com/raysan5/raylib-games)                                                           | raysan5's collection of games made with raylib.                                                                                            |
-| [Rabios/rayfork-games](https://github.com/Rabios/rayfork-games)                                                           | Full port of raylib sample games to rayfork!                                                                                               |
-| [WEREMSOFT/c99-raylib-car-physics](https://github.com/WEREMSOFT/c99-raylib-car-physics)                                   | Car physiscs made with raylib.                                                                                                             |
-| [WEREMSOFT/c99-raylib-shadowmap](https://github.com/WEREMSOFT/c99-raylib-shadowmap)                                       | Shadowmap implementation in raylib.                                                                                                        |
-| [rillk500/Dlang-Game-Dev](https://github.com/rillk500/Dlang-Game-Dev)                                                     | Games created with D programming language.                                                                                                 |
-| [rillk500/Learn-Dlang-game-dev](https://github.com/rillk500/Learn-Dlang-game-dev)                                         | Learn D programming language by creating games!                                                                                            |
-| [BitPuffin/zig-raylib-experiments](https://github.com/BitPuffin/zig-raylib-experiments)                                   | Some classic game implementations in Zig using raylib.                                                                                     |
-| [DaNiKhan-GbR/Dnkvw-Raylib-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Example)                                 | Virtual window raylib 3D Example.                                                                                                          |
-| [Demizdor/rlexp](https://github.com/Demizdor/rlexp)                                                                       | Experiments using the raylib library.                                                                                                      |
-| [fr3fou/tic-tac-toe-ai](https://github.com/fr3fou/tic-tac-toe-ai)                                                         | Tic-Tac-Toe implementation and AI, using Raylib for the GUI and Minimax + Alpha-Beta pruning for the AI.                                   |
-| [petuzk/raylib-line-triangulator](https://github.com/petuzk/raylib-line-triangulator)                                     | Line triangulation algorithm for raylib.                                                                                                   |
-| [rillk500/clang-game-dev](https://github.com/rillk500/clang-game-dev)                                                     | Games created with C programming language.                                                                                                 |
-| [ThePituLegend/SmurfInvaders](https://github.com/ThePituLegend/SmurfInvaders)                                             | Technical Demo as an explorative project of raylib. Random game based on Space Invaders and alike.                                         |
-| [riadafridishibly/recursive-sudoku-viz](https://github.com/riadafridishibly/recursive-sudoku-viz)                         | Recursive sudoku solver visualizer in raylib, Written in C++.                                                                              |
-| [GheorgheMorari/RaylibCSGraphs](https://github.com/GheorgheMorari/RaylibCSGraphs)                                         | Practical implementation of Linear Transfromation, Written in C#.                                                                          |
-| [Sepheus/critter_comforts](https://github.com/Sepheus/critter_comforts)                                                   | Source code of hit first game from legendary studio Vat O'Coffee. Coded for the V&A Operas & Bridges GameJam, Written in D.                |
-| [DavinderMaverick/VoronoiDiagram](https://github.com/DavinderMaverick/VoronoiDiagram)                                     | Voronoi Diagrams using Fortune's Algo, Written in C++.                                                                                     |
-| [apahl/corosim](https://github.com/apahl/corosim)                                                                         | Simple infection simulator, written in Swift using raylib.                                                                                 |
-| [baylej/tmx/tree/master/examples/raylib](https://github.com/baylej/tmx/tree/master/examples/raylib)                       | Example of C tmx map loader that uses raylib.                                                                                              |
-| [albertnadal/MandelbrotGoLang](https://github.com/albertnadal/MandelbrotGoLang)                                           | Distributed computing Mandelbrot implementation using Golang, gRPC and raylib.                                                             |
-| [OnACoffeeBreak/raylib_tiled_import_with_tmx](https://github.com/OnACoffeeBreak/raylib_tiled_import_with_tmx)             | Example of how to use raylib to import and display a Tiled map editor file.                                                                |
-| [MrOneTwo/Raylib-shaders](https://github.com/MrOneTwo/Raylib-shaders)                                                     | Having fun with shaders.                                                                                                                   |
-| [anatagawa/Demo-Paradox](https://github.com/anatagawa/Demo-Paradox)                                                       | Demo with raylib.                                                                                                                          |
-| [anatagawa/Demo-Interpole](https://github.com/anatagawa/Demo-Interpole)                                                   | Demo with raylib.                                                                                                                          |
-| [anatagawa/Demo-Awesome](https://github.com/anatagawa/Demo-Awesome)                                                       | Demo with raylib.                                                                                                                          |
-| [nathhB/nbnet/tree/master/examples/raylib](https://github.com/nathhB/nbnet/tree/master/examples/raylib)                   | raylib example for nbnet, single-header C network library to implement client-server network code for games.                               |
-| [edomin/Raygui_Helloworld](https://github.com/edomin/Raygui_Helloworld)                                                   | Example of using raygui library with tigr graphics library.                                                                                |
-| [badlydrawnrod/evaluate-raylib](https://github.com/badlydrawnrod/evaluate-raylib)                                         | Few short and cross-platform raylib demos. Known to work on Windows, Raspberry Pi 400 (desktop + native), Web (emscripten).                |
-| [ArnautDaniel/riley-duper](https://github.com/ArnautDaniel/riley-duper)                                                   | Iterative melancholy written in Factor.                                                                                                    |
-| [jmorel33/RayLib-Video-Modes](https://github.com/jmorel33/RayLib-Video-Modes)                                             | Example of getting list of monitor's video modes from GLFW3 with raylib!                                                                   | 
-| [TheCatOverlord/Raylib-Joystick](https://github.com/TheCatOverlord/Raylib-Joystick)                                       | Example implementing Joystick input for raylib using `<linux/joystick.h>` Linux module.                                                    |
-| [tomxmm0/dvd_screensaver](https://github.com/tomxmm0/dvd_screensaver)                                                     | DVD Screensaver made with raylib.                                                                                                          |
-| [Razikus/raylib-qrcode](https://github.com/Razikus/raylib-qrcode)                                                         | QR Code generator for raylib using [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) lib.                            |
-| [zvoskars/keyListener](https://github.com/zvoskars/keyListener)                                                           | Program that follows key inputs using C++ and raylib for Trackmania.                                                                       |
-| [senior-sigan/simple_games](https://github.com/senior-sigan/simple_games)                                                 | Games created during live-streams by Ilya Siganov.                                                                                         |
-| [ValiantInteractive/FPS-engine-raylib](https://github.com/ValiantInteractive/FPS-engine-raylib)                           | FPS game engine and simple First Person Shooter created with raylib using the C language.                                                  |
-| [PixelPhobicGames/Chrome-Dino-game-ripoff-](https://github.com/PixelPhobicGames/Chrome-Dino-game-ripoff-)                 | Chrome Dinosaur game written in C using raylib.                                                                                            |       
-| [MrOneTwo/Raylib-shaders](https://github.com/MrOneTwo/Raylib-shaders)                                                     | C++ Example(s) for having fun with shaders.                                                                                                |
-| [nas-programmer/raylib_projects](https://github.com/nas-programmer/raylib_projects)                                       | Things made with raylib and C++.                                                                                                           |
-| [NevilleJS/spirograph](https://github.com/NevilleJS/spirograph)                                                           | Spirograph made in C++ using raylib.                                                                                                       |
-| [someone-existing/Worley-noise-raylib](https://github.com/someone-existing/Worley-noise-raylib)                           | Extremely slow and buggy implementation of Worley noise done in raylib and C++.                                                            |
-| [Rledrin/PathFinding](https://github.com/Rledrin/PathFinding)                                                             | C++ PathFinding example for raylib.                                                                                                        |
-| [Rledrin/RayCasting2D](https://github.com/Rledrin/RayCasting2D)                                                           | C++ Raycasting example for raylib.                                                                                                         |
-| [nezvers/Raylib_TrueTileCollision](https://github.com/nezvers/Raylib_TrueTileCollision)                                   | Retro platformer collision paired with modern approach utilizing delta time.                                                               |
-| [justinac0/raylib-raycaster](https://github.com/justinac0/raylib-raycaster)                                               | Basic raycaster implementation in C using raylib for rendering.                                                                            |
-| [RafaelOliveira/raylib-bunnymark](https://github.com/RafaelOliveira/raylib-bunnymark)                                     | Simple Bunnymark test with raylib.                                                                                                         |
-| [henriquel1997/webcam_raylib](https://github.com/henriquel1997/webcam_raylib)                                             | Test program that displays a webcam feed into a window and uses ESCAPI and raylib.                                                         |
-| [yaram/match-three](https://github.com/yaram/match-three)                                                                 | C++ Simple match-three prototype using raylib.                                                                                             |
-| [erikerlandson/ray-odh-demo](https://github.com/erikerlandson/ray-odh-demo)                                               | Prototype an integration of ray with Open Data Hub, using a singleuser profile to provision a ray cluster.                                 |
-| [neonmoe/metro](https://github.com/neonmoe/metro)                                                                         | Raymarched exploration of floating-point errors in a metro tunnel.                                                                         |
-| [afreytes/RLSolarSystem](https://github.com/afreytes/RLSolarSystem)                                                       | Solar system simulation based on [arinal/WPFSolarSystem](https://github.com/arinal/WpfSolarSystem) but via raylib-cs in C#.                |
-| [Adobe-Android/raylib-demo](https://github.com/Adobe-Android/raylib-demo)                                                 | raylib demo project using C++ and CMake.                                                                                                   |
-| [PHILLIPGATLIN/Caption](https://github.com/PHILLIPGATLIN/Caption)                                                         | Image captioning program made with raylib.                                                                                                 |
-| [gihadmecha/raylib_examples_to_learn](https://github.com/gihadmecha/raylib_examples_to_learn)                             | Some raylib examples.                                                                                                                      |
-| [danimartin82/rayMaschine](https://github.com/danimartin82/rayMaschine)                                                   | Project for the raylib 32x32 Competition.                                                                                                  |
-| [JusticeShultz/RaylibPhysics](https://github.com/JusticeShultz/RaylibPhysics)                                             | Physics in C++.                                                                                                                            |
-| [pintertamas/my-awesome-project](https://github.com/pintertamas/my-awesome-project)                                       | Programming homework that uses the raylib library for graphics.                                                                            |
-| [bruhmoment3124/raylib](https://github.com/bruhmoment3124/raylib)                                                         | Things made with raylib.                                                                                                                   |
-| [feihong/gamedev-experiments](https://github.com/feihong/gamedev-experiments)                                             | [Feihong](https://github.com/feihong)'s raylib quickstart.                                                                                 |
-| [creikey/raylib-particles](https://github.com/creikey/raylib-particles)                                                   | Particles life made in raylib.                                                                                                             |
-| [t0rre/Raylib-3d-Test](https://github.com/t0rre/Raylib-3d-Test)                                                           | Test with 3D in raylib.                                                                                                                    |
-| [JohnLins/GravitationalAcceleration](https://github.com/JohnLins/GravitationalAcceleration)                               | Example(s) for gravity with acceleration!                                                                                                  |
-| [DoctorAkula/Altair8800](https://github.com/DoctorAkula/Altair8800)                                                       | Front panel emulation of the MITS Altair 8800 written in C using raylib.                                                                   |
-| [fullnitrous/rsim](https://github.com/fullnitrous/rsim)                                                                   | Cross platform rocket simulation software package written in C with raylib.                                                                |
-| [jessp/Pepper-s-Pi-Cone](https://github.com/jessp/Pepper-s-Pi-Cone)                                                       | WIP repository to adapt Roxanne Luo's Pepper's cone into C with raylib with the intention of running it off a Raspberry Pi.                |
-| [Nachasic/vicarious-rs](https://github.com/Nachasic/vicarious-rs)                                                         | Gamedev experiments with raylib and Rust.                                                                                                  |
-| [buribalazs/raylib-rs-play_sound_multi](https://github.com/buribalazs/raylib-rs-play_sound_multi)                         | Example to demonstrate a crash on windows 10 written in Rust.                                                                              |
-| [teh-cmc/rts](https://github.com/teh-cmc/rts)                                                                             | Building an RTS the old way, with Rust, raylib & Emscripten.                                                                               |
-| [jestarray/raylib_ffi_bug](https://github.com/jestarray/raylib_ffi_bug)                                                   | Incorrect FFI call which turning bool to a random number, Written in Rust.                                                                 |
+| Name                    | Author          | Description                |
+|-------------------------|-----------------|----------------------------|
+| [WaveEquationDemo][351] | [ProfJski][151] | intuitive approach to introducing the [Schrodinger][352] wave equation using a classical particle. |
+| [IndieStudio][353] | [antwxne][354] | [Epitech][355] 2nd year end year 3D graphical project in C++. |
+| [bezier][356] | [Armapillow][357] | Visualisation for Bézier curve using raylib. |
+| [raylib-instancing][358] | [ChrisDill][359] | Instanced rendering examples using raylib. |
+| [AIEYear1Samples][360] | [AcademyOfInteractiveEntertainment][361] | Sample and tutorial code for AIE's Diploma of Digital and Interactive Games. |
+| [raylibShadowmap][362] | [GoldenThumbs][363] | Shadowmapping with raylib! |
+| [raylibvscodeexample][364] | [Lightnet][365] | [VSCode][366] project sample for raylib. |
+| [RayWorld3D][367] | [jpike][368] | Playing around with raylib's 3D stuff. |
+| [Cosmic-Hell][369] | [AliElSaleh][146] | AIE Holiday Coding Challenge. A Bullet-Hell game that implements flocking in C/C++ using raylib. |
+| [Game-of-Life-in-Multiple-Languages][370] | [Skaruts][371] | Game of Life implemented in multiple languages and has version for raylib. |
+| [CHUCK][372] | [I3uckwheat][373] | Allows tiled maps to be used with raylib with little trouble. |
+| [2d-physics-engine-test][374] | [machinbrol][375] | 2D-physics-engine test with Go port of raylib. |
+| [nim-raylib-forever-raylib-audio-bug][376] | [Ryan1729][377] | Example shows audio bug in [raylib-forever][378] Nim bindings. |
+| [ray-lib-example][379] | [kebbbnnn][380] | raylib example for MacOS. |
+| [raylib-physics-example][381] | [Dacode45][348] | Rust example of physics specs and raylib all coming together. |
+| [EmscriptenHelloRaylib][382] | [aaronrcox][383] | Emscripten (Web) Starter repo for raylib projects. Web builds are automaticly triggered via Github actions and Deployed to Github Pages. |
+| [raylib-3rdPersonCameraWallDetection][384] | [chbdev][385] | Third person camera wall detection example. |
+| [ThreadLab][386] | [gabriellm1][387] | Multi-thread copy and paste program with graphic interface for raylib. |
+| [permadi-port][388] | [jacmoe][389] | [Permadi][390]'s Raycaster code ported to C++ and raylib. |
+| [BinaryTree][391] | [MitchellRB][392] | Visual representation of a binary tree in raylib. |
+| [Clock][393] | [xav1t0][394] | Clock Made With raylib in C. |
+| [rMandelbrotset][395] | [JRAM0012][396] | Mandelbrot set visualizer made in raylib. |
+| [opencv_raylib][397] | [danimartin82][398] | Tests for mixing [OpenCV][399] (4.2.0) with raylib (3.0). |
+| [RaylibTest][400] | [Lisoph][401] | Examples of messing up with raylib. |
+| [raylib-practices][402] | [ianpan870102][403] | Some personal practices with raylib and [raylib-cpp][404] in C++. |
+| [cellular_automata][405] | [zmontross][406] | First foray into using raylib as an excuse to practice C programming. No planning, and lots of spaghetti code. |
+| [simulation][407] | [Elkantor][279] | Flow simulation. |
+| [Wolf3DClone][408] | [albertnadal][409] | Implementation of the "Wolfenstein 3D"(1992) game engine from scratch using vanilla C and raylib. |
+| [ccleste-raylib][410] | [kawa-yoiko][411] | Adaptation of [ccleste][412] to raylib with software rendering. |
+| [LearningRaylib][413] | [EdSwordsmith][414] | Small projects made with raylib. |
+| [raylib-bench-go][415] | [nikki93][416] | Benchmark written in Go. |
+| [ca-particle-system][417] | [rurush47][418] | Particle system for university project written in C++ using raylib. |
+| [RayLib-Examples][419] | [ProfJski][151] | Some fun math or physics demos made easy with raylib and written in C++. |
+| [orbisGl2samples][420] | [orbisdev][46] | orbisGl2 raylib samples for liborbis (For PlayStation 4). |
+| [RaylibErosionStandalone][421] | [Delvix000][422] | Graphics demo with that features a procedural tropical island and some cool stuff! |
+| [Raylib-Examples][423] | [Pakz001][424] | Collection of raylib code examples - For learning the C language with 2D and 3D games. |
+| [Raylib-cs-Examples][425] | [ChrisDill][359] | C# examples for raylib-cs. |
+| [rayfork-tests][426] | [SasLuca][52] | Collection of examples written in rayfork that also serve as tests. |
+| [cray-examples][427] | [dtcristo][428] | raylib examples ported to Crystal. |
+| [raylib-games][429] | [raysan5][56] | raysan5's collection of games made with raylib. |
+| [rayfork-games][430] | [Rabios][20] | Full port of raylib sample games to rayfork! |
+| [c99-raylib-car-physics][431] | [WEREMSOFT][93] | Car physiscs made with raylib. |
+| [c99-raylib-shadowmap][432] | [WEREMSOFT][93] | Shadowmap implementation in raylib. |
+| [Dlang-Game-Dev][433] | [rillk500][434] | Games created with D programming language. |
+| [Learn-Dlang-game-dev][435] | [rillk500][434] | Learn D programming language by creating games! |
+| [clang-game-dev][436] | [rillk500][434] | Games created with C programming language. |
+| [zig-raylib-experiments][437] | [BitPuffin][438] | Some classic game implementations in [Zig][439] using raylib. |
+| [Dnkvw-Raylib-Example][440] | [DaNiKhan-GbR][441] | Virtual window raylib 3D Example. |
+| [rlexp][442] | [Demizdor][14] | Experiments using the raylib library. |
+| [tic-tac-toe-ai][443] | [fr3fou][444] | Tic-Tac-Toe implementation and AI, using Raylib for the GUI and Minimax + Alpha-Beta pruning for the AI. |
+| [raylib-line-triangulator][445] | [petuzk][446] | Line triangulation algorithm for raylib. |
+| [SmurfInvaders][447] | [ThePituLegend][448] | Technical Demo as an explorative project of raylib. Random game based on Space Invaders and alike. |
+| [recursive-sudoku-viz][449] | [riadafridishibly][450] | Recursive sudoku solver visualizer in raylib, Written in C++. |
+| [RaylibCSGraphs][451] | [GheorgheMorari][452] | Practical implementation of Linear Transfromation, Written in C#. |
+| [critter_comforts][453] | [Sepheus][454] | Source code of hit first game from legendary studio Vat O'Coffee. Coded for the V&A Operas & Bridges GameJam, Written in D. |
+| [VoronoiDiagram][455] | [DavinderMaverick][456] | Voronoi Diagrams using Fortune's Algo, Written in C++. |
+| [corosim][457] | [apahl][458] | Simple infection simulator, written in [Swift][459] using raylib. |
+| [baylej tmx raylib examples][460] | [baylej][461] | Example of C tmx map loader that uses raylib. |
+| [MandelbrotGoLang][462] | [albertnadal][409] | Distributed computing Mandelbrot implementation using Go, [gRPC][463] and raylib. |
+| [raylib_tiled_import_with_tmx][464] | [OnACoffeeBreak][465] | Example of how to use raylib to import and display a Tiled map editor file. |
+| [Raylib-shaders][466] | [MrOneTwo][467] | Having fun with shaders. |
+| [Demo-Paradox][468] | [anatagawa][469] | Demo with raylib. |
+| [Demo-Interpole][470] | [anatagawa][469] | Demo with raylib. |
+| [Demo-Awesome][471] | [anatagawa][469] | Demo with raylib. |
+| [raylib nbnet examples][472] | [nathhB][473] | raylib example for [nbnet][474], single-header C network library to implement client-server network code for games. |
+| [Raygui_Helloworld][475] | [edomin][476] | Example of using raygui library with [tigr][477] graphics library. |
+| [evaluate-raylib][478] | [badlydrawnrod][479] | Few short and cross-platform raylib demos. Known to work on Windows, Raspberry Pi 400 (desktop + native), Web (emscripten). |
+| [RayLib-Video-Modes][480] | [jmorel33][285] | Example of getting list of monitor's video modes from GLFW3 with raylib! |
+| [Raylib-Joystick][481] | [TheCatOverlord][482] | Example implementing Joystick input for raylib using `<linux/joystick.h>` Linux module! |
+| [dvd_screensaver][483] | [tomxmm0][484] | DVD Screensaver made with raylib. |
+| [raylib-qrcode][485] | [Razikus][486] | QR Code generator for raylib using [nayuki/QR-Code-generator][487] lib. |
+| [keyListener][488] | [zvoskars][489] | Program that follows key inputs using C++ and raylib for [Trackmania][490]. |
+| [simple_games][491] | [senior-sigan][265] | Games created during live-streams by Ilya Siganov. |
+| [FPS-engine-raylib][492] | [ValiantInteractive][493] | FPS game engine and simple First Person Shooter created with raylib using the C language. |
+| [Chrome-Dino-game-ripoff-][494] | [PixelPhobicGames][495] | Chrome Dinosaur game written in C using raylib. |
+| [raylib_projects][496] | [nas-programmer][497] | Things made with raylib and C++. |
+| [Spirograph][498] | [NevilleJS][499] | Spirograph made in C++ using raylib. |
+| [Worley-noise-raylib][500] | [someone-existing][501] | Extremely slow and buggy implementation of [Worley noise][502] done in raylib and C++. |
+| [PathFinding][503] | [Rledrin][504] | C++ PathFinding example for raylib. |
+| [RayCasting2D][505] | [Rledrin][504] | C++ Raycasting example for raylib. |
+| [Raylib_TrueTileCollision][506] | [nezvers][73] | Retro platformer collision paired with modern approach utilizing delta time. |
+| [raylib-raycaster][507] | [justinac0][508] | Basic raycaster implementation in C using raylib for rendering. |
+| [raylib-bunnymark][509] | [RafaelOliveira][510] | Simple Bunnymark test with raylib. |
+| [webcam_raylib][511] | [henriquel1997][512] | Test program that displays a webcam feed into a window and uses ESCAPI and raylib. |
+| [match-three][513] | [yaram][514] | C++ Simple match-three prototype using raylib. |
+| [ray-odh-demo][515] | [erikerlandson][311] | Prototype an integration of ray with Open Data Hub, using a singleuser profile to provision a ray cluster. |
+| [metro][516] | [neonmoe][517] | Raymarched exploration of floating-point errors in a metro tunnel. |
+| [RLSolarSystem][518] | [arinal][519] | Solar system simulation based on [arinal/WPFSolarSystem][520] but via raylib-cs in C#. |
+| [raylib-demo][521] | [Adobe-Android][522] | raylib demo project using C++ and CMake. |
+| [Caption][523] | [PHILLIPGATLIN][524] | Image captioning program made with raylib. |
+| [raylib_examples_to_learn][525] | [gihadmecha][526] | Some raylib examples. |
+| [rayMaschine][527] | [danimartin82][398] | Project for the raylib 32x32 Competition. |
+| [RaylibPhysics][528] | [JusticeShultz][529] | Physics in C++. |
+| [my-awesome-project][530] | [pintertamas][531] | Programming homework that uses the raylib library for graphics. |
+| [bruhmoment3124/raylib][532] | [bruhmoment3124][533] | Things made with raylib. |
+| [gamedev-experiments][534] | [feihong][535] | [Feihong][535]'s raylib quickstart.|
+| [raylib-particles][536] | [creikey][537] | Particles life made in raylib. |
+| [Raylib-3d-Test][538] | [t0rre][539]  | Test with 3D in raylib. |
+| [GravitationalAcceleration][540] | [JohnLins][541] | Example(s) for gravity with acceleration! |
+| [Altair8800][542] | [DoctorAkula][543] | Front panel emulation of the MITS Altair 8800 written in C using raylib. |
+| [rsim][544] | [fullnitrous][545] | Cross platform rocket simulation software package written in C with raylib. |
+| [Pepper-s-Pi-Cone][546] | [jessp][547] | WIP repository to adapt Roxanne Luo's Pepper's cone into C with raylib with the intention of running it off a Raspberry Pi. |
+| [Nachasic][548] | [vicarious-rs][549] | Gamedev experiments with raylib and Rust. |
+| [raylib-rs-play_sound_multi][550] | [buribalazs][551] | Example to demonstrate a crash on Windows 10 written in Rust. |
+| [rts][552] | [teh-cmc][553] | Building an RTS the old way, with Rust, raylib & Emscripten. |
+[ [raylib_ffi_bug][554] | [jestarray][555] | Incorrect FFI call which turning bool to a random number, Written in Rust. |
+
+[351]: https://github.com/ProfJski/WaveEquationDemo
+[352]: https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+[353]: https://github.com/antwxne/IndieStudio
+[354]: https://github.com/antwxne
+[355]: https://www.epitech.eu/en
+[356]: https://github.com/Armapillow/bezier
+[357]: https://github.com/Armapillow
+[358]: https://github.com/ChrisDill/raylib-instancing
+[359]: https://github.com/ChrisDill
+[360]: https://github.com/AcademyOfInteractiveEntertainment/AIEYear1Samples
+[361]: https://github.com/AcademyOfInteractiveEntertainment
+[362]: https://github.com/GoldenThumbs/raylibShadowmap
+[363]: https://github.com/GoldenThumbs
+[364]: https://github.com/Lightnet/raylibvscodeexample
+[365]: https://github.com/Lightnet
+[366]: https://code.visualstudio.com
+[367]: https://github.com/jpike/RayWorld3D
+[368]: https://github.com/jpike
+[369]: https://github.com/AliElSaleh/Cosmic-Hell
+[370]: https://github.com/Skaruts/Game-of-Life-in-Multiple-Languages
+[371]: https://github.com/Skaruts
+[372]: https://github.com/I3uckwheat/CHUCK
+[373]: https://github.com/I3uckwheat
+[374]: https://github.com/machinbrol/2d-physics-engine-test
+[375]: https://github.com/machinbrol
+[376]: https://github.com/Ryan1729/nim-raylib-forever-raylib-audio-bug
+[377]: https://github.com/Ryan1729
+[378]: https://github.com/Guevara-chan/Raylib-Forever
+[379]: https://github.com/kebbbnnn/ray-lib-example
+[380]: https://github.com/kebbbnnn
+[381]: https://github.com/Dacode45/raylib-physics-example
+[382]: https://github.com/aaronrcox/EmscriptenHelloRaylib
+[383]: https://github.com/aaronrcox
+[384]: https://github.com/chbdev/raylib-3rdPersonCameraWallDetection
+[385]: https://github.com/chbdev
+[386]: https://github.com/gabriellm1/ThreadLab
+[387]: https://github.com/gabriellm1
+[388]: https://github.com/jacmoe/permadi-port
+[389]: https://github.com/jacmoe
+[390]: https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents
+[391]: https://github.com/MitchellRB/BinaryTree
+[392]: https://github.com/MitchellRB
+[393]: https://github.com/xav1t0/Clock
+[394]: https://github.com/xav1t0
+[395]: https://github.com/JRAM0012/rMandelbrotset
+[396]: https://github.com/JRAM0012
+[397]: https://github.com/danimartin82/opencv_raylib
+[398]: https://github.com/danimartin82
+[399]: https://opencv.org
+[400]: https://github.com/Lisoph/RaylibTest
+[401]: https://github.com/Lisoph
+[402]: https://github.com/ianpan870102/raylib-practices
+[403]: https://github.com/ianpan870102
+[404]: https://github.com/RobLoach/raylib-cpp
+[405]: https://github.com/zmontross/cellular_automata
+[406]: https://github.com/zmontross
+[407]: https://github.com/Elkantor/simulation
+[408]: https://github.com/albertnadal/Wolf3DClone
+[409]: https://github.com/albertnadal
+[410]: https://github.com/kawa-yoiko/ccleste-raylib
+[411]: https://github.com/kawa-yoiko
+[412]: https://github.com/lemon32767/ccleste
+[413]: https://github.com/EdSwordsmith/LearningRaylib
+[414]: https://github.com/EdSwordsmith
+[415]: https://github.com/nikki93/raylib-bench-go
+[416]: https://github.com/nikki93
+[417]: https://github.com/rurush47/ca-particle-system
+[418]: https://github.com/rurush47
+[419]: https://github.com/ProfJski/RayLib-Examples
+[420]: https://github.com/orbisdev/orbisGl2samples
+[421]: https://github.com/Delvix000/RaylibErosionStandalone
+[422]: https://github.com/Delvix000
+[423]: https://github.com/Pakz001/Raylib-Examples
+[424]: https://github.com/Pakz001
+[425]: https://github.com/ChrisDill/Raylib-cs-Examples
+[426]: https://github.com/SasLuca/rayfork-tests
+[427]: https://github.com/dtcristo/cray-examples
+[428]: https://github.com/dtcristo
+[429]: https://github.com/raysan5/raylib-games
+[430]: https://github.com/Rabios/rayfork-games
+[431]: https://github.com/WEREMSOFT/c99-raylib-car-physics
+[432]: https://github.com/WEREMSOFT/c99-raylib-shadowmap
+[433]: https://github.com/rillk500/Dlang-Game-Dev
+[434]: https://github.com/rillk500
+[435]: https://github.com/rillk500/Learn-Dlang-game-dev
+[436]: https://github.com/rillk500/clang-game-dev
+[437]: https://github.com/BitPuffin/zig-raylib-experiments
+[438]: https://github.com/BitPuffin
+[439]: https://ziglang.org
+[440]: https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Example
+[441]: https://github.com/DaNiKhan-GbR
+[442]: https://github.com/Demizdor/rlexp
+[443]: https://github.com/fr3fou/tic-tac-toe-ai
+[444]: https://github.com/fr3fou
+[445]: https://github.com/petuzk/raylib-line-triangulator
+[446]: https://github.com/petuzk
+[447]: https://github.com/ThePituLegend/SmurfInvaders
+[448]: https://github.com/ThePituLegend
+[449]: https://github.com/riadafridishibly/recursive-sudoku-viz
+[450]: https://github.com/riadafridishibly
+[451]: https://github.com/GheorgheMorari/RaylibCSGraphs
+[452]: https://github.com/GheorgheMorari
+[453]: https://github.com/Sepheus/critter_comforts
+[454]: https://github.com/Sepheus
+[455]: https://github.com/DavinderMaverick/VoronoiDiagram
+[456]: https://github.com/DavinderMaverick
+[457]: https://github.com/apahl/corosim
+[458]: https://github.com/apahl
+[459]: https://swift.org
+[460]: https://github.com/baylej/tmx/tree/master/examples/raylib
+[461]: https://github.com/baylej
+[462]: https://github.com/albertnadal/MandelbrotGoLang
+[463]: https://grpc.io
+[464]: https://github.com/OnACoffeeBreak/raylib_tiled_import_with_tmx
+[465]: https://github.com/OnACoffeeBreak
+[466]: https://github.com/MrOneTwo/Raylib-shaders
+[467]: https://github.com/MrOneTwo
+[468]: https://github.com/anatagawa/Demo-Paradox
+[469]: https://github.com/anatagawa
+[470]: https://github.com/anatagawa/Demo-Interpole
+[471]: https://github.com/anatagawa/Demo-Awesome
+[472]: https://github.com/nathhB/nbnet/tree/master/examples/raylib
+[473]: https://github.com/nathhB
+[474]: https://github.com/nathhB/nbnet
+[475]: https://github.com/edomin/Raygui_Helloworld
+[476]: https://github.com/edomin
+[477]: https://github.com/erkkah/tigr
+[478]: https://github.com/badlydrawnrod/evaluate-raylib
+[479]: https://github.com/badlydrawnrod
+[480]: https://github.com/jmorel33/RayLib-Video-Modes
+[481]: https://github.com/TheCatOverlord/Raylib-Joystick
+[482]: https://github.com/TheCatOverlord
+[483]: https://github.com/tomxmm0/dvd_screensaver
+[484]: https://github.com/tomxmm0
+[485]: https://github.com/Razikus/raylib-qrcode
+[486]: https://github.com/Razikus
+[487]: https://github.com/nayuki/QR-Code-generator
+[488]: https://github.com/zvoskars/keyListener
+[489]: https://github.com/zvoskars
+[490]: https://www.trackmania.com
+[491]: https://github.com/senior-sigan/simple_games
+[492]: https://github.com/ValiantInteractive/FPS-engine-raylib
+[493]: https://github.com/ValiantInteractive
+[494]: https://github.com/PixelPhobicGames/Chrome-Dino-game-ripoff-
+[495]: https://github.com/PixelPhobicGames
+[496]: https://github.com/nas-programmer/raylib_projects
+[497]: https://github.com/nas-programmer
+[498]: https://github.com/NevilleJS/spirograph
+[499]: https://github.com/NevilleJS
+[500]: https://github.com/someone-existing/Worley-noise-raylib
+[501]: https://github.com/someone-existing
+[502]: https://en.wikipedia.org/wiki/Worley_noise
+[503]: https://github.com/Rledrin/PathFinding
+[504]: https://github.com/Rledrin
+[505]: https://github.com/Rledrin/RayCasting2D
+[506]: https://github.com/nezvers/Raylib_TrueTileCollision
+[507]: https://github.com/justinac0/raylib-raycaster
+[508]: https://github.com/justinac0
+[509]: https://github.com/RafaelOliveira/raylib-bunnymark
+[510]: https://github.com/RafaelOliveira
+[511]: https://github.com/henriquel1997/webcam_raylib
+[512]: https://github.com/henriquel1997
+[513]: https://github.com/yaram/match-three
+[514]: https://github.com/yaram
+[515]: https://github.com/erikerlandson/ray-odh-demo
+[516]: https://github.com/neonmoe/metro
+[517]: https://github.com/neonmoe
+[518]: https://github.com/afreytes/RLSolarSystem
+[519]: https://github.com/afreytes
+[520]: https://github.com/arinal/WpfSolarSystem
+[521]: https://github.com/Adobe-Android/raylib-demo
+[522]: https://github.com/Adobe-Android
+[523]: https://github.com/PHILLIPGATLIN/Caption
+[524]: https://github.com/PHILLIPGATLIN
+[525]: https://github.com/gihadmecha/raylib_examples_to_learn
+[526]: https://github.com/gihadmecha
+[527]: https://github.com/danimartin82/rayMaschine
+[528]: https://github.com/JusticeShultz/RaylibPhysics
+[529]: https://github.com/JusticeShultz
+[530]: https://github.com/pintertamas/my-awesome-project
+[531]: https://github.com/pintertamas
+[532]: https://github.com/bruhmoment3124/raylib
+[533]: https://github.com/bruhmoment3124
+[534]: https://github.com/feihong/gamedev-experiments
+[535]: https://github.com/feihong
+[536]: https://github.com/creikey/raylib-particles
+[537]: https://github.com/creikey
+[538]: https://github.com/t0rre/Raylib-3d-Test
+[539]: https://github.com/t0rre
+[540]: https://github.com/JohnLins/GravitationalAcceleration
+[541]: https://github.com/JohnLins
+[542]: https://github.com/DoctorAkula/Altair8800
+[543]: https://github.com/DoctorAkula
+[544]: https://github.com/fullnitrous/rsim
+[545]: https://github.com/fullnitrous
+[546]: https://github.com/jessp/Pepper-s-Pi-Cone
+[547]: https://github.com/jessp
+[548]: https://github.com/Nachasic/vicarious-rs
+[549]: https://github.com/Nachasic
+[550]: https://github.com/buribalazs/raylib-rs-play_sound_multi
+[551]: https://github.com/buribalazs
+[552]: https://github.com/teh-cmc/rts
+[553]: https://github.com/teh-cmc
+[554]: https://github.com/jestarray/raylib_ffi_bug
+[555]: https://github.com/jestarray
 
 ### Templates
 
-| Name                                                                                                      | Description                                                                                                                                |
-|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| [tducasse/raylib_starter](https://github.com/tducasse/raylib_starter)                                     | Simple raylib template for Windows and Web targets.                                                                                        |
-| [daandruff/rbpi400raylib](https://github.com/daandruff/rbpi400raylib)                                     | Simple raylib template for Raspberry Pi 400.                                                                                               | 
-| [irskep/raylibtest](https://github.com/irskep/raylibtest)                                                 | raylib Nim bindings test example.                                                                                                          |
-| [jamiltron/ray-starter](https://github.com/jamiltron/ray-starter)                                         | Skeleton of a raylib project with CMake.                                                                                                   |
-| [benweidig/raylib-template](https://github.com/benweidig/raylib-template)                                 | Linux template for raylib.                                                                                                                 |
-| [CapsCollective/raylib-cpp-starter](https://github.com/CapsCollective/raylib-cpp-starter)                 | Portable and automated template for raylib projects with C++ bindings.                                                                     |
-| [inque/simple_raylib_template](https://gitlab.com/inque/simple_raylib_template)                           | This is a simple raylib boilerplate that can be used as a starting point for raylib, It has also utility to build for Web!                 |
-| [oswjk/raylib-imgui-template](https://github.com/oswjk/raylib-imgui-template)                             | Basic raylib + Dear ImGui template.                                                                                                        |
-| [AIE-Seattle-Prog/raygame](https://github.com/AIE-Seattle-Prog/raygame)                                   | Sample C++ project setup with raylib for Visual Studio 2017.                                                                               |
-| [AIE-Seattle-Prog/raygamecsharp](https://github.com/AIE-Seattle-Prog/raygamecsharp)                       | Sample C# project setup with raylib-cs for Visual Studio 2017.                                                                             |
-| [DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example](https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example) | Minimal example that demonstrates the usage of Dnkvw with raylib, Can be used as a project template.                                       |
-| [krzosa/RaylibHotReloadTemplate](https://github.com/krzosa/RaylibHotReloadTemplate)                       | Template for hot reload code in raylib.                                                                                                    |
-| [WEREMSOFT/c99-raylib-template](https://github.com/WEREMSOFT/c99-raylib-template)                         | Starting template to work with raylib, Uses make for build.                                                                                |
-| [WEREMSOFT/c99-raylib-cimgui-template](https://github.com/WEREMSOFT/c99-raylib-cimgui-template)           | Simple template to integrate raylib with imgui on C99, Uses cimgui bindings.                                                               |
-| [WEREMSOFT/raylib-network-template](https://github.com/WEREMSOFT/raylib-network-template)                 | Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game.                                               |
-| [SasLuca/raylib-cmake-template](https://github.com/SasLuca/raylib-cmake-template)                         | Very minimal project template for raylib using CMake that works well in CLion & Visual Studio.                                             |
-| [SasLuca/rayfork-sokol-template](https://github.com/SasLuca/rayfork-sokol-template)                       | Simple rayfork project template with sokol-app and CMake.                                                                                  |
-| [RaniSputnik/go-raylib-template](https://github.com/RaniSputnik/go-raylib-template)                       | Starter template for building games with the raylib Golang bindings.                                                                       |
-| [Hidden-Pixel/raylib-starter-kit](https://github.com/Hidden-Pixel/raylib-starter-kit)                     | This repository is to raylib starter kit to help get up and running quickly after installing MSVC, clang or gcc, and emcc.                 |
-| [oswjk/rayskeleton](https://github.com/oswjk/rayskeleton)                                                 | Skeleton project template for raylib. Uses CMake.                                                                                          |
-| [braedenf/RaylibStarterProjectXcode](https://github.com/braedenf/RaylibStarterProjectXcode)               | Basic window implemented with raylib in XCode.                                                                                             |
-| [jacmoe/raystart](https://github.com/jacmoe/raystart)                                                     | Quick CMake based project template for exploratory graphics programming using raylib.                                                      |
-| [JamieMair/RaylibVSTemplate](https://github.com/JamieMair/RaylibVSTemplate)                               | Template Visual Studio 2019 C++ project for the raylib library.                                                                            |
-| [Yrds/raylib-boilerplate](https://github.com/Yrds/raylib-boilerplate)                                     | out-of-box environment to develop raylib games.                                                                                            |
-| [Qinbeans/raylib_graphic_template](https://github.com/Qinbeans/raylib_graphic_template)                   | Template for future use and has working adjustable resolution.                                                                             |
-| [CodingCor/tempraylib](https://github.com/CodingCor/tempraylib)                                           | Simple C++ template to use raylib in Linux and Windows.                                                                                    |
-| [MrOneTwo/Raylib-Scons-boilerplate](https://github.com/MrOneTwo/Raylib-Scons-boilerplate)                 | Boilerplate for raylib with Scons as build system.                                                                                         |
-| [gilzoide/raylib-meson-template](https://github.com/gilzoide/raylib-meson-template)                       | Minimal template project for C/C++ applications using raylib built using Meson.                                                            |
-| [Ushio/raylibMinimumVS](https://github.com/Ushio/raylibMinimumVS)                                         | Simple C++ template for raylib for use with Visual Studio 2017.                                                                            |
-| [janderkkotlarski/raylib_template](https://github.com/janderkkotlarski/raylib_template)                   | C++ Simple raylib template that should works when raylib is correctly installed.                                                           |
-| [Lattay/raylib-lsk](https://github.com/Lattay/raylib-lsk)                                                 | Lattay's Starter Kit for raylib, small boiler plate for raylib projects.                                                                   |
-| [charlesmartinreed/vscode-raylib-base](https://github.com/charlesmartinreed/vscode-raylib-base)           | Setup used by GamesFromScratch when he made tutorials for raylib.                                                                          |
-| [AIESydProgYr12021/RaylibCSharpStarter](https://github.com/AIESydProgYr12021/RaylibCSharpStarter)         | raylib C# game starter kit.                                                                                                                |
-| [LodisAIE/RaylibStarterCPP](https://github.com/LodisAIE/RaylibStarterCPP)                                 | raylib C++ game starter kit.                                                                                                               |
-| [HeatXD/Raylib-with-Flecs-Template](https://github.com/HeatXD/Raylib-with-Flecs-Template)                 | Template for raylib with a custom flecs pipline for raylib.                                                                                |
-| [underscorenygren/parsec_raylib_template](https://github.com/underscorenygren/parsec_raylib_template)     | Starter project for the parsec and raylib integration article series, Use this as a base from which to create your own games.              |
-| [LeHaine/kotlin-native-raylib-starter](https://github.com/LeHaine/kotlin-native-raylib-starter)           | Base projected configured to link, build, and run raylib with Kotlin Native.                                                               |
-| [JustinKatic/Raylib-C-starterProj](https://github.com/JustinKatic/Raylib-C-starterProj)                   | Basic startup setup for raylib with a clear Start and Update function.                                                                     |
-| [waruqi/raylib-scaffold](https://github.com/waruqi/raylib-scaffold)                                       | Minimal raylib project template that uses XMake.                                                                                           |
-| [GoldenbergDaniel/RayTemplateC](https://github.com/GoldenbergDaniel/RayTemplateC)                         | Template for the raylib library in C.                                                                                                      |
+| Name                  | Author          | Description                                 |
+|-----------------------|-----------------|---------------------------------------------|
+| [raylib_starter][556] | [tducasse][557] | Simple raylib template for Windows and Web targets. |
+| [rbpi400raylib][558] | [daandruff][559] | Simple raylib template for Raspberry Pi 400. |
+| [raylibtest][560] | [irskep][561] | raylib Nim bindings test example. |
+| [ray-starter][562] | [jamiltron][563] | Skeleton of a raylib project with CMake. |
+| [raylib-template][564] | [benweidig][565] | Linux template for raylib. |
+| [raylib-cpp-starter][566] | [CapsCollective][567] | Portable and automated template for raylib projects with C++ bindings. |
+| [simple_raylib_template][568] | [inque][569] | This is a simple raylib boilerplate that can be used as a starting point for raylib, It has also utility to build for Web! |
+| [raylib-imgui-template][570] | [oswjk][68] | Basic raylib + Dear ImGui template. |
+| [raygame][571] | [AIE-Seattle-Prog][572] | Sample C++ project setup with raylib for Visual Studio 2017. |
+| [raygame][573] | [AIE-Seattle-Prog][572] | Sample C# project setup with raylib-cs for Visual Studio 2017. |
+| [Dnkvw-Raylib-Minimal-Example][574] | [DaNiKhan-GbR][441] | Minimal example that demonstrates the usage of Dnkvw with raylib, Can be used as a project template. |
+| [RaylibHotReloadTemplate][575] | [krzosa][576] | Template for hot reload code in raylib. |
+| [c99-raylib-template][577] |  [WEREMSOFT][93] | Starting template to work with raylib, Uses make for build. |
+| [c99-raylib-cimgui-template][578] |  [WEREMSOFT][93] | Simple template to integrate raylib with imgui on C99, Uses [cimgui][579] bindings. |
+| [raylib-network-template][580] |  [WEREMSOFT][93] | Kinda serverless multiplayer template. It can be used to make a very basic multiplayer game. |
+| [raylib-cmake-template][581] | [SasLuca][52] | Very minimal project template for raylib using CMake that works well in CLion & Visual Studio. |
+| [rayfork-sokol-template][582] | [SasLuca][52] | Simple rayfork project template with sokol-app and CMake. |
+| [go-raylib-template][583] | [RaniSputnik][584] | Starter template for building games with the raylib Golang bindings. |
+| [raylib-starter-kit][585] | [Hidden-Pixel][586] | This repository is to raylib starter kit to help get up and running quickly after installing MSVC, clang or gcc, and emcc. |
+| [rayskeleton][587] | [oswjk][68] | Skeleton project template for raylib. Uses CMake. |
+| [RaylibStarterProjectXcode][588] | [braedenf][589] | Basic window implemented with raylib in XCode. |
+| [raystart][590] | [jacmoe][389] | Quick CMake based project template for exploratory graphics programming using raylib. |
+| [RaylibVSTemplate][591] | [JamieMair][592] | Template Visual Studio 2019 C++ project for the raylib library. |
+| [raylib-boilerplate][593] | [Yrds][594] | out-of-box environment to develop raylib games. |
+| [raylib_graphic_template][595] | [Qinbeans][596] | Template for future use and has working adjustable resolution. |
+| [tempraylib][597] | [CodingCor][598] | Simple C++ template to use raylib in Linux and Windows. |
+| [Raylib-Scons-boilerplate][599] | [MrOneTwo][467] | Boilerplate for raylib with Scons as build system. |
+| [raylib-meson-template][600] | [gilzoide][304] | Minimal template project for C/C++ applications using raylib built using Meson. |
+| [raylibMinimumVS][601] | [Ushio][129] | Simple C++ template for raylib for use with Visual Studio 2017. |
+| [raylib_template][602] | [janderkkotlarski][603] | C++ Simple raylib template that should works when raylib is correctly installed. |
+| [raylib-lsk][604] | [Lattay][605] | [Lattay][605]'s Starter Kit for raylib, small boiler plate for raylib projects. |
+| [vscode-raylib-base][606] | [charlesmartinreed][607] | Setup used by GamesFromScratch when he made tutorials for raylib. |
+| [RaylibCSharpStarter][608] | [AIESydProgYr12021][609] | raylib C# game starter kit. |
+| [RaylibStarterCPP][610] | [LodisAIE][611] | raylib C++ game starter kit. |
+| [Raylib-with-Flecs-Template][612] | [HeatXD][613] | Template for raylib with a custom flecs pipline for raylib. |
+| [parsec_raylib_template][614] | [underscorenygren][615] | Starter project for the parsec and raylib integration article series, Use this as a base from which to create your own games. |
+| [kotlin-native-raylib-starter][616] | [LeHaine][617] | Base projected configured to link, build, and run raylib with Kotlin Native. |
+| [Raylib-C-starterProj][618] | [JustinKatic][619] | Basic startup setup for raylib with a clear Start and Update function. |
+| [raylib-scaffold][620] | [waruqi][621] | Minimal raylib project template that uses XMake. |
+| [RayTemplateC][622] | [GoldenbergDaniel][623] | Template for the raylib library in C. |
+
+[556]: https://github.com/tducasse/raylib_starter
+[557]: https://github.com/tducasse
+[558]: https://github.com/daandruff/rbpi400raylib
+[559]: https://github.com/daandruff
+[560]: https://github.com/irskep/raylibtest
+[561]: https://github.com/irskep
+[562]: https://github.com/jamiltron/ray-starter
+[563]: https://github.com/jamiltron
+[564]: https://github.com/benweidig/raylib-template
+[565]: https://github.com/benweidig
+[566]: https://github.com/CapsCollective/raylib-cpp-starter
+[567]: https://github.com/CapsCollective
+[568]: https://gitlab.com/inque/simple_raylib_template
+[569]: https://gitlab.com/inque
+[570]: https://github.com/oswjk/raylib-imgui-template
+[571]: https://github.com/AIE-Seattle-Prog/raygame
+[572]: https://github.com/AIE-Seattle-Prog
+[573]: https://github.com/AIE-Seattle-Prog/raygamecsharp
+[574]: https://github.com/DaNiKhan-GbR/Dnkvw-Raylib-Minimal-Example
+[575]: https://github.com/krzosa/RaylibHotReloadTemplate
+[576]: https://github.com/krzosa
+[577]: https://github.com/WEREMSOFT/c99-raylib-template
+[578]: https://github.com/WEREMSOFT/c99-raylib-cimgui-template
+[579]: https://github.com/cimgui/cimgui
+[580]: https://github.com/WEREMSOFT/raylib-network-template
+[581]: https://github.com/SasLuca/raylib-cmake-template
+[582]: https://github.com/SasLuca/rayfork-sokol-template
+[583]: https://github.com/RaniSputnik/go-raylib-template
+[584]: https://github.com/RaniSputnik
+[585]: https://github.com/Hidden-Pixel/raylib-starter-kit
+[586]: https://github.com/Hidden-Pixel
+[587]: https://github.com/oswjk/rayskeleton
+[588]: https://github.com/braedenf/RaylibStarterProjectXcode
+[589]: https://github.com/braedenf
+[590]: https://github.com/jacmoe/raystart
+[591]: https://github.com/JamieMair/RaylibVSTemplate
+[592]: https://github.com/JamieMair
+[593]: https://github.com/Yrds/raylib-boilerplate
+[594]: https://github.com/Yrds
+[595]: https://github.com/Qinbeans/raylib_graphic_template
+[596]: https://github.com/Qinbeans
+[597]: https://github.com/CodingCor/tempraylib
+[598]: https://github.com/CodingCor
+[599]: https://github.com/MrOneTwo/Raylib-Scons-boilerplate
+[600]: https://github.com/gilzoide/raylib-meson-template
+[601]: https://github.com/Ushio/raylibMinimumVS
+[602]: https://github.com/janderkkotlarski/raylib_template
+[603]: https://github.com/janderkkotlarski
+[604]: https://github.com/Lattay/raylib-lsk
+[605]: https://github.com/Lattay
+[606]: https://github.com/charlesmartinreed/vscode-raylib-base
+[607]: https://github.com/charlesmartinreed
+[608]: https://github.com/AIESydProgYr12021/RaylibCSharpStarter
+[609]: https://github.com/AIESydProgYr12021
+[610]: https://github.com/LodisAIE/RaylibStarterCPP
+[611]: https://github.com/LodisAIE
+[612]: https://github.com/HeatXD/Raylib-with-Flecs-Template
+[613]: https://github.com/HeatXD
+[614]: https://github.com/underscorenygren/parsec_raylib_template
+[615]: https://github.com/underscorenygren
+[616]: https://github.com/LeHaine/kotlin-native-raylib-starter
+[617]: https://github.com/LeHaine
+[618]: https://github.com/JustinKatic/Raylib-C-starterProj
+[619]: https://github.com/JustinKatic
+[620]: https://github.com/waruqi/raylib-scaffold
+[621]: https://github.com/waruqi
+[622]: https://github.com/GoldenbergDaniel/RayTemplateC
+[623]: https://github.com/GoldenbergDaniel
 
 ### Articles
 
+- [Game Porting Adventures (by raysan5)](https://gist.github.com/raysan5/fdefbe1b8184e0fa80676156bb86964f)
 - [Joint Limits with raylib (by Daniel Holden)](https://theorangeduck.com/page/joint-limits)
 - [How to add hot reload when using raylib?](https://www.developing-stuff.com/how-to-add-hot-reload-when-using-raylib)
 - [How to add hot reload to your raylib project (in C) ?](https://medium.com/@TheElkantor/how-to-add-hot-reload-to-your-raylib-proj-in-c-698caa33eb74)
@@ -447,7 +1070,6 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 - [Learn X in Y minutes, Where X=raylib](https://learnxinyminutes.com/docs/raylib)
 - [Raylib 2.0 Tutorial Series by SkyVaultGames](https://www.youtube.com/playlist?list=PL5gRzHmN4Dg3ubcneVFkHPm0mTGYTUHDn)
 - [List of raylib tutorials by HE360](https://www.youtube.com/playlist?list=PLZBVMzyySalVhcWEJcnG-HK8OXQli_tcV)
-- [سلسلة تعلم برمجة الألعاب بسي شارب و جافا (Arabic, by Rabia Alhaffar)](https://www.youtube.com/playlist?list=PLZBVMzyySalXG0AdUHJj9rcpd0R7hBczR)
 - [How to create a game with 'raylib' in C](https://www.youtube.com/watch?v=kBky9_X8j3Y)
 - [How to get started with Raylib 3.0 in C# - Tutorial](https://www.youtube.com/watch?v=SoXD5y24WQw)
 - [Let's learn D programming Game Dev!](https://www.youtube.com/playlist?list=PLgM-lc_kSqFQPF0UXgmFZpZalqcrSofe-)
@@ -585,6 +1207,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 ![Difference between raylib 3.5 architecture and raylib 3.7 architecture](promos/banner57.png)
 
+- [raylib 4.0 architecture](https://twitter.com/hmans/status/1472571560544411653)
+
+![raylib 4.0 architecture](promos/banner61.png)
+
 - [raylib 5th anniversary](https://twitter.com/raysan5/status/1064139050704089089)
 
 ![raylib 5th anniversary](promos/banner8.jpg)
@@ -635,11 +1261,35 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 
 - [raylib parser](https://twitter.com/raysan5/status/1398948422913343488)
 
-![raylib 4.0](promos/banner60.png)
+![raylib parser](promos/raylib_parser_info.png)
 
 - [raylib 4.0](https://twitter.com/raysan5/status/1456359846920458240)
 
-![raylib parser](promos/raylib_parser_info.png)
+![raylib 4.0](promos/banner60.png)
+
+- [raylib 5k gamejam #1](https://twitter.com/raysan5/status/1481322244982906880)
+
+![raylib 5k gamejam](promos/banner62.jpg)
+
+- [raylib 5k gamejam #2](https://itch.io/jam/raylib-5k-gamejam)
+
+![raylib 5k gamejam](promos/banner63.png)
+
+- [raylib 5k gamejam - 1st Prize](https://itch.io/jam/raylib-5k-gamejam)
+
+![raylib 5k gamejam - 1st Prize](promos/banner65.png)
+
+- [raylib 5k gamejam - 2nd Prize](https://itch.io/jam/raylib-5k-gamejam)
+
+![raylib 5k gamejam - 2nd Prize](promos/banner66.png)
+
+- [raylib 5k gamejam - 3rd Prize](https://itch.io/jam/raylib-5k-gamejam)
+
+![raylib 5k gamejam - 3rd Prize](promos/banner67.png)
+
+- [raylib - Happy New Year!](https://twitter.com/raysan5/status/1477074126884020225)
+
+![raylib - Happy New Year!](promos/banner67.jpg)
 
 - [raylib receives an Epic MegaGrant](https://twitter.com/raysan5/status/1291690021221736450)
 
