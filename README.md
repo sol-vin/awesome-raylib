@@ -176,6 +176,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [rlzero][152] | [electronstudio][153] | Simplified API for raylib to enable beginners to create 3D games, Inspired by [Pygame Zero][154]. |
 | [haxeui-raylib][155] | [haxeui][156] | raylib backend for [HaxeUI][157]. |
 | [rlobj][158] | [Not-Nik][159] | drop-in replacement for raylib's obj loader. |
+| [Glui][624] | [Samerion][625] | Declarative D user interface library for raylib. |
 
 [51]: https://github.com/SasLuca/rayfork
 [52]: https://github.com/SasLuca
@@ -286,6 +287,10 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [157]: http://haxeui.org
 [158]: https://github.com/Not-Nik/rlobj
 [159]: https://github.com/Not-Nik
+[624]: https://git.samerion.com/Samerion/Glui
+[625]: https://git.samerion.com/Samerion
+
+CHECKPOINT
 
 ### Softwares
 
