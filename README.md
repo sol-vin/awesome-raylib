@@ -110,6 +110,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [orbisdev-orbisGl2][45] | [orbisdev][46] | Sony PlayStation 4    |
 | [raylib4Vita][47]       | [psp2dev][48]  | Sony PlayStation Vita |
 | [3ds-raylib][49]        | [Gota7][50]    | Nintendo 3DS          |
+| [raylib-nx][626]        | [LucaSkyer][627] | Nintendo Switch     |
 
 [45]: https://github.com/orbisdev/orbisdev-orbisGl2
 [46]: https://github.com/orbisdev
@@ -117,6 +118,8 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 [48]: https://github.com/psp2dev
 [49]: https://github.com/Gota7/3ds-raylib
 [50]: https://github.com/Gota7
+[626]: https://github.com/lucaskyer/raylib-nx
+[627]: https://github.com/lucaskyer
 
 ### Libraries and Frameworks
 
