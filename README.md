@@ -296,7 +296,7 @@ CHECKPOINT
 
 | Name       | Author     | Description                       |
 |------------|------------|-----------------------------------|
-| [gxarch][160] | [gtrxAC][161] | Simple fantasy computer architecture that uses raylib and [NodeJS][162]! |
+| [gxarch][160] | [gtrxAC][161] | Simple fantasy computer architecture that uses raylib! |
 | [3d-audio-producer][163] | [adct-the-experimenter][164] | Fork of the [adct-the-experimenter/binaural-audio-editor][165] that uses replaced with raygui and raylib. |
 | [chip8][166] | [Lockna][167] | Very basic [CHIP-8][168] emulator that uses raylib for rendering. |
 | [SkyBoy][169] | [skylersaleh][170] | Game Boy and Game Boy Color Emulator powered by raylib! |
@@ -378,7 +378,6 @@ CHECKPOINT
 
 [160]: https://github.com/gtrxAC/gxarch
 [161]: https://github.com/gtrxAC
-[162]: https://nodejs.org
 [163]: https://github.com/adct-the-experimenter/3d-audio-producer
 [164]: https://github.com/adct-the-experimenter
 [165]: https://github.com/adct-the-experimenter/binaural-audio-editor
