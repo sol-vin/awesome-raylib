@@ -136,6 +136,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [ECSlib][63] | [firststef][64] | Library with ECS classes in C++ using raylib. |
 | [tbag][65] | [osom8979][66] | Third party extension utility project. |
 | [imgui-impl-raylib][67] | [oswjk][68] | raylib backend for Dear ImGui. |
+| [rlImGui](https://github.com/raylib-extras/rlImGui) | [raylib-extras](https://github.com/raylib-extras) | [Dear ImGui](https://github.com/ocornut/imgui) immediate graphical user interface for raylib. |
 | [Libre][69] | [haydenhigg][70] | [Crystal][71] graphics library that is built on raylib. |
 | [GameSystemsInC][72] | [nezvers][73] | TileMap & Sprite systems for raylib. |
 | [raylib-asprite][74] | [RobLoach][75] | Load [Aseprite][76] files for animated sprites in raylib. |
