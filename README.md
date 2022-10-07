@@ -372,7 +372,6 @@ CHECKPOINT
 | [gargula][303] | [gilzoide][304] | Game engine based on nested structs and compile-time tree traversals powered by raylib and D compatible with better C. |
 | [randevlper][305] | [rayoflight][306] | 2D Engine implementing [Box2D][307] and raylib. |
 | [v2][308] | [notsnail][309] | Framework for games built with raylib. |
-| [ray-ubi][310] | [erikerlandson][311] | Minimalist raylib distributed computing container image, based on [Red Hat UBI][312]. |
 | [particle_editor][313] | [Demizdor][14] | Experimental particle editor! |
 | [rlwm][314] | [gtrxAC][160] | Fake operating system/window manager. |
 | [HellRok][315] | [Taylor][316] | Simple game engine built using raylib and [MRuby][317]. |
