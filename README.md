@@ -184,7 +184,7 @@ Curated list of awesome stuff for [raylib](https://raylib.com), Simple and easy-
 | [raylib-api](https://github.com/RobLoach/raylib-api) | [RobLoach](https://github.com/robloach) | Exports of the raylib APIs in different formats (XML, JSON, Lua, etc) |
 | [raylib-assert](https://github.com/RobLoach/raylib-assert) | [RobLoach](https://github.com/robloach) | Runtime assertion library for raylib |
 | [dk_console](https://github.com/dkvilo/dk_console) | [dkvilo](https://github.com/dkvilo) | Drop in dev console for your raylib game/engine |
-| [raylib-video](https://github.com/RicoP/raylib-video) | [RicoP](https://github.com/RicoP/raylib-video) | A multi-threaded realtime single header library to stream MPEG1 video to textures |
+| [raylib-video](https://github.com/RicoP/raylib-video) | [RicoP](https://github.com/RicoP/raylib-video) | A multi-threaded realtime single header library to stream MPEG1 videos to textures |
 
 [51]: https://github.com/SasLuca/rayfork
 [52]: https://github.com/SasLuca
