@@ -605,7 +605,6 @@ CHECKPOINT
 |-------------------------|-----------------|----------------------------|
 | [WaveEquationDemo][351] | [ProfJski][151] | intuitive approach to introducing the [Schrodinger][352] wave equation using a classical particle. |
 | [IndieStudio][353] | [antwxne][354] | [Epitech][355] 2nd year end year 3D graphical project in C++. |
-| [bezier][356] | [Armapillow][357] | Visualisation for Bézier curve using raylib. |
 | [raylib-instancing][358] | [ChrisDill][359] | Instanced rendering examples using raylib. |
 | [AIEYear1Samples][360] | [AcademyOfInteractiveEntertainment][361] | Sample and tutorial code for AIE's Diploma of Digital and Interactive Games. |
 | [raylibShadowmap][362] | [GoldenThumbs][363] | Shadowmapping with raylib! |
