@@ -349,7 +349,6 @@ CHECKPOINT
 | [rGuiLayout][241] | [raylib technologies][237] | Simple and easy-to-use raygui layouts editor. |
 | [rGuiIcons][242] | [raylib technologies][237] | Simple and easy-to-use raygui icons editor. |
 | [graphingcalculator][243] | [obaodelana][244] | Graphing Calculator made with raylib using C. |
-| [win-3d-maze][245] | [krsn53][246] | Windows 3D Maze Screensaver in C++ with raylib. |
 | [LevelEditor-MayaPlugin][247] | [MadeleinNyblom][248] | Level editor that sends information from [Maya][249] to raylib using a circular buffer. |
 | [khkFramework-raylib][250] | [kenhyokun][251] | Experimental C/C++ 2D game framework with raylib. |
 | [abyss_engine][252] | [HurricaneInteractive][253] | Very simple game engine written in [Rust][254] and built on top of [raylib-rs][255]. |
@@ -469,8 +468,6 @@ CHECKPOINT
 [242]: https://raylibtech.itch.io/rguiicons
 [243]: https://github.com/obaodelana/graphingcalculator
 [244]: https://github.com/obaodelana
-[245]: https://github.com/krsn53/win-3d-maze
-[246]: https://github.com/krsn53
 [247]: https://github.com/MadeleinNyblom/LevelEditor-MayaPlugin
 [248]: https://github.com/MadeleinNyblom
 [249]: https://www.autodesk.com/products/maya/overview
@@ -1173,7 +1170,6 @@ CHECKPOINT
 - [Procedural Island Gen and A* Pathfinding Demo](https://www.youtube.com/watch?v=vpzFoRA6Y3Q)
 - [Install RayLib in LazarusIDE](https://www.youtube.com/watch?v=lAFWOgDahtk)
 - [Raylib c'est bien !](https://www.youtube.com/watch?v=aaIBSuymo0Y) (French)
-- [Windows 3D Maze Screensaver in C++ with raylib](https://www.youtube.com/watch?v=HuyNTB689yQ)
 - [QIDV12 (03) - Ramón Santamaría nos presenta la nueva versión de su Raylib](https://www.youtube.com/watch?v=tKq9mpEBQFg) (Spanish)
 - [Borak Buat Game - Belajar Raylib](https://www.youtube.com/watch?v=tMPBdjP0dp8) (Malay)
 - [Belajar Raylib Part 2 - 3D Camera dan Simple Collision](https://www.youtube.com/watch?v=rMNVXFpAkg8) (Malay)
