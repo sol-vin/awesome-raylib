@@ -956,6 +956,7 @@ CHECKPOINT
 | [Raylib-C-starterProj][618] | [JustinKatic][619] | Basic startup setup for raylib with a clear Start and Update function. |
 | [raylib-scaffold][620] | [waruqi][621] | Minimal raylib project template that uses XMake. |
 | [RayTemplateC][622] | [GoldenbergDaniel][623] | Template for the raylib library in C. |
+| [Raylib Screensaver][628] | [RicoP][629] | Template for windows 3D screensavers made in raylib. |
 
 [556]: https://github.com/tducasse/raylib_starter
 [557]: https://github.com/tducasse
@@ -1025,6 +1026,8 @@ CHECKPOINT
 [621]: https://github.com/waruqi
 [622]: https://github.com/GoldenbergDaniel/RayTemplateC
 [623]: https://github.com/GoldenbergDaniel
+[628]: https://github.com/RicoP/raylib-screensaver
+[629]: https://github.com/RicoP/
 
 ### Articles
 
