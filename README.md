@@ -1463,7 +1463,7 @@ CHECKPOINT
 [![HDPLocust/raylib-luamore](logos/raylib-luamore.png)](https://github.com/HDPLocust/raylib-luamore "HDPLocust/raylib-luamore")
 [![Rabios/raylua](logos/raylua.png)](https://github.com/Rabios/raylua "Rabios/raylua")
 [![Andre-LA/raylib-nelua](logos/raylib-nelua.png)](https://github.com/Andre-LA/raylib-nelua "Andre-LA/raylib-nelua")
-[![AregevDev/raylib-cr](logos/raylib-cr.png)](https://github.com/AregevDev/raylib-cr "AregevDev/raylib-cr")
+[![sol-vin/raylib-cr](logos/raylib-cr.png)](https://github.com/sol-vin/raylib-cr "sol-vin/raylib-cr")
 [![drezgames/raylib-pascal](logos/raylib-pascal.png)](https://github.com/drezgames/raylib-pascal "drezgames/raylib-pascal")
 [![GuvaCode/Ray4Laz](logos/ray4laz.png)](https://github.com/GuvaCode/Ray4Laz "GuvaCode/Ray4Laz")
 [![overdev/raylib-py](logos/raylib-py.png)](https://github.com/overdev/raylib-py "overdev/raylib-py")
